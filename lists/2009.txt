@@ -1,0 +1,150 @@
+google/gsoc2009/abiword,AbiWord,,http://www.abisource.com/wiki/Google_Summer_of_Code_2009
+google/gsoc2009/ascend,ASCEND,,http://ascendwiki.cheme.cmu.edu/Student_Projects
+google/gsoc2009/gephi,Association Gephi,,http://gephi.org/forum/topic.php?id=408
+google/gsoc2009/atheme,Atheme.org,,http://www.atheme.org/wiki/atheme-project/SummerOfCodeIdeas
+google/gsoc2009/audacity,Audacity,,http://audacityteam.org/wiki/index.php?title=GSoC_Ideas
+google/gsoc2009/wesnoth,Battle for Wesnoth,,http://www.wesnoth.org/wiki/SummerOfCodeIdeas
+google/gsoc2009/berkman,Berkman Center at Harvard University,,http://cyber.law.harvard.edu/gsoc2009/Main_Page
+google/gsoc2009/blender,Blender Foundation,,http://wiki.blender.org/index.php/Dev:Ref/GSoC/2009/Ideas
+google/gsoc2009/bluez,BlueZ,,http://wiki.bluez.org/wiki/GSoC2009
+google/gsoc2009/boost,Boost C++ Libraries ,,https://svn.boost.org/trac/boost/wiki/soc2009
+google/gsoc2009/brlcad,BRL-CAD,,http://my.brlcad.org/wiki/Google_Summer_of_Code/2009/Project_Ideas
+google/gsoc2009/bzflag,BZFlag,,http://my.bzflag.org/w/Google_Summer_of_Code/2009#Proposal_Ideas
+google/gsoc2009/cscs,"Center for the Study of Complex Systems, Univ of Michigan",,http://www.cscs.umich.edu/~rlr/SoC/index.php?n=Main.Soc2009
+google/gsoc2009/chromium,Chromium,,http://docs.google.com/Edit?id=dhk32tn7_0g7kcr2cg
+google/gsoc2009/ccan,Comprehensive C Archive Network,,http://ccan.ozlabs.org/Wiki/GSOC2009
+google/gsoc2009/coresystems,coreboot,,http://www.coreboot.org/GSoC
+google/gsoc2009/cc,Creative Commons,,http://wiki.creativecommons.org/Developer_Challenges
+google/gsoc2009/crystalspace,Crystal Space,,http://trac.crystalspace3d.org/trac/CS/wiki/SoC
+google/gsoc2009/debian,Debian,,http://wiki.debian.org/SummerOfCode2009
+google/gsoc2009/django,Django Software Foundation,,http://code.djangoproject.com/wiki/SummerOfCode2009
+google/gsoc2009/dragonflybsd,DragonFly BSD,,http://www.dragonflybsd.org/gsoc2009/
+google/gsoc2009/drupal,Drupal,,http://groups.drupal.org/soc-2009
+google/gsoc2009/dspace,DSpace Foundation,,http://wiki.dspace.org/index.php/Summer_of_Code_Ideas
+google/gsoc2009/eclipse,Eclipse Foundation,,http://wiki.eclipse.org/Google_Summer_of_Code_2009_Ideas
+google/gsoc2009/esos,ES Operating System,,http://code.google.com/p/es-operating-system/wiki/GSoC2009
+google/gsoc2009/etherboot,Etherboot Project,,http://etherboot.org/wiki/soc/ideas
+google/gsoc2009/redhat,Fedora Project & JBoss.org (Red Hat),,http://groups.google.com/group/redhat-summer/web/project-ideas
+google/gsoc2009/ffmpeg,FFmpeg,,http://wiki.multimedia.cx/index.php?title=FFmpeg_Summer_Of_Code_2009
+google/gsoc2009/fiji,Fiji,,http://pacific.mpi-cbg.de/wiki/index.php/SoC2009Ideas
+google/gsoc2009/fsij,Free Software Initiative of Japan,,https://members.fsij.org/trac/soc2009/wiki/Ideas
+google/gsoc2009/ffopenwrt,Freifunk,,http://wiki.freifunk.net/Ideas
+google/gsoc2009/gcc,GCC,,http://gcc.gnu.org/wiki/SummerOfCode
+google/gsoc2009/geeklog,Geeklog,,http://wiki.geeklog.net/index.php/Google_Summer_of_Code
+google/gsoc2009/genmapp,GenMAPP,,http://genmapp.cgl.ucsf.edu/wiki/Google_Summer_of_Code_2009
+google/gsoc2009/gentoo,Gentoo,,http://en.gentoo-wiki.com/wiki/Google_Summer_of_Code_2009_ideas
+google/gsoc2009/git,Git Development Community,,http://git.or.cz/gitwiki/SoC2009Ideas
+google/gsoc2009/gnome,GNOME,,http://live.gnome.org/SummerOfCode2009/Ideas
+google/gsoc2009/gimp,GNU Image Manipulation Program,,http://wiki.gimp.org/gimp/SummerOfCode2009ideas
+google/gsoc2009/karlberry,GNU Project,,http://www.gnu.org/software/soc-projects/ideas.html
+google/gsoc2009/mejmeeks,Go OpenOffice,,http://www.freedesktop.org/wiki/Software/ooo-build/SummerOfCode/2009
+google/gsoc2009/google,Google's Open Source Programs Office,,http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#no_org
+google/gsoc2009/uraeus,GStreamer,,http://gstreamer.freedesktop.org/wiki/TaskList
+google/gsoc2009/hackystat,Hackystat,,http://code.google.com/p/hackystat/wiki/ResearchProjects
+google/gsoc2009/haiku,Haiku,,http://www.haiku-os.org/community/gsoc2009/ideas
+google/gsoc2009/haskell,haskell.org,,http://hackage.haskell.org/trac/summer-of-code/wiki/WikiStart
+google/gsoc2009/hugin,Hugin/Panotools,,http://wiki.panotools.org/SoC_2009_idea
+google/gsoc2009/sxc,Inkscape,,http://wiki.inkscape.org/wiki/index.php/Googles_Summer_Of_Code_2009
+google/gsoc2009/jato,Jato,,http://jatovm.sourceforge.net/ideas.html
+google/gsoc2009/joomla,Joomla!,,http://docs.joomla.org/Summer_of_Code_2009_Project_Ideas
+google/gsoc2009/kde,KDE,,http://techbase.kde.org/index.php?title=Projects/Summer_of_Code/2009/Ideas
+google/gsoc2009/jcleeland,LimeSurvey,,http://docs.limesurvey.org/tiki-index.php?page=LimeSurvey+2+Project+Ideas+for+GSOC+2009
+google/gsoc2009/llvm,LLVM Compiler Infrastructure,,http://llvm.org/OpenProjects.html
+google/gsoc2009/maemo,Maemo Community,,http://wiki.maemo.org/GSoC_2009
+google/gsoc2009/melange,Melange,,http://code.google.com/p/soc/wiki/GSoC2009Ideas
+google/gsoc2009/hg,Mercurial (a member of the Software Freedom Conservancy),,http://www.selenic.com/mercurial/wiki/index.cgi/SummerOfCode
+google/gsoc2009/musicbrainz,MetaBrainz Foundation,,http://wiki.musicbrainz.org/SummerOfCodeIdeas
+google/gsoc2009/mifos,Mifos,,http://mifos.org/developers/wiki/SoC2009Ideas
+google/gsoc2009/admin_minix3,MINIX 3,,http://www.minix3.org/soc-2009
+google/gsoc2009/moin,MoinMoin Wiki,,http://moinmo.in/GoogleSoc2009/InitialProjectIdeas
+google/gsoc2009/mono,Mono Project,,http://mono-project.com/StudentProjects
+google/gsoc2009/moodle,Moodle,,http://docs.moodle.org/en/Projects_for_new_developers
+google/gsoc2009/mozilla,Mozilla Project,,http://wiki.mozilla.org/Community:SummerOfCode09
+google/gsoc2009/ccharles,MySQL,,http://forge.mysql.com/wiki/SummerOfCode2009Ideas
+google/gsoc2009/ncsa,National Center for Supercomputing Applications,,https://wiki.ncsa.uiuc.edu/display/GSOC/Home
+google/gsoc2009/nativeclient,Native Client,,http://code.google.com/p/nativeclient/wiki/Ideas
+google/gsoc2009/nuigroup,Natural User Interface Group,,http://wiki.nuigroup.com/Google_Summer_of_Code_2009
+google/gsoc2009/nescent,NESCent - National Evolutionary Synthesis Center,,http://hackathon.nescent.org/Phyloinformatics_Summer_of_Code_2009
+google/gsoc2009/netsurf,NetSurf,,http://www.netsurf-browser.org/developers/gsoc/2009ideas
+google/gsoc2009/nmap,Nmap Security Scanner,,http://nmap.org/soc/
+google/gsoc2009/ntp,NTP Project,,http://support.ntp.org/bin/view/Dev/GoogleSummerOfCode
+google/gsoc2009/oar,OAR,,http://wiki-oar.imag.fr/index.php/Google_summer_of_code
+google/gsoc2009/sjstreeting,OGRE,,http://www.ogre3d.org/wiki/index.php/HelpRequested
+google/gsoc2009/omii_uk,OMII-UK,,http://www.omii.ac.uk/wiki/GoogleSummerOfCode#section-GoogleSummerOfCode-2009ProjectIdeas
+google/gsoc2009/open64,Open64,,http://www.open64.net/events/gsoc09.html
+google/gsoc2009/openafs,OpenAFS,,http://www.openafs.org/gsoc.html
+google/gsoc2009/openchange,OpenChange (a project of the Free Software Conservancy),,http://www.openchange.org/index.php?option=com_content&task=view&id=132&Itemid=91
+google/gsoc2009/opencog,OpenCog sponsored by the Singularity Institute for Artificial Intelligence,,http://opencog.org/wiki/Ideas
+google/gsoc2009/oydev,OpenICC,,http://www.freedesktop.org/wiki/OpenIcc/GoogleSoC2009
+google/gsoc2009/larrygritz,OpenImageIO,,http://wiki.openimageio.org/wiki/SOC_Idea_Page
+google/gsoc2009/openmrs,OpenMRS,,http://soc2009.openmrs.org/
+google/gsoc2009/openssh,OpenSSH,,http://www.openssh.com/gsoc.html
+google/gsoc2009/openstreetmap,OpenStreetMap,,http://wiki.openstreetmap.org/wiki/GSoC_Applications_2009
+google/gsoc2009/opensuse,openSUSE Project,,http://en.opensuse.org/Summer_of_Code_2009#Ideas
+google/gsoc2009/osuosl,Oregon State University Open Source Lab,,https://dokuwiki.osuosl.org/soc/ideas2009
+google/gsoc2009/osgeo,OSGeo - Open Source Geospatial Foundation ,,http://wiki.osgeo.org/wiki/Google_Summer_of_Code_2009_Ideas
+google/gsoc2009/pardus,Pardus,,http://en.pardus-wiki.org/SummerOfCode2009Ideas
+google/gsoc2009/php,PHP,,http://wiki.php.net/gsoc/2009
+google/gsoc2009/pidgin,"Pidgin, Finch and libpurple",,http://developer.pidgin.im/wiki/FutureSOCProjects
+google/gsoc2009/pkiframework,PKIF project,,http://pkif.sourceforge.net/ideas.html
+google/gsoc2009/plan9,Plan 9 from Bell Labs,,http://gsoc.cat-v.org/ideas/
+google/gsoc2009/plone,Plone Foundation,,http://socghop.appspot.com/document/show/org/google/gsoc2009/plone/ideas
+google/gsoc2009/portland_state,Portland State University,,http://summer.cs.pdx.edu/ideas
+google/gsoc2009/ptolemy,"Ptolemy Project, University of California, Berkeley",,http://chess.eecs.berkeley.edu/gsoc/wiki/Main/HomePage
+google/gsoc2009/python,Python Software Foundation,,http://wiki.python.org/moin/SummerOfCode/2009
+google/gsoc2009/rf,R Foundation for Statistical Computing,,http://www.r-project.org/soc09
+google/gsoc2009/reviewboard,Review Board,,http://www.review-board.org/wiki/Summer_of_Code_Ideas
+google/gsoc2009/rockbox,Rockbox,,http://www.rockbox.org/twiki/bin/view/Main/SummerOfCode2009
+google/gsoc2009/rtems,RTEMS Project,,http://rtems.org/wiki/index.php/Open_Projects
+google/gsoc2009/rails,Ruby on Rails,,http://wiki.rubyonrails.org/gsoc/2009/ideas
+google/gsoc2009/sahana,Sahana,,http://wiki.sahana.lk/doku.php?do=show&id=dev:sahana_gsoc09_ideas
+google/gsoc2009/sakai,Sakai Foundation,,http://bugs.sakaiproject.org/confluence/display/MGT/Google+Summer+of+Code+2009+ideas+list
+google/gsoc2009/samba,Samba,,http://wiki.samba.org/index.php/SoC/Ideas
+google/gsoc2009/scilab,Scilab/Digiteo Foundation,,http://wiki.scilab.org/Ideas_of_development_for_Scilab
+google/gsoc2009/scons,SCons next-generation build system,,http://scons.org/wiki/GSoC2009
+google/gsoc2009/scribus_team,Scribus Team,,http://wiki.scribus.net/index.php/GSoC_2009_Ideas
+google/gsoc2009/scummvm,ScummVM,,http://wiki.scummvm.org/index.php/OpenTasks
+google/gsoc2009/sharpdevelop,SharpDevelop,,http://wiki.sharpdevelop.net/gsoc.ashx
+google/gsoc2009/sdl,Simple DirectMedia Layer,,http://www.libsdl.org/gsoc-ideas.php
+google/gsoc2009/sipcomm,SIP Communicator,,http://sip-communicator.org/gsoc
+google/gsoc2009/svn,Subversion,,http://subversion.tigris.org/tasks.html#summer-of-code
+google/gsoc2009/sugarlabs,Sugar Labs educational platform (a member of the SFC),,http://wiki.sugarlabs.org/go/DevelopmentTeam/ProjectIdeas
+google/gsoc2009/sunlight,Sunlight Foundation,,http://wiki.sunlightlabs.com/index.php/GSOC_2009
+google/gsoc2009/swig,SWIG,,http://code.google.com/p/swig-gsoc/wiki/ProjectIdeas
+google/gsoc2009/systers,Systers: Women in Computing,,http://systers.org/systers-dev/doku.php/systers_google_summer_of_code
+google/gsoc2009/tcltk,Tcl Community Association,,http://wiki.tcl.tk/22182
+google/gsoc2009/asf,The Apache Software Foundation,,http://wiki.apache.org/general/SummerOfCode2009
+google/gsoc2009/apertium,The Apertium Project,,http://wiki.apertium.org/wiki/Ideas_for_Google_Summer_of_Code
+google/gsoc2009/aqsis1,The Aqsis Team,,http://wiki.aqsis.org/dev/soc_2009
+google/gsoc2009/asterisk,The Asterisk Project,,http://svn.digium.com/svn/asterisk/team/group/gsoc-2009/ideas.txt
+google/gsoc2009/codehaus,The Codehaus,,http://docs.codehaus.org/display/GSOC/Ideas
+google/gsoc2009/eff,The Electronic Frontier Foundation/The Tor Project,,https://www.torproject.org/gsoc#Ideas
+google/gsoc2009/enlightenment,The Enlightenment Project,,http://trac.enlightenment.org/e/wiki/GSoC_2009_Project_Ideas
+google/gsoc2009/freebsd,The FreeBSD Project,,http://www.freebsd.org/projects/summerofcode.html
+google/gsoc2009/freenet,The Freenet Project,,http://wiki.freenetproject.org/SummerOfCode2009
+google/gsoc2009/globus,The Globus Alliance,,http://dev.globus.org/wiki/Google_Summer_of_Code_2009_Ideas
+google/gsoc2009/honeynet,The Honeynet Project,,http://www.honeynet.org/gsoc
+google/gsoc2009/linux_foundation,The Linux Foundation,,https://www.linux-foundation.org/en/Google_Summer_of_Code_2009
+google/gsoc2009/macports,The MacPorts Project,,http://trac.macports.org/wiki/SummerOfCode
+google/gsoc2009/netbsd,The NetBSD Project,,http://www.netbsd.org/contrib/soc-projects.html
+google/gsoc2009/ns3,The ns-3 Network Simulator Project,,http://www.nsnam.org/wiki/index.php/GSOC2009Projects
+google/gsoc2009/dukeleto,The Perl Foundation,,http://www.perlfoundation.org/perl5/index.cgi?gsoc_2009_projects
+google/gsoc2009/syslinux,The Syslinux Project,,http://syslinux.zytor.com/wiki/index.php/Google_Summer_of_Code_Ideas/2009
+google/gsoc2009/wine,The Wine Project,,http://wiki.winehq.org/SummerOfCode
+google/gsoc2009/thousandparsec,Thousand Parsec,,http://www.thousandparsec.net/wiki/Ideas_for_Programmers
+google/gsoc2009/tikiwiki,TikiWiki CMS/Groupware,,http://dev.tikiwiki.org/GSOC+Ideas+2009
+google/gsoc2009/turbogears,TurboGears,,http://docs.turbogears.org/GSoC/Ideas2009
+google/gsoc2009/tux4kids,Tux4Kids,,http://socghop.appspot.com/document/show/user/david_bruce/tux4kids
+google/gsoc2009/typo3,TYPO3 Association,,http://typo3.org/development/gsoc2009/ideas/
+google/gsoc2009/umit,Umit Project,,http://www.umitproject.org/ideas
+google/gsoc2009/videolan,VideoLAN,,http://wiki.videolan.org/SoC_2009
+google/gsoc2009/wikimedia,Wikimedia Foundation,,http://www.mediawiki.org/wiki/Summer_of_Code_2009
+google/gsoc2009/winlibre,WinLibre,,http://www.winlibre.com/wiki/doku.php?id=winlibre_soc_2009:proposals_for_the_google_summer_of_code_program_2009
+google/gsoc2009/wordpress,WordPress,,http://codex.wordpress.org/GSoC2009
+google/gsoc2009/worldforge,WorldForge,,http://wiki.worldforge.org/wiki/Summer_of_Code
+google/gsoc2009/wx,wxWidgets,,http://wiki.wxwidgets.org/Development:_Student_Projects
+google/gsoc2009/xorg,X.Org,,http://xorg.freedesktop.org/wiki/SummerOfCodeIdeas
+google/gsoc2009/xelerance,Xelerance Corporation,,http://www.xelerance.com/GSoC2009/
+google/gsoc2009/xiph,Xiph.Org Foundation,,http://wiki.xiph.org/index.php/Summer_of_Code_2009
+google/gsoc2009/xmms2,XMMS2,,http://wiki.xmms2.xmms.se/wiki/Summer_of_Code_2009/Proposed_projects
+google/gsoc2009/xwiki,XWiki,,http://dev.xwiki.org/xwiki/bin/GoogleSummerOfCode/

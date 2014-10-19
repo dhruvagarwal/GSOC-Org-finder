@@ -1,0 +1,153 @@
+google/gsoc2010/abiword,AbiWord,,http://www.abisource.com/wiki/Google_Summer_of_Code_2010#Project_Ideas
+google/gsoc2010/apache,Apache Software Foundation,,http://tinyurl.com/asf-gsoc
+google/gsoc2010/apertium,Apertium,"localization, machine_translation, language_technology, localisation, natural_language_processing, human_language_technology, language_translation, computational_linguistics",http://wiki.apertium.org/wiki/Ideas_for_Google_Summer_of_Code
+google/gsoc2010/ascend,ASCEND,"c, numerical, scientific, python, science, gtk, c++, engineering, mathematics, programming_languages, education",http://ascendwiki.cheme.cmu.edu/Student_projects
+google/gsoc2010/wesnoth,Battle for Wesnoth,"boost-asio, ai_development, game_development, c++, lua, game, eclipse-plugin, sdl, user_interface_design",http://wiki.wesnoth.org/SummerOfCodeIdeas
+google/gsoc2010/beagleboard,BeagleBoard.org,"kernel, computer_graphics, robotics, 3d_user_interface, linux_kernel, arm, low-level, server_side_javascript, helma, human_computer_interaction, html, mobile_devices, android, erlang, css, build_systems, bootloaders, programming_languages, c, algorithm, embedded, grid_computing, real_time",http://tinyurl.com/bbgsoc
+google/gsoc2010/berkman,Berkman Center at Harvard University,,http://cyber.law.harvard.edu/gsoc/Main_Page
+google/gsoc2010/bigbluebutton_soc,BigBlueButton,"flex, scala, flash, asterisk, cloud-computing, scalability, bigbluebutton, design, html5, linux, video, android, audio, virtualization",http://code.google.com/p/bigbluebutton/wiki/IdeasPage
+google/gsoc2010/blender,Blender Foundation,"c, computer_graphics, ai, game_development, physics_simulation, texturing, particles, rendering, animation, games, video_editing, compositing, modeling, digital_sculpting, 3d, painting, artificial_intelligence, sculpting, blender",http://wiki.blender.org/index.php/Dev:Ref/GSoC/2010/Ideas
+google/gsoc2010/bluez,BlueZ,"dbus, bluetooth",http://hostisdown.org/gsoc/2010
+google/gsoc2010/boost,Boost C++ Libraries,"stl, generic_programming, boost, generic_libraries, c++",https://svn.boost.org/trac/boost/wiki/SoC2010
+google/gsoc2010/cgal,CGAL - Computational Geometry Algorithms Library,"computational_geometry, computer_graphics, generic_programming, c++, geometric_computing",http://www.cgal.org/project_ideas.html
+google/gsoc2010/chromium,Chromium,"web, objective_c, chromium-os, accessibility, c++, ajax, browsers, extensions, html5, webkit, html",http://code.google.com/p/chromium/wiki/GoogleSummerOfCode2010
+google/gsoc2010/chromiumos,Chromium OS,"web2.0, cloud-computing, operating-system, ajax, browsers, extensions, html5, offline, chromium, appengine, netbook",http://code.google.com/p/chromium-os/wiki/GoogleSummerOfCode2010
+google/gsoc2010/coreboot,coreboot,"firmware, x86, linuxbios, assembler, bios, uefi, lowlevel",http://www.coreboot.org/GSoC
+google/gsoc2010/creativecommons,Creative Commons,,http://wiki.creativecommons.org/Developer_Challenges
+google/gsoc2010/crystalspace,Crystal Space,"game_development, 3d_engine",http://crystalspace3d.org/trac/CS/wiki/SoC%20Ideas
+google/gsoc2010/debian,Debian Project,"c, java, python, shell_scripting, c++, perl, operating-system, linux, distributions",http://wiki.debian.org/SummerOfCode2010/Applying
+google/gsoc2010/django,Django Software Foundation,"web, python, html, web_technologies, orm, sql, appengine, web_development",http://code.djangoproject.com/wiki/SummerOfCode2010
+google/gsoc2010/docbook,DocBook Project,"xml, documentation, docbook, xslt",http://bit.ly/dbideas
+google/gsoc2010/dojo,Dojo Foundation ,"commonjs, dijit, server_side_javascript, widget, a11y, dojo_foundation, dojotoolkit, accessibility, js, automation, internationalization, ajax, browsers, ecmascript, javascript, i18n, dojo, dojox, ssjs, mobile_devices",http://ktiedt.dojotoolkit.org/gsoc/2010/ideas.html
+google/gsoc2010/dragonfly,DragonFly BSD,"bsd, dragonfly, c, operating-system",http://www.dragonflybsd.org/docs/developer/gsoc2010/
+google/gsoc2010/dreamwidth,Dreamwidth Studios,"social_networking, social_media",http://wiki.dwscoalition.org/notes/Summer_of_code
+google/gsoc2010/drizzle,Drizzle,"database_development, c++, database",http://drizzle.org/wiki/Soc
+google/gsoc2010/drupal,Drupal,,http://drupal.org/node/740326
+google/gsoc2010/duraspace,DuraSpace,"xml, java, postgres, dspace, ajax, jsp, cocoon, web_development, digital_repository, postgesql",https://wiki.duraspace.org/display/GSOC/
+google/gsoc2010/etherboot,Etherboot Project,"c, network, embedded, web-interface, drivers, boot, tcp, low-level, ipv6, php, asm, x86",http://etherboot.org/wiki/soc/ideas
+google/gsoc2010/esug,European Smalltalk User Group (ESUG),"web, education, package_management, ffi, programming_languages, ide, web_development, smalltalk, compilers",http://gsoc2010.esug.org/projects
+google/gsoc2010/advancedconceptsteam,"European Space Agency, The Advanced Concepts Team","optimization, parallel_computing, interplanetary_trajectories, operation_research",http://sourceforge.net/apps/mediawiki/pagmo/index.php?title=Gsoc2010
+google/gsoc2010/expertlabs,Expert Labs,"twitter, smarty, pubsubhubbub, ajax, facebook, oauth, php",http://wiki.github.com/ginatrapani/thinktank/google-summer-of-code-ideas-page
+google/gsoc2010/facebook,Facebook,"python, web2.0, social_networking, php, c++",http://wiki.developers.facebook.com/index.php/User:GSoC#GSoC_2010_Ideas
+google/gsoc2010/ffmpeg,FFmpeg,"audio, video, multimedia, codecs",http://wiki.multimedia.cx/index.php?title=FFmpeg_Summer_Of_Code_2010
+google/gsoc2010/freedroid,FreedroidRPG,"c, ai_development, graphical_user_interfaces, opengl, game_development, lua, game, rpg, sdl, 3d",http://freedroid.sourceforge.net/pmwiki/pmwiki.php/ToDo/OpenJobs
+google/gsoc2010/freenet,Freenet Project Inc,"networking, java, network, cryptography, privacy, distributed-systems, darknet, storage, peer-to-peer, friend-to-friend, free-speech, social_networking, free_speech, censorship, freedom, anonymity, security, dht, web-interface, small_world",http://new-wiki.freenetproject.org/Google_Summer_of_Code/2010
+google/gsoc2010/freifunk,Freifunk,"routing, network, freewireless, babel, linux, routeros, routingprotocols, wireless, opennetworks, disaster_management, mesh, openwrt, batman, olsr, disaster_communication, freifunk, horsttool, meshing, networktools",http://wiki.freifunk.net/Ideas
+google/gsoc2010/gcc,"GCC, the GNU Compiler Collection","gcc, compiler",http://gcc.gnu.org/wiki/SummerOfCode
+google/gsoc2010/geeklog,Geeklog,"postgres, weblogs, mysql, php, content_management_system, mssql, web_development",http://wiki.geeklog.net/index.php/Google_Summer_of_Code
+google/gsoc2010/genmapp,"GenMAPP, Cytoscape, WikiPathways & Reactome","wiki, xml, java, python, science, bioinformatics, perl, mysql, data_visualisation, php, graph_networks, research",http://genmapp.cgl.ucsf.edu/wiki/Google_Summer_of_Code_2010
+google/gsoc2010/gentoo,Gentoo Foundation,"xml, web, c, java, qt, xslt, python, ruby, gtk, c++, shell_scripting, operating-system, web-interface, linux, bsd, php, distributions, bash, web_development",http://en.gentoo-wiki.com/wiki/Google_Summer_of_Code_2010_ideas
+google/gsoc2010/gephi,Gephi NGO,"infovis, java, network, opengl, graph, analytics, complexity, visualization, science",http://wiki.gephi.org/index.php/Google_Summer_Of_Code_2010
+google/gsoc2010/git,Git,"windows, c, unix, version_control_systems, tcl",https://git.wiki.kernel.org/index.php/SoC2010Ideas
+google/gsoc2010/gnome,GNOME,,http://live.gnome.org/SummerOfCode2010/Ideas
+google/gsoc2010/gimp,GNU Image Manipulation Program - GIMP,"graphics_editor, computer_graphics, graphical_user_interfaces, gtk, c, gegl, image_processing",http://docs.google.com/View?id=dfbrn6hs_12c7h97fdc
+google/gsoc2010/go_oo,Go OpenOffice,"office_applications, c++",http://www.freedesktop.org/wiki/Software/ooo-build/SummerOfCode/2010
+google/gsoc2010/google_caja,Google Caja,"java, javascript, javascript_ajax, capabilities, mashups, ecmascript, programming_languages, compiler, security, compilers",http://code.google.com/p/google-caja/wiki/ProjectIdeas
+google/gsoc2010/google,Google Open Source Programs Office,"gsoc, google",
+google/gsoc2010/mifos,Grameen Foundation,"microfinance, hibernate, java, tomcat, grails, mysql",http://www.mifos.org/developers/wiki/SoC2010Ideas
+google/gsoc2010/gst,GStreamer,"multimedia, rtsp, dlna, streaming, video_editing, codecs, audio",http://gstreamer.freedesktop.org/wiki/SocProjects
+google/gsoc2010/haiku,Haiku,"kernel, c, wifi, beos, python, swig, haiku, c++, perl, posix, ipv6, webkit, operating_systems, file_systems",http://www.haiku-os.org/community/gsoc/2010/ideas
+google/gsoc2010/haskell,haskell.org,"lazy, programming, functional, language",http://hackage.haskell.org/trac/summer-of-code/report/1
+google/gsoc2010/hugin,Hugin and panotools,,http://wiki.panotools.org/SoC_2010_ideas
+google/gsoc2010/idi_atrc,Inclusive Design Institute,"java, accessibility, javascript_ajax, social_networking, elearning, mobile_devices, php",http://wiki.atutor.ca/display/atutorwiki/Google+Summer+of+Code+2010
+google/gsoc2010/inkscape,Inkscape,,http://wiki.inkscape.org/wiki/index.php/Google_Summer_Of_Code
+google/gsoc2010/geogebra,International GeoGebra Institute,"php, java, algebra, cas, geometry, mathematics, education, 3d",http://www.geogebra.org/trac/wiki/Gsoc2010
+google/gsoc2010/jikesrvm,Jikes RVM,"runtime_systems, garbage_collection, language_technology, java_virtual_machine, compilers",http://jikesrvm.org/Project+Proposals+2010
+google/gsoc2010/kde,KDE,"multimedia, qt, python, freedesktop, javascript, office_applications, c++, desktop_systems, qml, mobile_devices, x11, education",http://community.kde.org/GSoC/2010/Ideas
+google/gsoc2010/kernelorg,Kernel.org - the Linux Kernel Organization,"c, statistics, gpxe, network, mirrors, distributed-systems, iscsi, c++, perl, static_analysis, syslinux, nfs, mirroring, sparse, php, distributions",http://korg.wiki.kernel.org/index.php/Gsoc2010:ideas
+google/gsoc2010/limesurvey,LimeSurvey,"web, surveys, php",http://docs.limesurvey.org/LimeSurvey+2+Project+Ideas+for+GSOC+2010&structure=LimeSurvey+Development
+google/gsoc2010/llvm,LLVM Compiler Infrastructure,"llvm, clang, compilers",http://llvm.org/OpenProjects.html
+google/gsoc2010/lxde,LXDE Project,"desktopenvironment, faster, gtk, pcmanfm, c++, desktop, lxde, lightweight, energysaving, spins, qt",http://wiki.lxde.org/en/Google_Summer_of_Code_2010
+google/gsoc2010/maemo,Maemo Community,"gstreamer, qt, embedded, opengl, python, gtk, c++, bluetooth, ui, telepathy, mobile_devices",http://wiki.maemo.org/GSoC_2010/Project_ideas
+google/gsoc2010/mapnik,Mapnik,"gis, python, cairo, c++, geospatial, boost",http://trac.mapnik.org/wiki/GSOC2010
+google/gsoc2010/mbleol,Marine Biological Laboratory Biodiversity Informatics Group-Encyclopedia of Life Project,"visualization, biology, science, semantic-web, rails, api, bioinformatics, informatics, ruby, semantics",http://wiki.eol.org/pages/viewpage.action?pageId=4457203
+google/gsoc2010/melange,Melange,"gsoc, python, javascript, appengine, django",http://code.google.com/p/soc/wiki/GSoC2010Ideas
+google/gsoc2010/hg,Mercurial Distributed Version Control System,"python, distributed-systems, version_control_systems",http://mercurial.selenic.com/wiki/SummerOfCode
+google/gsoc2010/metabrainz,MetaBrainz Foundation Inc.,"web, community, music, mp3, audio, tagging, metadata",http://wiki.musicbrainz.org/Summer_Of_Code_Ideas
+google/gsoc2010/admin_minix3,MINIX 3 Group at the VU,"microkernel, networking, bsd-libc, drivers, minix3, firewall, minix, grub-2, operating-system",http://www.minix3.org/soc/
+google/gsoc2010/mixxx,Mixxx Digital DJ,"dj, qt, opengl, multimedia, creative, music, real_time, audio",http://mixxx.org/wiki/doku.php/gsoc2010ideas
+google/gsoc2010/moin,MoinMoin Wiki,"wiki, web, wsgi, python, javascript, html, moin, css",http://moinmo.in/GoogleSoc2010/InitialProjectIdeas
+google/gsoc2010/mozilla,Mozilla,"web, seamonkey, firefox, mozilla, thunderbird, camino, bugzilla, internet, email, browser",https://wiki.mozilla.org/Community:SummerOfCode10
+google/gsoc2010/nuigroup,Natural User Interface Group (NUI Group),"computer_graphics, graphical_user_interfaces, python, c++, multitouch, nui, user_interface_design",http://wiki.nuigroup.com/Google_Summer_of_Code_2010
+google/gsoc2010/nescent,NESCent - National Evolutionary Synthesis Center,"visualization, java, python, phylogenetics, perl, animation, bioinformatics, phyloinformatics, ruby",http://hackathon.nescent.org/Phyloinformatics_Summer_of_Code_2010
+google/gsoc2010/nmap,Nmap Security Scanner,"c, macosx, networking, graphical_user_interfaces, nmap, web-interface, ipv6, cloud-computing, c++, lua, windows, linux, mobile_devices, security",http://nmap.org/soc/
+google/gsoc2010/oar,OAR,"postgresql, grid-cloudcomputing, javascript, high-performance-computing, perl, cluster, mysql, restful-web-services, ruby",http://wiki-oar.imag.fr/index.php/GSOC_2010_Proposals
+google/gsoc2010/omii_uk,OMII-UK,,http://www.omii.ac.uk/wiki/GoogleSummerOfCode#section-GoogleSummerOfCode-2010ProjectIdeas
+google/gsoc2010/obf,Open Bioinformatics Foundation,"biology, java, python, perl, perl5, bioinformatics, ruby",http://open-bio.org/wiki/Google_Summer_of_Code
+google/gsoc2010/opencv,Open Source Computer Vision Library,"object, processing, vision, learning",http://opencv.willowgarage.com/wiki/GSOC_OpenCV2010
+google/gsoc2010/openafs,OpenAFS,"kernel, c, openafs, java, network, windows, distributed-systems, replication, posix, filesystem, linux_kernel",http://www.openafs.org/gsoc.html
+google/gsoc2010/opendap_code,"OPeNDAP, Inc.","c, web-interface, javascript, javascript_ajax, c++, matlab, browser",http://docs.opendap.org/index.php/Google_Summer_of_Code_2010_Ideas
+google/gsoc2010/openicc,OpenICC,"c, fltk, opengl, freedesktop, gtk, desktop_systems, printing, x11, color_management_system, device_handling, qt, image_processing",http://freedesktop.org/wiki/OpenIcc/GoogleSoC2010
+google/gsoc2010/openimageio,OpenImageIO,"computer_graphics, python, texturing, c++, color_management, image_processing",http://openimageio.org/wiki/index.php?title=SOC_Idea_Page
+google/gsoc2010/oi,OpenInkpot project,"distributions, embedded, e-paper",http://openinkpot.org/wiki/GSoC/Ideas
+google/gsoc2010/openmrs,OpenMRS,"jira, medical_records, spring, africa, hospitals, xml, openmrs, ehr, jetpack, flash, python, health, hibernate, clinics, emr, statistics, poverty, global_health, phr, ict4d, trac, tomcat, java, mhealth, mrs, ehealth, healthcare",http://soc2010.openmrs.org/
+google/gsoc2010/opennebula,OpenNebula,"xen, kvm, cloud-computing, c++, virtualization, virtual-machine, ruby",http://dev.opennebula.org/projects/1/wiki/StudentProjectIdeas
+google/gsoc2010/osm,OpenStreetMap,"maps, geo_mapping, routing, geospatial, gps",http://wiki.openstreetmap.org/wiki/GSoC_Project_Ideas_2010
+google/gsoc2010/opticks,Opticks,"visualization, gis, qt, python, science, c++, idl, scientific, remote_sensing, image_processing",http://opticks.org/confluence/display/opticksDev/Google+Summer+of+Code
+google/gsoc2010/osuosl,Oregon State University Open Source Lab,,https://dokuwiki.osuosl.org/soc/ideas2010
+google/gsoc2010/osgeo,OSGeo - Open Source Geospatial Foundation,"c, geospatial, gis, live-disc, algorithm, c#, javascript, c++, ajax, geo_mapping, 3d_user_interface, java, php, graph_networks, mssql, postgres",http://wiki.osgeo.org/wiki/Google_Summer_of_Code_2010_Ideas
+google/gsoc2010/pardus,Pardus,"kernel, c, qt, python, javascript, c++, operating-system, linux, distribution, os",http://en.pardus-wiki.org/SummerOfCode2010Ideas
+google/gsoc2010/pma,phpMyAdmin,"phpmyadmin, php, web-interface, mysql",http://wiki.phpmyadmin.net/pma/GSoC_2010_Ideas_List
+google/gsoc2010/pidgin,"Pidgin, Finch and libpurple",,http://developer.pidgin.im/wiki/FutureSOCProjects
+google/gsoc2010/plan9,Plan 9 from Bell Labs,"virtual-machine, c, operating_systems, arm, limbo",http://www.plan9.bell-labs.com/wiki/plan9/gsoc-2010/index.html
+google/gsoc2010/plone,Plone Foundation,"python, web, cms",http://socghop.appspot.com/document/show/gsoc_org/google/gsoc2010/plone/ideas
+google/gsoc2010/plseatuw,PLSE at UW,,http://types.cs.washington.edu/gsoc-ideas-2010.html
+google/gsoc2010/psu_home,Portland State University,,http://summer.cs.pdx.edu/ideas
+google/gsoc2010/postgresql,PostgreSQL,"c, postgresql, postgres, database, pgadmin, phppgadmin, database_development, sql",http://www.postgresql.org/developer/summerofcode
+google/gsoc2010/princetoncitp,Princeton Center for Information Technology Policy,,http://sites.google.com/site/citpgsoc/
+google/gsoc2010/reductivelabs,Puppet (Reductive Labs),,http://projects.reductivelabs.com/projects/gsoc/wiki
+google/gsoc2010/python,Python Software Foundation,,http://wiki.python.org/moin/SummerOfCode/2010
+google/gsoc2010/qemu,QEMU development team,"operating_systems, virtual_machine_introspection",http://wiki.qemu.org/Google_Summer_of_Code_2010
+google/gsoc2010/r_project,R Project for Statistical Computing,,http://rwiki.sciviews.org/doku.php?id=developers:projects:gsoc2010
+google/gsoc2010/reviewboard,Review Board,"web2.0, web, development_tools, python, code_review, django",http://code.google.com/p/reviewboard/wiki/Summer_of_Code_Ideas
+google/gsoc2010/rockbox,Rockbox,"c, multimedia, embedded, firmware, operating_systems, music, mobile_devices, android, audio, asm",http://www.rockbox.org/wiki/SummerOfCode2010
+google/gsoc2010/rtems,RTEMS Project,"c, computer_graphics, python, posix, ada, real_time, operating_systems",http://www.rtems.com/wiki/index.php/Open_Projects
+google/gsoc2010/sahanafoundation,Sahana Software Foundation,"jquery, python, javascript, standards, android, php, j2me",http://wiki.sahanafoundation.org/doku.php/foundation:sahana_gsoc10
+google/gsoc2010/sakai,Sakai Foundation,"jquery, lms, sling, jcr, jms, felix, vle, fluid, linux, sakai, rest, jackrabbit, osgi, education, digital_repository",http://confluence.sakaiproject.org/display/MGT/Google+Summer+of+Code+2010+ideas+list
+google/gsoc2010/samba,Samba,"c, networking",http://wiki.samba.org/index.php/SoC/Ideas
+google/gsoc2010/scilab,Scilab Consortium/Digiteo Foundation,"control, java, data_visualisation, scientific, computing, science, numerical, xcos, c++, simulation, scicos, modelica, computer_graphics, programming_languages, education, optimisation, scilab, 3d",http://wiki.scilab.org/Ideas_of_development_for_Scilab
+google/gsoc2010/scummvm,ScummVM,,http://wiki.scummvm.org/index.php/OpenTasks
+google/gsoc2010/selenium,Selenium,"flex, javascript, python, flash, selenium, automated_testing, iphone, android, web_development",http://code.google.com/p/selenium/wiki/GoogleSummerOfCode#Project_Ideas
+google/gsoc2010/sharpdevelop,SharpDevelop,"c#, vb.net, xaml, .net, parsing, windows, f#, debug, wpf, ide, compiler",http://wiki.sharpdevelop.net/gsoc.ashx
+google/gsoc2010/sdl,Simple DirectMedia Layer,,http://www.libsdl.org/gsoc.php
+google/gsoc2010/sipcomm,SIP Communicator,"c, sip, java, network, multimedia, telephony, video, voip, codecs, networking, audio, protocols, instant_messaging",http://gsoc.sip-communicator.org/
+google/gsoc2010/statusnet,StatusNet,"communications, social_networking, microblogging, statusnet, instant_messaging",http://status.net/wiki/GSoC_2010#Ideas
+google/gsoc2010/sugar_labs,Sugar Labs,"python, education, olpc, sugar",http://idea.sugarlabs.org/
+google/gsoc2010/sunlightlabs,Sunlight Labs,"java, government, python, actionscript, android, ruby, nonprofit",http://wiki.sunlightlabs.com/GSOC_2010
+google/gsoc2010/systers,Systers: Women in Computing,"python, systers, mailman, women_in_technology",http://systers.org/systers-dev/doku.php/soc010
+google/gsoc2010/tahoe_lafs,Tahoe-LAFS,"anonymity, digital_repository, backend, privacy, distributed-systems, storage, arm, android, cryptography, python, darknet, javascript, filesystems, ajax, p2p, censorship, filesystem, freedom, cloud-computing, c++, jetpack, security, file_systems",http://tahoe-lafs.org/trac/tahoe-lafs/wiki/GSoCIdeas
+google/gsoc2010/tcltk,Tcl/Tk Community,"aolserver, xotcl, tcl",http://www.tcl.tk/gsoc/
+google/gsoc2010/asterisk,The Asterisk Project,"c, sip, telephony, python, pbx, server, lua, voip, protocols",http://svn.digium.com/svn-view/asterisk/team/group/gsoc-2010/ideas.txt?view=markup
+google/gsoc2010/codehaus,The Codehaus,"awesome, opensource, codehaus, business, friendly",http://docs.codehaus.org/display/GSOC/Ideas
+google/gsoc2010/eclipse,The Eclipse Foundation ,,http://wiki.eclipse.org/Google_Summer_of_Code_2010_Ideas
+google/gsoc2010/freebsd,The FreeBSD Project,"bsd, bsdl, c, operating-system, freebsd",http://www.freebsd.org/projects/summerofcode.html
+google/gsoc2010/globus,The Globus Alliance,"c, java, distributed-systems, cloud-computing, grid_computing, hpc",http://dev.globus.org/wiki/Google_Summer_of_Code_2010_Ideas
+google/gsoc2010/gnuproject,The GNU Project,"microkernel, kernel, c, network, gnu, python, pthreads, driver, perl, translator, virtualization, posix, operating-system, filesystem, device, mach, low-level, hurd",http://www.gnu.org/software/soc-projects/ideas-2010.html
+google/gsoc2010/honeynet,The Honeynet Project,"virtualization, kernel, data_visualisation, security, virtual_machine_introspection, javascript_ajax, analysis, mysql, linux_kernel, shellcode, networks, visualization, data_visualisations, java, network, nonprofit, perl, database_development, voip, android, postgesql, graph_networks, ids_signatures, web_development, web2.0, processing, postgres, cryptography, python, web-interface, javascript, asterisk, malware, sql, networking, php, hacking, protocols, instant_messaging, client-server, database, c++, django, honeynet, honeypot, operating_systems, operating-system",https://www.honeynet.org/gsoc/ideas
+google/gsoc2010/jpf,The Java Pathfinder Team,"formal-methods, java, scala, nasa, verification, virtual-machine, android",http://babelfish.arc.nasa.gov/trac/jpf/wiki/events/soc2010
+google/gsoc2010/lf,The Linux Foundation,,https://www.linuxfoundation.org/collaborate/workgroups/gsoc/google-summer-code-2010
+google/gsoc2010/macports,The MacPorts Project,"c, web-interface, macosx, tcl, cocoa, mac, bsd, distribution, web_development",http://trac.macports.org/wiki/SummerOfCode
+google/gsoc2010/mono,The Mono Project,"c, development_frameworks, virtual_machine, c#, .net, application_platform, windows, mac, linux, ide, web_development",http://mono-project.com/StudentProjects
+google/gsoc2010/netbsd,The NetBSD Foundation,"bsd, c, netbsd, operating-system",http://www.netbsd.org/contrib/soc-projects.html
+google/gsoc2010/ns3,The ns-3 Network Simulator Project,"networking, c++, simulation",http://www.nsnam.org/wiki/index.php/GSOC2010Projects
+google/gsoc2010/ntp,The NTP Forum,,http://support.ntp.org/bin/view/Dev/GSoCProjectIdeas
+google/gsoc2010/tpf,The Perl Foundation,"perl5, perl6, catalyst, parrot, perl",http://www.perlfoundation.org/perl5/index.cgi?gsoc_2010_projects
+google/gsoc2010/tor,The Tor Project/Electronic Frontier Foundation,"c, java, security, cryptography, privacy, python, freedom, censorship, networking, anonymity, android, nonprofit",https://www.torproject.org/gsoc.html.en#Ideas
+google/gsoc2010/wine,The Wine Project,,http://wiki.winehq.org/SummerOfCode
+google/gsoc2010/thousandparsec,Thousand Parsec,"java, game_engine, javascript, game_development, c++, python, game, games",http://www.thousandparsec.net/wiki/Ideas_for_Programmers
+google/gsoc2010/turbogears,TurboGears,,http://docs.turbogears.org/GSoC/Ideas2010
+google/gsoc2010/tux4kids,Tux4Kids,"c, qt4, c++, games, sdl, education",http://socghop.appspot.com/document/show/user/david_bruce/tux4kids
+google/gsoc2010/typo3,TYPO3 Association,"web, cms, javascript, lamp, ajax, html, html5, mysql, apache, php, content_management_system, css",http://typo3.org/development/gsoc2010/ideas/
+google/gsoc2010/ubuntu,Ubuntu,,https://wiki.ubuntu.com/GoogleSoC2010/Ideas
+google/gsoc2010/ushahidi,Ushahidi,"php, python, taxonomy, django, natural_language_processing, disaster_management, semantic-data-management, erlang",http://swift.ushahidi.com/extend/ideas/
+google/gsoc2010/videolan,VideoLAN,,http://wiki.videolan.org/SoC_2010
+google/gsoc2010/wikimedia,Wikimedia Foundation,"wiki, content_management_system",http://www.mediawiki.org/wiki/Summer_of_Code_2010
+google/gsoc2010/wordpress,WordPress,"jquery, publishing, wordpress, mysql, php, cms, blogging",http://codex.wordpress.org/GSoC2010
+google/gsoc2010/worldforge,WorldForge,"game_engine, game_development, c++, python, mmog, lua, 3d_user_interface, games, web_development",http://wiki.worldforge.org/wiki/Summer_of_Code
+google/gsoc2010/wx,wxWidgets,"gtk, graphical_user_interfaces, windows, macosx, c++, application_platform, linux",http://wiki.wxwidgets.org/Development:_Student_Projects
+google/gsoc2010/xorg,X.Org,"c, computer_graphics, drivers, dri, linux_kernel, mesa, low-level, 3d",http://www.x.org/wiki/SummerOfCodeIdeas
+google/gsoc2010/xen,xen.org,"c, python, xen, javascript, cloud-computing, ocaml, virtualization, virtual-machine, xenapi",http://wiki.xensource.com/xenwiki/XAPI_project_suggestions
+google/gsoc2010/xmms2,XMMS2,"qt4, graphical_user_interfaces, python, waf, awesome, multimedia, objective_c, c++, iphone, audio, ruby, web_development, qml",http://xmms2.org/wiki/Summer_of_Code_2010/Proposed_projects
+google/gsoc2010/xsf,XMPP Standards Foundation,"qt4, java, algorithm, cryptography, lua, python, xmpp, c++, standards, communications, social_networking, xsf, networking, messaging, backend, jabber, instant_messaging",http://wiki.xmpp.org/web/Summer_of_Code_2010_Project_Ideas
+google/gsoc2010/yafaray,YafaRay (Yet Another Free Raytracer),"computer_graphics, qt, python, c++, raytracing, rendering, 3d_user_interface, 3d",http://www.yafaray.org/development/documentation/GSOCideas#ideas
+google/gsoc2010/scala,"École Polytechnique Fédérale de Lausanne, Scala team","object_oriented_programming, programming_languages, functional_programming, scala",http://www.scala-lang.org/node/5542

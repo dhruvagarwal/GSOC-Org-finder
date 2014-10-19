@@ -1,0 +1,190 @@
+google/gsoc2014/n52,52°North Initiative for Geospatial Open Source Software GmbH,"geo, geospatial, java, gis, spatiotemporal, geoprocessing, traffic, environment, R, R-project, earth observation, geoprocessing, spatial data, geostatistics, sensor web, search, mobile, eventing, database",https://wiki.52north.org/bin/view/Projects/GSoC2014ProjectIdeas
+google/gsoc2014/aerospaceresearchnet,AerospaceResearch.Net,"space, aviation, citizen science, distributed computing, high performance computing, research, sensor grid, engineering, satellite tracking, ground station network, java, c, python",http://aerospaceresearch.net/constellation/forum_thread.php?id=271
+google/gsoc2014/amahi,Amahi,"Home server, NAS, streaming, golang, ruby, ror, python, SPDY",https://wiki.amahi.org/index.php/Google_Summer_of_Code_Ideas
+google/gsoc2014/apache,Apache Software Foundation,"c, java, python, c++, perl, opensource, apache, erlang",http://s.apache.org/gsoc2014ideas
+google/gsoc2014/apertium,Apertium,"mt, nlp, linguistics, grammar, c, c++, python, java, xml, morphology",http://wiki.apertium.org/wiki/Ideas_for_Google_Summer_of_Code
+google/gsoc2014/appleseed,appleseed,"3D, computer graphics, rendering, ray tracing, animation, c++, git, github, code optimization, high performance computing",https://github.com/appleseedhq/appleseed/wiki/List-of-Project-Ideas
+google/gsoc2014/arches,Arches Project,"heritage, archaeology, inventory, python, postgres, postgis, geospatial, extjs, geoserver, openlayers",http://archesproject.org/ideas/
+google/gsoc2014/tatoeba,Association Tatoeba,"translation, languages, linux, php, mysql, cakephp, c++, web, shell_script, natural_language_processing, xmpp, python",http://en.wiki.tatoeba.org/articles/show/gsoc_ideas
+google/gsoc2014/wesnoth,Battle for Wesnoth,"ai_development, ai, artificial_intelligence, lua, multiplayer, game_development, c++, game_engine, game, games, graphics, server, scripting, extensibility",http://wiki.wesnoth.org/SummerOfCodeIdeas
+google/gsoc2014/beagle,BeagleBoard.org,"linux, kernel, physical computing, robotics, art, python, node.js, embedded, arm, javascript, rtos, android",http://elinux.org/BeagleBoard/GSoC/Ideas
+google/gsoc2014/beamcommunity,BEAM Community,"erlang, elixir, erlang vm, actors, ejabberd, disco, xmpp, distributed",https://github.com/beamcommunity/beamcommunity.github.com/wiki
+google/gsoc2014/benetech,Benetech,"a11y, accessibility, education, literacy, human rights, environment",https://github.com/benetech/svgtex/wiki/Ideas-for-GSoC-2014
+google/gsoc2014/bio4j,Bio4j,"graph databases, Titan, Neo4j, Scala, Java, git, github, bioinformatics, biology, data, big data, genomics, cloud computing, aws",https://github.com/bio4j/gsoc14/wiki/ideas
+google/gsoc2014/biojs,BioJavaScript,"JavaScript, bioinformatics, web development, standard, library, registry",https://rostlab.org/services/biojs/gsoc.html
+google/gsoc2014/bmi_cci,"Biomedical Informatics, Emory University","biomedical, healthcare, clinical, imaging, informatics, dicom, cloud, nosql, neo4j, big data, data mining, web services, map reduce, hadoop, javascript, java, databases",https://docs.imphub.org/display/PS/Google+Summer+of+Code+-+2014
+google/gsoc2014/blender,Blender Foundation,"3D, computer graphics, modeling, animation, rendering, compositing, game creation, video editing, artist tools, simulation, visualization, C, C++, Python, OpenGL, OpenCL, Cuda, Sound, Audio, Music",http://wiki.blender.org/index.php/Dev:Ref/GoogleSummerOfCode/2014/Ideas
+google/gsoc2014/bookie,Bookie,python javascript bookmarks,https://docs.google.com/document/d/1F51s9_faKf_GraKthtT0mCsQQvu-LMdnLwlliSZ3rJ4/edit?usp=sharing
+google/gsoc2014/boostcpp,Boost C++ Libraries,"c++, boost, peer-reviewed, portable, libraries, C++11, C++14, C++0x, C++0y",https://svn.boost.org/trac/boost/wiki/SoC2014
+google/gsoc2014/brlcad,BRL-CAD,"computer graphics, scientific computing, engineering analysis, visualization, CAD, CSG, SMP, signal processing, 3d, engine, 3d modeling, benchmark, raytracing, image processing, graphics, framebuffer, geometry conversion, computer vision, computer-aided design, symmetric multiprocessing, geometry, brlcad, ray tracing, constructive solid geometry, analysis, graphics conversion, mesh, solid modeling, web development, high-perforamnce computing, math, science, tcl, C, C++, qt, android, opencl, gpgpu",http://brlcad.org/wiki/Google_Summer_of_Code/Project_Ideas
+google/gsoc2014/buildbot,Buildbot,"python, twisted, continuous-integration, ci, releng, testing, angularjs, web",http://trac.buildbot.net/wiki/ProjectIdeas
+google/gsoc2014/buildmlearn,BuildmLearn,"Qt, C++, Python, Git, Android, Windows Phone, iPhone, mLearning",https://github.com/BuildmLearn/BuildmLearn-Toolkit/wiki/Google-Summer-of-Code-2014-Ideas
+google/gsoc2014/buildroot,Buildroot,,http://elinux.org/Buildroot:GSoC2014Ideas
+google/gsoc2014/bbauv1,BumbleBee Autonomous Underwater Vehicle (BBAUV),"Autonomous, Computer vision, laser, Python, OpenCV, C/C++, ROS, ",http://www.bbauv.com/bbauv-ideas-list-for-google-summer-of-code/
+google/gsoc2014/catrobat,Catrobat (formerly Catroid Project),"Android, TDD, Scratch, robotium, agile, children, educational, web interface, selenium, pedagogical, html, music, web development, Web 2.0, Javascript, js, HTML5, php, animation, kids, programming, IDE, usability",http://developer.catrobat.org/gsoc_2014_ideas_page
+google/gsoc2014/ccextractor,CCExtractor development,"c, c++, video, mpeg, h264, accesibility, subtitles, closed captions, teletext, ffmpeg, network, multithreading, linux, low level, ccextractor",http://ccextractor.sourceforge.net/gsoc2014.html
+google/gsoc2014/ccm,"Centre for Computational Medicine, SickKids Research Institute","computational medicine, big data, visualization, java, javascript, medicine",https://gsoc.ccm.sickkids.ca/
+google/gsoc2014/ceph,Ceph,"ceph, inktank, storage, distributed",http://ceph.com/gsoc2014/
+google/gsoc2014/cernsft,CERN SFT,,http://sftweb.cern.ch/gsoc14
+google/gsoc2014/checkstyle,Checkstyle,"java, static code analyse, checkstyle",https://github.com/checkstyle/checkstyle/wiki/Checkstyle-GSoC-2014-Project-Ideas
+google/gsoc2014/civicrm,CiviCRM,"CRM, Drupal, WordPress, Joomla, PHP, sql, mysql, jquery, Symfony, Bootstrap, Popcorn.js, data visualization, geo, geospatial, choropleths, video",http://wiki.civicrm.org/confluence/display/CRM/Google+Summer+of+Code+-+2014
+google/gsoc2014/clojure,Clojure,"Clojure, Lisp, Functional Programming",http://dev.clojure.org/display/community/Project+Ideas
+google/gsoc2014/codecombat,CodeCombat,"coffeescript, programming, game, learn to code, education, javascript, html5, compilers, physics, algorithms, multiplayer",https://github.com/codecombat/codecombat/wiki/Summer-Project-Ideas-List
+google/gsoc2014/codemirror,CodeMirror,"javascript, editor, browser, code, highlighting",https://github.com/marijnh/CodeMirror/wiki/GSOC-2014-Ideas
+google/gsoc2014/cse_tuwien,Computational Science and Engineering at TU Wien,"CSE, Java, C++, R, XML, Qt, Network Services, Data Encoding, KNX, Geospatial Data Analysis, Vector Graphics, Internet of Things, Embedded Systems, Monitoring System, Database, SQL, Image Viewer, RAW Images, Particle-In-Cell simulator, Formal Proof Compression, Mathematical Logic, GPU Computing, Mathematics, Linear Algebra, BLAS, OpenCL, CUDA, Mesh Generation, Mesh Adaption, Device Simulation, TCAD, Imputation Methods",http://www.iue.tuwien.ac.at/cse/index.php/gsoc/2014.html
+google/gsoc2014/copyleftgames,Copyleft Games,,http://gsoc.copyleftgames.org/
+google/gsoc2014/coreboot,coreboot,"firmware, assembler, hardware, drivers, emulator, bios, efi, x86, ARM",http://www.coreboot.org/Project_Ideas
+google/gsoc2014/cryptostick,Crypto Stick,"Security, encryption, cryptography, hardware, USB, two-factor authentication, OTP, OATH, OpenPGP, GnuPG",https://www.assembla.com/spaces/cryptostick/wiki/Ideas
+google/gsoc2014/crystal,Crystal Space,"3d engine, game engine, c++, opengl, bullet, game logic, cross platform, python, animation, landscape, particles, rendering, simulation, 3d, opengles",http://www.crystalspace3d.org/trac/CS/wiki/SoC%20Ideas
+google/gsoc2014/dbpediaspotlight,DBpedia & DBpedia Spotlight,"semantic web, entity linking, linked data, knowledge extraction, Wikipedia, Wikidata, machine learning, java, scala, disambiguation, term recognition, nlp",http://wiki.dbpedia.org/gsoc2014/ideas
+google/gsoc2014/debian,Debian Project,"os, linux, distributions, web, qa, quality_assurance, shell_scripting, web_development, python, bsd, php, distribution, bash, c, operating_system, database, science, debian, c++, sh, security, continuous_integration",https://wiki.debian.org/SummerOfCode2014/Projects
+google/gsoc2014/django,Django Software Foundation,"django, python",https://code.djangoproject.com/wiki/SummerOfCode2014
+google/gsoc2014/drmemory,Dr. Memory,"instrumentation, Windows, C, C++, assembly, debugger, program analysis, development tools, runtime systems",http://drmemory.org/projects.html
+google/gsoc2014/drupal,Drupal,"PHP, CMS, Database, Drupal 8, Symfony, Web Development, Web Programming, Web Application, Web Framework, SQL, Object Oriented Programming, ",https://groups.drupal.org/node/407793
+google/gsoc2014/flowgrammable,Flowgrammable,"C++11, OpenFlow, Software Defined Networking, Protocol Stacks, SDN",http://flowgrammable.org/gsoc/projects/
+google/gsoc2014/fossasia,FOSSASIA,"android, mobile, pattern, garment, CAD, social change, humanitarian software, linux, localization, android, web",http://fossasia.org/gsoc-ideas
+google/gsoc2014/freebsd,FreeBSD,"virtualization, hypervisor, os, operating system, bsd, web, compilers, qa, perl, shell_scripting, shell scripting, server, embedded, mips, arm, sparc, sparc64, i386, amd, amd64, x86_64, distribution, c, operating_system, database, pcbsd, freebsd, c++, sh, security, clang, llvm, audit, wireless, wifi, wi-fi, desktop, server, sandbox, kernel",https://wiki.freebsd.org/SummerOfCode2014Ideas
+google/gsoc2014/freenet,Freenet Project Inc,"freenet, anonymity, p2p, decentralized, java",https://wiki.freenetproject.org/Google_Summer_of_Code/2014
+google/gsoc2014/freifunk,Freifunk,"wifi, mesh, community network, openwrt, routing protocols, network, batman, olsr, bmx, linux, javascript, lua, web, mobile, android, local internet",http://wiki.freifunk.net/Ideas
+google/gsoc2014/frenetic,Frenetic,"SDN, Software Defined Networking, OCaml, Python, research, networking, engineering, programming languages, functional programming",https://github.com/frenetic-lang/frenetic/wiki/GSoC-2014-Project-Ideas
+google/gsoc2014/gambit,Gambit: Software Tools for Game Theory,"C++, python, git, numerical methods",http://www.gambit-project.org/gambit14/ideas.html
+google/gsoc2014/ganeti,Ganeti,"Ganeti, Haskell, Python, Xen, Kvm, Virtualization, Cloud, Cluster",http://code.google.com/p/ganeti/wiki/SummerOfCode2014Ideas
+google/gsoc2014/ganglia,Ganglia,"c, python, java, javascript, jquery, php, monitoring, hpc, grid, cluster, nagios, data science, big data, rrdtool, r, machine learning, statistics",https://github.com/ganglia/monitor-core/wiki/GSoC-2014-project-ideas
+google/gsoc2014/gcc,GCC - GNU Compiler Collection,"gcc, compiler, c, c++, toolchain, glibc, binutils, gdb",http://gcc.gnu.org/wiki/SummerOfCode
+google/gsoc2014/gentoo,Gentoo Foundation,"virtualization, linux, distributions, xml, web, java, gtk, shell_scripting, web_development, xslt, python, web-interface, javascript, bsd, php, ruby, bash, c, operating_system, qt, database, science, c++, sh, security",http://wiki.gentoo.org/index.php?title=Google_Summer_of_Code/2014/Ideas
+google/gsoc2014/git,Git,"vcs, c, git",http://git.github.io/SoC-2014-Ideas.html
+google/gsoc2014/gnome,GNOME,"application, banshee, boxes, c, clutter, desktop, easytag, game, glib, gnome, gnome-shell, gnu, gobject, gtk, gtk+, gtg, gstreamer, desktop, evolution, javascript, latex, linux, mail, music, python, vala, virtual, wayland",https://wiki.gnome.org/Outreach/SummerOfCode/2014/Ideas
+google/gsoc2014/gnss_sdr,GNSS-SDR,"GNSS, Software radio, GPS, Galileo",http://gnss-sdr.org/documentation/google-summer-code-2014-ideas-list
+google/gsoc2014/octave,GNU Octave,"c++, mathematics, math, numerical, matlab, mercurial, scientific, computing",http://wiki.octave.org/Summer_of_Code_Project_Ideas
+google/gsoc2014/gnu,GNU Project,"C, python, metalink, tests, networking, P2P, distributed updates, social, multicast, decentralisation, censorship-resistance, cad, dwg, dxf, C, Common Lisp, FFI, embedded interpreter, wrapper libraries, C, hurd, gnumach, kernel, microkernel, operating system, os, filesystem, virtualization, glibc, gdb, valgrind, language bindings, automated testing, package management, operating system, functional programming, scheme, objective-c, ui, user interface, C++, parser, geometry",http://www.gnu.org/software/soc-projects/ideas-2014.html
+google/gsoc2014/gnuradio,GNU Radio,"software defined radio, networks, communication",http://gnuradio.org/redmine/projects/gnuradio/wiki/GSoC
+google/gsoc2014/ospo,Google Open Source Programs Office,"research, google, open source programs office",http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page#16._What_if_there_is_no_organization
+google/gsoc2014/grameenfoundation,Grameen Foundation - MOTECH,"mhealth, mobile, java, maternal_child_health, hiv_aids, tb, ict4d, africa, india",http://www.motechproject.org/contribute/gsoc.html
+google/gsoc2014/groovy_project_community,Groovy Community,"groovy, language, jvm, java, framework, library",http://groovy.codehaus.org/GSoc+2014
+google/gsoc2014/haiku,Haiku,"c++, operating system, c, virtio, usb, driver, kernel, arm, uefi, filesystem, ppp, ipv6, bluetooth, gui, compositing",http://www.haiku-os.org/community/gsoc/2014/ideas
+google/gsoc2014/haskell,haskell.org,"non-strict, lazy, functional, programming language",https://ghc.haskell.org/trac/summer-of-code/report/1
+google/gsoc2014/dhis2,Health Information Systems Programme,"eHealth, mHealth, management information system, health, informatics, Java, maven, Struts, spring, action-research, medical records, GIS, mapping, africa, asia, latin america, ICT4D, testing, webdriver, android",http://www.dhis2.org/gsoc2014
+google/gsoc2014/helenos,"HelenOS group at Department of Distributed and Dependable Systems, Charles University in Prague","microkernel, multiserver, os, operating system, operating, system, helenos, kernel, ipc, c",http://www.helenos.org/gsoc2014
+google/gsoc2014/illumos,illumos,"illumos, operating system, unix, kernel, dtrace, zfs, openzfs, virtualization, device driver, c, python, c++, solaris",http://wiki.illumos.org/display/illumos/Project+Ideas
+google/gsoc2014/idi_idrc,Inclusive Design Institute,"accessibility, technology, software, open source, ATutor, Fluid, AChecker, AContent",http://wiki.atutor.ca/display/atutorwiki/Google+Summer+of+Code+2014
+google/gsoc2014/inkscape,Inkscape,"svg, css, vector graphics, geometry, c++, gtk, gtkmm",http://wiki.inkscape.org/wiki/index.php/Google_Summer_Of_Code#Suggested_Ideas
+google/gsoc2014/iai_unihb_gsoc,Institute for Artificial Intelligence,"AI, Robots",http://ai.uni-bremen.de/teaching/gsoc2014
+google/gsoc2014/incf,International Neuroinformatics Coordinating Facility,"neuroinformatics, neuroscience",http://incf.org/gsoc/2014/proposals
+google/gsoc2014/marsoc,Italian Mars Society ,"terrestrial Mars analogs, Autonomous Control, Human Machine Interface (HMI), Virtual Reality applications, Computer Vision, Command, Control and Communication, Python, Pytango",http://www.erasproject.org/index.php?option=com_content&view=article&id=12&Itemid=104
+google/gsoc2014/jboss,JBoss Community,"JBoss, Java, JavaEE, REST, Mobile, Ruby, Scala, Security",https://community.jboss.org/wiki/GSOC14Ideas
+google/gsoc2014/jitsi,Jitsi,"jitsi, audio, video, java, sip, xmpp, rtp, webrtc, javascript, html5",https://jitsi.org/gsoc
+google/gsoc2014/jmonkeyengine,jMonkeyEngine,"game engine, 3d, game, game development, graphics, netbeans, IDE, SDK, java",http://hub.jmonkeyengine.org/soc/2014-ideas/
+google/gsoc2014/joomla,Joomla! (Open Source Matters),"joomla, framework, php, libraries, packagist, composer, ",http://docs.joomla.org/GSOC_2014_Project_Ideas
+google/gsoc2014/kde,KDE,"accessibility, audio, browser, c++, desktop, education, games, linux, mac, music, office, pim, qt, sdk, semantic, windows",http://community.kde.org/GSoC/2014/Ideas
+google/gsoc2014/kolibrios,KolibriOS Project Team,"FASM, assembly language, Assembler, KolibriOS, OS, Operating System, drivers, hardware, BIOS, x86, i386, embedded, RTOS, real-time, realtime, lowlevel, desktop",http://wiki.kolibrios.org/wiki/Google_Summer_of_Code_2014
+google/gsoc2014/lablua,LabLua,Lua LabLua,http://www.lua.inf.puc-rio.br/gsoc/ideas2014.html
+google/gsoc2014/lcdm,Laboratory for Cosmological Data Mining,"Cosmology, Astrophysics, Data Mining, Machine Learning, Cloud Computing, Computer Vision, Image Processing, Web Application, Mobile Application, Crowdsource, Bayesian Modeling",http://lcdm.astro.illinois.edu/ugprojects.html
+google/gsoc2014/leap,LEAP Encryption Access Project,"OpenPGP, email, OpenVPN, Python, Ruby, Android",https://leap.se/en/docs/get-involved/project-ideas
+google/gsoc2014/libreoffice,LibreOffice,"office, c++, word processor, spreadsheet, presentation, database, drawing, android, ios",https://wiki.documentfoundation.org/Development/Gsoc/Ideas
+google/gsoc2014/linaro,Linaro,"Linux, ARM, Open, Networking, Enterprise, Toolchain, Graphics, Multimedia, Android",https://wiki.linaro.org/SummerOfCode2014/ProjectIdeas
+google/gsoc2014/lttng,Linux Trace Toolkit next generation project (LTTng),"tracing, linux, android, arm, c, c++, python, kernel internals",http://bugs.lttng.org/projects/lttng/wiki/Google_Summer_of_Code_2014
+google/gsoc2014/lg,Liquid Galaxy Project,"google earth, immersive, 3d, virtual reality, html5, google maps, KML, geospatial, GIS, 3d graphics, panoramic, visualization, game engines, linux, android, kinect, leap motion",http://code.google.com/p/liquid-galaxy/wiki/GSoC2014Ideas
+google/gsoc2014/llvm,LLVM Compiler Infrastructure,"llvm, clang, compiler, backend, optimization",http://llvm.org/OpenProjects.html
+google/gsoc2014/lmonade,lmonade: scientific software distribution,"math, mathematics, algebra, science, scientific software, distribution, package, image, image processing, vision, bio, graphics, geometry, 3d, opengl, qt, learning, graph, parallel, threads, openmp, c++, cpp, python, java, shell, sh, bash, scripting, lmonade, flint, ilastik, vigra, fricas, singular, polybori, aldor",http://wiki.lmona.de/get_involved/gsoc
+google/gsoc2014/lyx,LyX – The Document Processor ,"document processor, word processor, LaTeX, GUI, Qt",http://wiki.lyx.org/GSoC/GSoCProjectIdeasFor2014
+google/gsoc2014/mariadb,MariaDB,"mariadb, mysql, database, sql",https://mariadb.com/kb/en/google-summer-of-code-2014/
+google/gsoc2014/m_lab,Measurement Lab (M-Lab),"open data, measurement, networking, transparancy",http://www.measurementlab.net/page/gsoc_2014
+google/gsoc2014/melange,Melange,"appengine, python, javascript, CSS, LESS, HTML",https://code.google.com/p/soc/wiki/GSoC2014Ideas
+google/gsoc2014/metabrainz,MetaBrainz Foundation Inc.,"music, metadata, linux, sql, perl, python, id3",http://wiki.musicbrainz.org/Development/Summer_of_Code/2014
+google/gsoc2014/mifos,Mifos Initiative,"mifos, microfinance, financial inclusion, Africa, mobile banking, java, AngularJS, India, m-pesa, ICT4D, SocEnt, poverty, RESTful, MySQL, Spring, Pentaho, Android, grameen, microcredit, banking, financial services, m4d, ",http://mifosforge.jira.com/wiki/display/RES/Google+Summer+of+Code+2014+Ideas
+google/gsoc2014/mixxx,Mixxx DJ Software,"dj, audio, music, qt, c++, realtime",http://mixxx.org/wiki/doku.php/gsoc2014ideas
+google/gsoc2014/mlpack,mlpack: scalable C++ machine learning library,"c++, machine learning, dual-tree algorithms, scalability",http://www.mlpack.org/trac/wiki/SummerOfCodeIdeas
+google/gsoc2014/monkey,Monkey Project,"C, Linux, Raspberry, HTTP, SPDY, Websocket, Caching, WebServices, Performance, Embedded, ARM, Lua, Memcache",http://monkey-project.com/gsoc2014/ideas
+google/gsoc2014/mono,Mono Project,"C#, C, C++, Mono, VM, GC, Runtime, MonoDevelop, GTK, OSX, Linux, Windows",http://www.mono-project.com/StudentProjects
+google/gsoc2014/moodle,Moodle,"Education, learning, teaching, primary, secondary, tertiary, university, LMS, CMS, VLE, LP php",http://docs.moodle.org/dev/Projects_for_new_developers
+google/gsoc2014/mozilla,Mozilla,"mozilla, firefox, thunderbird, c++, python, perl, javascript, html, css, xul, web, calendar, instantbird, im, documentation, audio, rust, llvm, node, design, ux, xpcom",https://wiki.mozilla.org/Community:SummerOfCode14
+google/gsoc2014/musescore,MuseScore,"sheet music, musicxml, midi, music notation, Qt, C++, QML",http://musescore.org/en/developers-handbook/google-summer-code/ideas-2014
+google/gsoc2014/nrnb,National Resource for Network Biology (NRNB),"biology, systems biology, network biology, networks, pathways, Java, JavaScript, PHP, MediaWiki, graph database, biomedical, chemistry, cytoscape, wikipathways, pathvisio, cytoscapejs, pathvisiojs",http://nrnb.org/gsoc/index.html#ideas-tab
+google/gsoc2014/netfilter,Netfilter Project,"linux, networking, firewall, security, packet classification",http://people.netfilter.org/pablo/nf-ideas-2014.txt
+google/gsoc2014/netsurf,NetSurf,"Web Browser, C, HTML, CSS, DOM",http://www.netsurf-browser.org/developers/gsoc/2014ideas
+google/gsoc2014/nmap,Nmap Security Scanner,"security, networking, network, ipv6, lua, c++, c, python, gui, linux, windows, apple, mac os x, packets, hacking, nmap, cryptography, crypto",http://nmap.org/soc/
+google/gsoc2014/ogdf,OGDF - Open Graph Drawing Framework,"graph drawing, graph algorithms, algorithms, data structures, visualization, C++, Python, Java",http://www.ogdf.net/doku.php/gsoc2014-ideas
+google/gsoc2014/obf,Open Bioinformatics Foundation,"obf, bioinformatics, biology, science, bioperl, biopython, bioruby, biojava, biosql, biolib, emboss",http://www.open-bio.org/wiki/Google_Summer_of_Code_2014_Ideas
+google/gsoc2014/oerf,Open Education Resource Foundation,"education, open, wiki, OERu",http://WikiEducator.org/WikiEducator:Software_Projects
+google/gsoc2014/openlighting,Open Lighting Project,"C++, lighting, Python, DMX512, RDM, control-systems, network",http://www.opendmx.net/index.php/OLA_SOC_Ideas_Page
+google/gsoc2014/ompl,Open Motion Planning Library,"robotics, motion planning",http://kavrakilab.org/GSoC2014.html
+google/gsoc2014/opencv,Open Source Computer Vision Library (OpenCV),"computer vision, machine learning, AI, perception, learning",http://code.opencv.org/projects/opencv/wiki/GSoC_2014
+google/gsoc2014/osrf,Open Source Robotics Foundation,"Robotics, Gazebo, ROS, CloudSim",http://wiki.osrfoundation.org/gsoc14
+google/gsoc2014/openpgp_keychain,OpenKeychain (OpenPGP for Android),"android, java, pgp, openpgp, gpg, security, encryption, snowden",https://github.com/open-keychain/open-keychain/wiki/Google-Summer-of-Code
+google/gsoc2014/openmrs,OpenMRS,"medical_records, health, clinics, ehealth, hospitals, hfoss, healthcare, emr, ehr, hl7, mhealth, africa, developing_world, poverty, global_health, dojo, spring, api, mysql, internationalization, l8n, mrs, i10n, openmrs, hr, human_resources, xml, hibernate, localization, search, localisation, statistics, java, maven, ict4d, phr, tomcat, database, internationalisation, html5, node, nodejs, ldap, express, groovy",http://go.openmrs.org/soc2014
+google/gsoc2014/opensuse,openSUSE,"linux, obs, build-service, kernel, osem, git, cloud, kiwi, packaging, mate, virtualization, ruby",https://en.opensuse.org/openSUSE:GSOC_ideas
+google/gsoc2014/osuosl,Oregon State University Open Source Lab (OSUOSL),"virtualization, kvm, xen, django, osuosl, ganeti, ganeti web manager, gwm, python, bash",http://wiki.osuosl.org/gsoc/ideas2014.html
+google/gsoc2014/osgeo,OSGeo - Open Source Geospatial Foundation,"postgres, c, gis, live-disc, algorithm, java, c#, graph, javascript, mapping, maps, c++, ajax, geospatial, mysql, http, php, geo, mssql, 3d, osm, openstreetmap, cartography, science",http://wiki.osgeo.org/wiki/Google_Summer_of_Code_2014_Ideas
+google/gsoc2014/osv,OSv,"kernel, cloud, virtualization",https://github.com/cloudius-systems/osv/wiki/Google-Summer-of-Code-2014
+google/gsoc2014/ovirt,oVirt,"ovirt, cloud, virtualization, iaas, kvm, libivrt, datacenter, private cloud, python, java, jboss, wildfly, postgres",http://www.ovirt.org/Summer_of_Code
+google/gsoc2014/owasp,OWASP Foundation,"appsec, security, application security, sdlc, secure devlopment",https://www.owasp.org/index.php/GSoC2014_Ideas
+google/gsoc2014/phpbb,phpBB Forum Software,"forum, bulletin, board, php, webdesign. community, web",https://wiki.phpbb.com/GSoC/2014/Ideas
+google/gsoc2014/phpmyadmin,phpMyAdmin,"mysql, php, admin, javascript, jquery",http://wiki.phpmyadmin.net/pma/GSoC_2014_Ideas_List
+google/gsoc2014/plan9,Plan 9 from Bell Labs,"9p, os, operating system, C, limbo, styx, distributed computing, network computing",http://www.plan9.bell-labs.com/wiki/plan9/gsoc-2014-ideas/index.html
+google/gsoc2014/plone,Plone Foundation,"cms, python, web",http://plone.org/events/summer-of-code/2014
+google/gsoc2014/pcl,Point Cloud Library (PCL),"point cloud, image, computer vision, vision, machine vision, computer graphics, registration, segmentation, camera, 3D camera, kinect, xtion",http://www.pointclouds.org/gsoc/
+google/gsoc2014/portland_state,Portland State University,"university, new projects, individual projects",http://summer.cs.pdx.edu/ideas
+google/gsoc2014/postgresql,PostgreSQL Project,"database, postgres, postgresql, C, C++, PHP, Perl, Python, Java, SQL",http://www.postgresql.org/developer/summerofcode
+google/gsoc2014/prismmodelchecker,PRISM Model Checker,"scientific, verification, model checking, probabilistic models, java",http://www.prismmodelchecker.org/gsoc/
+google/gsoc2014/tox,Project Tox,"Skype, secure, communications, messaging, im, disibuted, hash table, decentralized, encryption, chatting, free, gpl, C, C++, GTK, Qt, Android, iOS, UDP, TCP",http://wiki.tox.im/Proposed_Google_Summer_of_Code_ideas
+google/gsoc2014/publiclaboratory,Public Laboratory for Open Technology and Science,"geo, gis, open-source, environment, infrared, spectroscopy, map, maps, ruby-on-rails, java, canvass-element, android, ruby, javascript, imagemagick, rmagick",http://publiclaboratory.org/wiki/gsoc-ideas
+google/gsoc2014/python,Python Software Foundation,"python, Core Python, CPython, Astropy, BinPy, GNU Mailman, Kivy, Mercurial, MNE-Python, MoinMoin Wiki, pgmpy, PyDy, PyPy, scikit-image, scikit-learn, SciPy/NumPy, SCons, Scrapy, statsmodels, SunPy, TARDIS-SN, Theano, Vispy",http://wiki.python.org/moin/SummerOfCode/2014
+google/gsoc2014/qemu,QEMU,"emulator, emulation, virtualization, lowlevel, os, bootloader, compiler, kernel, kvm, xen, c",http://qemu-project.org/Google_Summer_of_Code_2014
+google/gsoc2014/rproject,R Project for Statistical Computing,,http://rwiki.sciviews.org/doku.php?id=developers:projects:gsoc2014
+google/gsoc2014/raxa,Raxa,"health, mobile, EMR, India",https://raxaemr.atlassian.net/wiki/display/RAXAJSS/GSoC+2014+Ideas+Page
+google/gsoc2014/routeflow,RouteFlow,"routing, virtualization, cloud, networking, sdn, openflow",https://sites.google.com/site/routeflow/updates/gsoc-ideas
+google/gsoc2014/rtems,RTEMS Project,"RTOS, real time, real-time, operating system, C, POSIX, embedded, ARM, space, control, deadline, SMP, multicore",http://www.rtems.org/wiki/index.php/Open_Projects
+google/gsoc2014/rails,Ruby on Rails,"ruby, web, rails",https://github.com/rails/gsoc2014/wiki/Ideas
+google/gsoc2014/sciruby,Ruby Science Foundation (SciRuby),"science, c++, ruby, c, statistics, linear algebra, data mining, engineering",https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2014-Ideas
+google/gsoc2014/sagemath,Sage Mathematical Software System,"mathematics, math, python, cython, c, cpp, html, javascript, android, iOS",https://docs.google.com/document/d/15v7lXZR1U4H2pT21d2fyPduYGb74JAFjkXJ6CWYmYfw/pub
+google/gsoc2014/sahana,Sahana Software Foundation,"Sahana, Python, PHP, Disaster, Emergency, Response, Humanitarian",https://docs.google.com/a/sahanafoundation.org/document/d/15GzwvZRI8SlYRUYzuqkPsjnLNMiBLtT6KqXgNR_GpAw/edit
+google/gsoc2014/samba,Samba,"C, SMB, CIFS, kernel",http://wiki.samba.org/index.php/SoC/Ideas
+google/gsoc2014/scaffoldhunter,Scaffold Hunter,"Visual Analytics, Information Visualization, Graph Drawing, Cheminformatics, Medical Image Retrieval, Java",http://scaffoldhunter.sourceforge.net/wiki/doku.php?id=project_ideas
+google/gsoc2014/epfl_scala,Scala Team,scala,http://www.scala-lang.org/gsoc/2014.html
+google/gsoc2014/scummvm,ScummVM,"scummvm, residualvm, multiplatform, games, adventures, point and click, 2D, 3D, play, C++, retro-gaming",http://wiki.scummvm.org/index.php/GSoC_Ideas
+google/gsoc2014/shogun,Shogun Machine Learning Toolbox,"machine learning, science, math, statistics, bioinformatics, large scale learning, support vector machine, open source, free software, python, c++, d3js, django, swig",http://shogun-toolbox.org/page/Events/gsoc2014_ideas
+google/gsoc2014/sigmah,Sigmah,"hfoss, java, gwt, drupal, project-management, humanitarian",http://code.google.com/p/sigma-h/wiki/Ideas4GSoC2014
+google/gsoc2014/conservancy,"Software Freedom Conservancy, Inc.","npo, non-profit, accounting, ledger",http://npoacct.sfconservancy.org/GSoC2014Ideas/
+google/gsoc2014/sbcl,Steel Bank Common Lisp,"Lisp, compilation, interpretation, garbage collection, object-orientation",http://www.sbcl.org/gsoc2014/ideas/
+google/gsoc2014/strace,strace,"tracing, strace, C, system-programming, kernel, system-call, syscall",http://sourceforge.net/p/strace/wiki/GoogleSummerOfCode2014/
+google/gsoc2014/stratosphere,Stratosphere Project,"java, scala, big data, hadoop, analytics, distributed systems, machine learning, cloud computing",https://github.com/stratosphere/stratosphere/wiki/Google-Summer-of-Code-2014
+google/gsoc2014/subsurface,Subsurface,"divelog, C, C++, qt, ios, android",http://trac.hohndel.org/wiki/Subsurface_GSOC_2014_Idea_List
+google/gsoc2014/sugarlabs,Sugar Labs,"learning, software, Python, GNOME, JavaScript, HTML5",http://wiki.sugarlabs.org/go/Summer_of_Code/2014
+google/gsoc2014/supertuxkart,SuperTuxKart,"games, c++, php, racing, multiplatform",http://supertuxkart.sourceforge.net/GSoC_topics_2014
+google/gsoc2014/smc,Swathanthra Malayalam Computing,"Language Technology, Indic, Rendering, i18n, python, flask, Android, c++, RoR, Language Modeling, Braille, m17n, machine learning, REST API, jquery, spellcheck, TeX",http://wiki.smc.org.in/SoC/2014/Project_ideas
+google/gsoc2014/sympy,SymPy,"math, physics, python, science, bsd",https://github.com/sympy/sympy/wiki/gsoc-2014-ideas
+google/gsoc2014/syncdiff,SyncDiff(erent),"Perl, File Synchronization, Multi-processed, IPC, networking, cloud",http://syncdiff.org/p/syncdiff/page/GSoC-2014-Ideas/
+google/gsoc2014/systers,"Systers, an Anita Borg Institute Community","Systers, Anita Borg Institute, Women in Technology, Women in Computing",https://github.com/systers/ossprojects/wiki/GSoC-2014
+google/gsoc2014/teammates,TEAMMATES Project @ National University of Singapore,"java, app engine, SaaS, PaaS, cloud, education, JavaEE, JavaScript",http://tinyurl.com/teammates-ideas
+google/gsoc2014/cgal,The CGAL Project ,"C++, Computational Geometry, Geometry Processing, Voronoi, Meshing, Arrangement, Triangulation",http://www.cgal.org/project_ideas.html
+google/gsoc2014/concord,The Concord Consortium,"education, nonprofit, STEM, science, math, engineering, simulations, modeling, mobile, responsive Web design, JavaScript, Ruby, HTML5, WebGL, Require.js, D3, CoffeeScript, SVG, Vows, Amazon Web Services, Capistrano, SASS, Haml, WebCL, Pixi.js, AgentScript, AgentBasedModeling, git, GitHub, iPad, Android, Tablet, Mobile",http://concord.org/GSoC
+google/gsoc2014/eclipse,The Eclipse Foundation,"eclipse, java, ide, recommenders, ecf, communication, development, rcp, orion, javascript, c/c++",https://wiki.eclipse.org/Google_Summer_of_Code_2014_Ideas
+google/gsoc2014/fedora,The Fedora Project ,"linux, kernel, php, C, bashc, ruby, python, rails, buildservices, yum, rpm, distribution, cloud",http://fedoraproject.org/wiki/Summer_coding_ideas_for_2014
+google/gsoc2014/julialang,The Julia Language,"programming languages, numerical computing, linear algebra, statistics, machine learning, big data",http://julialang.org/gsoc/2014/
+google/gsoc2014/lf,The Linux Foundation,"kernel, lsb, web, gui, cpd, standards, wireless, printing, usability, openprinting, llvm, llvmlinux",https://www.linuxfoundation.org/collaborate/workgroups/gsoc/google-summer-code-2014
+google/gsoc2014/macports,The MacPorts Project,"MacPorts, Mac, OS X, OSX, Mac OS X, C, Tcl, dependencies, SAT, SAT-solving, theory, theoretical computer science, Xcode, Objective-C, Apple, LD_PRELOAD, sandbox, optimization, qt, ports, BSD, package, package management",https://trac.macports.org/wiki/SummerOfCode
+google/gsoc2014/ns3,The ns-3 Network Simulator Project,"ns3, network simulation, emulation, C, C++, Python",https://www.nsnam.org/wiki/index.php/GSOC2014Projects
+google/gsoc2014/openbsdfoundation,The OpenBSD Foundation,"OpenBSD, OpenSSH, OpenCVS, OpenSMTP, OpenBGPD",http://www.openbsdfoundation.org/gsoc2014.html
+google/gsoc2014/opencog,The OpenCog Foundation,"Artificial Intelligence, AI, C++, Python, Machine Leaning, NLP",http://wiki.opencog.org/w/Ideas
+google/gsoc2014/openstack,The OpenStack Foundation,"openstack, cloud, iaas",https://wiki.openstack.org/wiki/GSoC2014
+google/gsoc2014/tpf,The Perl Foundation,"perl, parrot, cpan",http://wiki.enlightenedperl.org/gsoc2014/ideas
+google/gsoc2014/privly,The Privly Foundation,"privacy, security, cryptography, browser extensions, native client, javascript, OTR, IRC, PGP, rails, continuous integration, testing, user experience, ux",https://github.com/privly/privly-organization/wiki/Ideas
+google/gsoc2014/processing,The Processing Foundation,"java, javascript, animation, images, graphics, education, beginner",https://github.com/processing/processing/wiki/Project-List
+google/gsoc2014/stellar,The STE||AR Group,"parallelcomputing, C++, asynchronous programming, dataflow",https://github.com/STEllAR-GROUP/hpx/wiki/GSoC-2014-Project-Ideas
+google/gsoc2014/syslog_ng,The syslog-ng project,"syslog, logging, event processing, C, security",https://github.com/balabit/syslog-ng/wiki/GSoC2014-idea-&-project-list
+google/gsoc2014/tor,The Tor Project and EFF,"c, python, security, privacy, anonymity, anti-censorship",https://www.torproject.org/about/gsoc.html.en
+google/gsoc2014/wine,The Wine Project,"c, linux, windows, games",http://wiki.winehq.org/SummerOfCode
+google/gsoc2014/wiselib,The Wiselib,"wiselib, embedded, C++, sensor networks, internet of things, iOS, Android",http://www.wiselib.org/gsoc/project_ideas.html
+google/gsoc2014/thinkup,ThinkUp,"php, mysql, javascript, jquery, bootstrap, analytics, smarty, googlecharts",https://github.com/ginatrapani/ThinkUp/wiki/Google-Summer-of-Code-2014-Ideas-Page
+google/gsoc2014/timvideos,TimVideos.us,"video, streaming, hardware, Python, Gstreamer, multimedia, media, live, data, cloud, prototype, Ruby, Verilog, VHDL, firmware, web, website, flumotion, audio, sound, system, electronics, frontend, backend, Django, fpga, encoding, encoder, optimization, ethernet, cloud, Debian, virtual machine, graphics, graphic design, MJPEG, JPEG, image, documentation, plugin, dvswitch, porting, C, C++, reverse engineering, gst-switch, automation, RTMP, JustinTV, Youtube, Xilinx, Digilent ATLYS, extension board, Twisted, Flumotion, PostgreSQL, MySQL, RTMP, javascript, HTML, HDMI, USB, network, electronics, PCB, firmware, video, streaming, VHDL, verilog, opencores",http://code.timvideos.us/Ideas.html
+google/gsoc2014/twitter,Twitter,"scala, java, javascript",https://github.com/twitter/twitter.github.com/wiki/Google-Summer-of-Code-2014
+google/gsoc2014/typo3,TYPO3 Association,"cms, framework, php, content-management, web",http://wiki.typo3.org/Gsoc2014/Ideas
+google/gsoc2014/vtk,Visualization Toolkit (VTK),"C++, OpenGL, Visualization, Science, Parallel",http://www.vtk.org/Wiki/VTK/GSoC_2014
+google/gsoc2014/wikimedia,Wikimedia,"wikipedia, wikimedia, mediawiki, wiki, php, javascript, html, css, opendata, i18n, input methods, jQuery, media, web, bugzilla, semantic",https://www.mediawiki.org/wiki/Google_Summer_of_Code_2014
+google/gsoc2014/wordpress,WordPress,"WordPress, PHP, JavaScript, jQuery, TinyMCE, CMS, Publishing, Blogging, MySQL, nginx",http://codex.wordpress.org/GSoC2014
+google/gsoc2014/worldforge,WorldForge,"C++, python, games, GUI, Ogre, CEGUI, mmorpg, 3D, ryzom, opennel, php, blender, lua, AI",http://wiki.worldforge.org/wiki/Summer_of_Code
+google/gsoc2014/wso2_2014,WSO2,"SOA, middleware, cloud computing, PaaS, Java, Mobile, JavaScript, BigData, CEP",http://docs.wso2.org/display/GSoC/WSO2+GSoC+Project+Proposals
+google/gsoc2014/wx,wxWidgets,"c++, gui, cross-platform, windows, linux, osx, mac",http://www.wxwidgets.org/gsoc/projects/
+google/gsoc2014/xorg,X.Org Foundation,"Graphics drivers, X11, Wayland, Mesa, DRI, OpenGL, OpenCL",http://www.x.org/wiki/SummerOfCodeIdeas
+google/gsoc2014/xapian,Xapian Search Engine Library,"information retrieval, IR, text, search, index, indexing, indexed, cjk, cjkv, japanese, korean, swig, bindings, C++, Python, Java, C#, CSharp, PHP, go, library, gmane, lucene, parsing, machine learning, clustering, xapian, fun!",http://trac.xapian.org/wiki/GSoCProjectIdeas
+google/gsoc2014/xen_project,Xen Project,"virtualization, cloud operating system, linux",http://wiki.xen.org/wiki/GSoc_2014
