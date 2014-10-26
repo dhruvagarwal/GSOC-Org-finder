@@ -85,7 +85,7 @@ function process_tags(search) {
 		var score = 0;
 		for (var j = 0; j < search.length; j++) {
 			for (var k = 0; k < db[i]["tags"].length; k++) {
-				if (match(db[i]["tags"][k], search[j])) {
+				if (match(search[j],db[i]["tags"][k])) {
 					score++;
 				};
 			};
@@ -154,9 +154,8 @@ function checkCount() {
 }
 
 function checkTags() {
-	// little buggy
 	var search = document.getElementById('tags').value;
-	if (search.length<2)
+	if (search.length<1)
 		return;
 	search = search.split(',')
 	console.log(search);
