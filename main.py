@@ -25,6 +25,7 @@ def fetchdetails(db,years,text):
 		else:
 			years[keyword].append(year)
 			db[keyword]['tags'] = tags
+			db[keyword]['ideas'] = ideas
 			db[keyword]['count'] += 1
 
 def traverelists():

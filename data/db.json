@@ -1,7 +1,7 @@
 {
     "openimageio": {
         "count": 2, 
-        "ideas": "http://openimageio.org/wiki/index.php?title=SOC_Idea_Page", 
+        "ideas": "http://github.com/OpenImageIO/oiio/wiki/GSoC-Idea-Page", 
         "name": "OpenImageIO", 
         "keyword": "openimageio", 
         "tags": [
@@ -26,7 +26,7 @@
     }, 
     "ankur_india": {
         "count": 2, 
-        "ideas": "http://ankur.org.in/projects/project-ideas/", 
+        "ideas": "https://github.com/ankur-india/ankur-india/wiki/Project-Ideas", 
         "name": "Ankur India", 
         "keyword": "ankur_india", 
         "tags": [
@@ -116,7 +116,7 @@
     }, 
     "osm": {
         "count": 3, 
-        "ideas": "http://wiki.openstreetmap.org/wiki/GSoC_Project_Ideas_2010", 
+        "ideas": "http://wiki.openstreetmap.org/wiki/GSoC_Project_Ideas_2012", 
         "name": "OpenStreetMap", 
         "keyword": "osm", 
         "tags": [
@@ -126,7 +126,7 @@
     }, 
     "netbsd": {
         "count": 5, 
-        "ideas": "http://www.netbsd.org/contrib/soc-projects.html", 
+        "ideas": "http://wiki.netbsd.org/projects/gsoc/", 
         "name": "The NetBSD Project", 
         "keyword": "netbsd", 
         "tags": [
@@ -158,7 +158,7 @@
     }, 
     "musescore": {
         "count": 2, 
-        "ideas": "http://musescore.org/en/developers-handbook/google-summer-code/ideas-2013", 
+        "ideas": "http://musescore.org/en/developers-handbook/google-summer-code/ideas-2014", 
         "name": "MuseScore", 
         "keyword": "musescore", 
         "tags": [
@@ -215,7 +215,7 @@
     }, 
     "openintents": {
         "count": 2, 
-        "ideas": "http://code.google.com/p/openintents/wiki/GSoC2011Ideas", 
+        "ideas": "http://code.google.com/p/openintents/wiki/GSoC2012Ideas", 
         "name": "OpenIntents", 
         "keyword": "openintents", 
         "tags": [
@@ -237,7 +237,7 @@
     }, 
     "sympy": {
         "count": 4, 
-        "ideas": "https://github.com/sympy/sympy/wiki/gSoC-2011-ideas/", 
+        "ideas": "https://github.com/sympy/sympy/wiki/gsoc-2014-ideas", 
         "name": "SymPy", 
         "keyword": "sympy", 
         "tags": [
@@ -361,7 +361,7 @@
     }, 
     "nuigroup": {
         "count": 4, 
-        "ideas": "http://wiki.nuigroup.com/Google_Summer_of_Code_2009", 
+        "ideas": "http://gsoc.nuigc.com/about/ideas", 
         "name": "Natural User Interface Group", 
         "keyword": "nuigroup", 
         "tags": [
@@ -384,7 +384,7 @@
     }, 
     "statusnet": {
         "count": 2, 
-        "ideas": "http://status.net/wiki/GSoC_2010#Ideas", 
+        "ideas": "http://status.net/wiki/Google_Summer_of_Code_2011", 
         "name": "StatusNet", 
         "keyword": "statusnet", 
         "tags": [
@@ -451,7 +451,7 @@
     }, 
     "metabrainz": {
         "count": 5, 
-        "ideas": "http://wiki.musicbrainz.org/Summer_Of_Code_Ideas", 
+        "ideas": "http://wiki.musicbrainz.org/Development/Summer_of_Code/2014", 
         "name": "MetaBrainz Foundation Inc.", 
         "keyword": "metabrainz", 
         "tags": [
@@ -466,7 +466,7 @@
     }, 
     "parrot": {
         "count": 3, 
-        "ideas": "http://trac.parrot.org/parrot/wiki/GSoc2011", 
+        "ideas": "https://github.com/parrot/parrot/wiki/Summer-of-Code-Task-Ideas", 
         "name": "Parrot Foundation", 
         "keyword": "parrot", 
         "tags": [
@@ -520,7 +520,7 @@
     }, 
     "gnu": {
         "count": 4, 
-        "ideas": "http://gnu.org/software/soc-projects/ideas.html", 
+        "ideas": "http://www.gnu.org/software/soc-projects/ideas-2014.html", 
         "name": "GNU Project ", 
         "keyword": "gnu", 
         "tags": [
@@ -614,7 +614,7 @@
     }, 
     "netfilter": {
         "count": 2, 
-        "ideas": "http://1984.lsi.us.es/~pablo/nf-ideas.txt", 
+        "ideas": "http://people.netfilter.org/pablo/nf-ideas-2014.txt", 
         "name": "Netfilter Project", 
         "keyword": "netfilter", 
         "tags": [
@@ -744,7 +744,7 @@
     }, 
     "idi_idrc": {
         "count": 4, 
-        "ideas": "http://wiki.atutor.ca/display/atutorwiki/Google+Summer+of+Code+2011", 
+        "ideas": "http://wiki.atutor.ca/display/atutorwiki/Google+Summer+of+Code+2014", 
         "name": "Inclusive Design Institute (IDI)", 
         "keyword": "idi_idrc", 
         "tags": [
@@ -772,7 +772,7 @@
     }, 
     "haiku": {
         "count": 5, 
-        "ideas": "http://www.haiku-os.org/community/gsoc2009/ideas", 
+        "ideas": "http://www.haiku-os.org/community/gsoc/2014/ideas", 
         "name": "Haiku", 
         "keyword": "haiku", 
         "tags": [
@@ -795,7 +795,7 @@
     }, 
     "sciruby": {
         "count": 2, 
-        "ideas": "https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2013-Ideas", 
+        "ideas": "https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2014-Ideas", 
         "name": "Ruby Science Foundation", 
         "keyword": "sciruby", 
         "tags": [
@@ -811,7 +811,7 @@
     }, 
     "rtems": {
         "count": 6, 
-        "ideas": "http://rtems.org/wiki/index.php/Open_Projects", 
+        "ideas": "http://www.rtems.org/wiki/index.php/Open_Projects", 
         "name": "RTEMS Project", 
         "keyword": "rtems", 
         "tags": [
@@ -855,7 +855,7 @@
     }, 
     "codehaus": {
         "count": 3, 
-        "ideas": "http://docs.codehaus.org/display/GSOC/Ideas", 
+        "ideas": "https://docs.codehaus.org/display/GSOC/Ideas", 
         "name": "The Codehaus", 
         "keyword": "codehaus", 
         "tags": [
@@ -864,7 +864,7 @@
     }, 
     "jboss": {
         "count": 3, 
-        "ideas": "https://community.jboss.org/wiki/GSOC12Ideas", 
+        "ideas": "https://community.jboss.org/wiki/GSOC14Ideas", 
         "name": "JBoss Community", 
         "keyword": "jboss", 
         "tags": [
@@ -880,7 +880,7 @@
     }, 
     "boost": {
         "count": 4, 
-        "ideas": "https://svn.boost.org/trac/boost/wiki/soc2009", 
+        "ideas": "https://svn.boost.org/trac/boost/wiki/SoC2013", 
         "name": "Boost C++ Libraries ", 
         "keyword": "boost", 
         "tags": [
@@ -904,7 +904,7 @@
     }, 
     "aerospaceresearchnet": {
         "count": 2, 
-        "ideas": "http://aerospaceresearch.net/constellation/forum_thread.php?id=217", 
+        "ideas": "http://aerospaceresearch.net/constellation/forum_thread.php?id=271", 
         "name": "AerospaceResearch.Net", 
         "keyword": "aerospaceresearchnet", 
         "tags": [
@@ -925,7 +925,7 @@
     }, 
     "xmms2": {
         "count": 3, 
-        "ideas": "http://wiki.xmms2.xmms.se/wiki/Summer_of_Code_2009/Proposed_projects", 
+        "ideas": "http://xmms2.org/wiki/GSoC:2011/Proposed_projects", 
         "name": "XMMS2", 
         "keyword": "xmms2", 
         "tags": [
@@ -976,7 +976,7 @@
     }, 
     "pidgin": {
         "count": 4, 
-        "ideas": "http://developer.pidgin.im/wiki/FutureSOCProjects", 
+        "ideas": "https://developer.pidgin.im/wiki/FutureSOCProjects", 
         "name": "\"Pidgin", 
         "keyword": "pidgin", 
         "tags": [
@@ -1008,7 +1008,7 @@
     }, 
     "jato": {
         "count": 2, 
-        "ideas": "http://jatovm.sourceforge.net/ideas.html", 
+        "ideas": "http://www.jatovm.org/projects.html", 
         "name": "Jato", 
         "keyword": "jato", 
         "tags": [
@@ -1061,7 +1061,7 @@
     }, 
     "apache": {
         "count": 4, 
-        "ideas": "http://tinyurl.com/asf-gsoc", 
+        "ideas": "http://s.apache.org/gsoc2014ideas", 
         "name": "Apache Software Foundation", 
         "keyword": "apache", 
         "tags": [
@@ -1077,7 +1077,7 @@
     }, 
     "rockbox": {
         "count": 3, 
-        "ideas": "http://www.rockbox.org/twiki/bin/view/Main/SummerOfCode2009", 
+        "ideas": "http://www.rockbox.org/wiki/SummerOfCode2011", 
         "name": "Rockbox", 
         "keyword": "rockbox", 
         "tags": [
@@ -1108,7 +1108,7 @@
     }, 
     "brlcad": {
         "count": 5, 
-        "ideas": "http://my.brlcad.org/wiki/Google_Summer_of_Code/2009/Project_Ideas", 
+        "ideas": "http://brlcad.org/wiki/Google_Summer_of_Code/Project_Ideas", 
         "name": "BRL-CAD", 
         "keyword": "brlcad", 
         "tags": [
@@ -1155,7 +1155,7 @@
     }, 
     "freenet": {
         "count": 6, 
-        "ideas": "http://wiki.freenetproject.org/SummerOfCode2009", 
+        "ideas": "https://wiki.freenetproject.org/Google_Summer_of_Code/2014", 
         "name": "The Freenet Project", 
         "keyword": "freenet", 
         "tags": [
@@ -1216,7 +1216,7 @@
     }, 
     "networktime": {
         "count": 2, 
-        "ideas": "http://networktimefoundation.org/google-summer-of-code/", 
+        "ideas": "http://wiki.nwtime.org/Main/GoogleSummerOfCode", 
         "name": "Network Time", 
         "keyword": "networktime", 
         "tags": [
@@ -1290,7 +1290,7 @@
     }, 
     "jruby": {
         "count": 2, 
-        "ideas": "https://github.com/jruby/jruby/wiki/GoogleSummerOfCode2012", 
+        "ideas": "https://github.com/jruby/jruby/wiki/Google-Summer-of-Code-2013", 
         "name": "JRuby", 
         "keyword": "jruby", 
         "tags": [
@@ -1324,7 +1324,7 @@
     }, 
     "dbpediaspotlight": {
         "count": 3, 
-        "ideas": "http://wiki.dbpedia.org/spotlight/gsoc2012/ideas/", 
+        "ideas": "http://wiki.dbpedia.org/gsoc2014/ideas", 
         "name": "DBpedia Spotlight", 
         "keyword": "dbpediaspotlight", 
         "tags": [
@@ -1355,7 +1355,7 @@
     }, 
     "plone": {
         "count": 5, 
-        "ideas": "http://socghop.appspot.com/document/show/org/google/gsoc2009/plone/ideas", 
+        "ideas": "http://plone.org/events/summer-of-code/2014", 
         "name": "Plone Foundation", 
         "keyword": "plone", 
         "tags": [
@@ -1379,7 +1379,7 @@
     }, 
     "admin_minix3": {
         "count": 2, 
-        "ideas": "http://www.minix3.org/soc-2009", 
+        "ideas": "http://www.minix3.org/soc/", 
         "name": "MINIX 3", 
         "keyword": "admin_minix3", 
         "tags": [
@@ -1437,7 +1437,7 @@
     }, 
     "jitsi": {
         "count": 2, 
-        "ideas": "http://gsoc.jitsi.org/", 
+        "ideas": "https://jitsi.org/gsoc", 
         "name": "\"Jitsi (SIP Communicator)", 
         "keyword": "jitsi", 
         "tags": [
@@ -1455,7 +1455,7 @@
     }, 
     "mozilla": {
         "count": 6, 
-        "ideas": "http://wiki.mozilla.org/Community:SummerOfCode09", 
+        "ideas": "https://wiki.mozilla.org/Community:SummerOfCode14", 
         "name": "Mozilla Project", 
         "keyword": "mozilla", 
         "tags": [
@@ -1502,7 +1502,7 @@
     }, 
     "moin": {
         "count": 3, 
-        "ideas": "http://moinmo.in/GoogleSoc2009/InitialProjectIdeas", 
+        "ideas": "http://moinmo.in/GoogleSoc2011/InitialProjectIdeas", 
         "name": "MoinMoin Wiki", 
         "keyword": "moin", 
         "tags": [
@@ -1596,7 +1596,7 @@
     }, 
     "eclipse": {
         "count": 6, 
-        "ideas": "http://wiki.eclipse.org/Google_Summer_of_Code_2009_Ideas", 
+        "ideas": "https://wiki.eclipse.org/Google_Summer_of_Code_2014_Ideas", 
         "name": "Eclipse Foundation", 
         "keyword": "eclipse", 
         "tags": [
@@ -1629,7 +1629,7 @@
     }, 
     "systers": {
         "count": 5, 
-        "ideas": "http://systers.org/systers-dev/doku.php/systers_google_summer_of_code", 
+        "ideas": "https://github.com/systers/ossprojects/wiki/GSoC-2014", 
         "name": "Systers: Women in Computing", 
         "keyword": "systers", 
         "tags": [
@@ -1679,7 +1679,7 @@
     }, 
     "umit": {
         "count": 3, 
-        "ideas": "http://www.umitproject.org/ideas", 
+        "ideas": "http://dev.umitproject.org/projects/umitproject/wiki/GSoC2012Ideas", 
         "name": "Umit Project", 
         "keyword": "umit", 
         "tags": [
@@ -1761,7 +1761,7 @@
     }, 
     "plan9": {
         "count": 5, 
-        "ideas": "http://gsoc.cat-v.org/ideas/", 
+        "ideas": "http://www.plan9.bell-labs.com/wiki/plan9/gsoc-2014-ideas/index.html", 
         "name": "Plan 9 from Bell Labs", 
         "keyword": "plan9", 
         "tags": [
@@ -1794,7 +1794,7 @@
     }, 
     "mapnik": {
         "count": 2, 
-        "ideas": "http://trac.mapnik.org/wiki/GSOC2010", 
+        "ideas": "http://trac.mapnik.org/wiki/GSOC2011/Ideas", 
         "name": "Mapnik", 
         "keyword": "mapnik", 
         "tags": [
@@ -1806,7 +1806,7 @@
     }, 
     "sigmah": {
         "count": 3, 
-        "ideas": "http://code.google.com/p/sigma-h/wiki/Ideas4GSoC2012", 
+        "ideas": "http://code.google.com/p/sigma-h/wiki/Ideas4GSoC2014", 
         "name": "Sigmah", 
         "keyword": "sigmah", 
         "tags": [
@@ -1836,7 +1836,7 @@
     }, 
     "lttng": {
         "count": 2, 
-        "ideas": "http://bugs.lttng.org/projects/lttng/wiki/Google_Summer_of_Code_2013", 
+        "ideas": "http://bugs.lttng.org/projects/lttng/wiki/Google_Summer_of_Code_2014", 
         "name": "Linux Trace Toolkit next generation project (LTTng)", 
         "keyword": "lttng", 
         "tags": [
@@ -1852,7 +1852,7 @@
     }, 
     "dragonflybsd": {
         "count": 4, 
-        "ideas": "http://www.dragonflybsd.org/gsoc2009/", 
+        "ideas": "http://www.dragonflybsd.org/docs/developer/gsocprojectspage/", 
         "name": "DragonFly BSD", 
         "keyword": "dragonflybsd", 
         "tags": [
@@ -1879,7 +1879,7 @@
     }, 
     "gentoo": {
         "count": 6, 
-        "ideas": "http://en.gentoo-wiki.com/wiki/Google_Summer_of_Code_2009_ideas", 
+        "ideas": "http://wiki.gentoo.org/index.php?title=Google_Summer_of_Code/2014/Ideas", 
         "name": "Gentoo", 
         "keyword": "gentoo", 
         "tags": [
@@ -1912,7 +1912,7 @@
     }, 
     "javapathfinder": {
         "count": 3, 
-        "ideas": "http://babelfish.arc.nasa.gov/trac/jpf/wiki/events/soc2011", 
+        "ideas": "https://sites.google.com/site/jpfgsoc2013/", 
         "name": "The Java Pathfinder Team", 
         "keyword": "javapathfinder", 
         "tags": [
@@ -1949,7 +1949,7 @@
     }, 
     "xorg": {
         "count": 5, 
-        "ideas": "http://xorg.freedesktop.org/wiki/SummerOfCodeIdeas", 
+        "ideas": "http://www.x.org/wiki/SummerOfCodeIdeas", 
         "name": "X.Org", 
         "keyword": "xorg", 
         "tags": [
@@ -1964,7 +1964,7 @@
     }, 
     "mariadb": {
         "count": 2, 
-        "ideas": "https://kb.askmonty.org/en/google-summer-of-code-2013/", 
+        "ideas": "https://mariadb.com/kb/en/google-summer-of-code-2014/", 
         "name": "MariaDB", 
         "keyword": "mariadb", 
         "tags": [
@@ -1987,7 +1987,7 @@
     }, 
     "django": {
         "count": 6, 
-        "ideas": "http://code.djangoproject.com/wiki/SummerOfCode2009", 
+        "ideas": "https://code.djangoproject.com/wiki/SummerOfCode2014", 
         "name": "Django Software Foundation", 
         "keyword": "django", 
         "tags": [
@@ -2013,7 +2013,7 @@
     }, 
     "freebsd": {
         "count": 6, 
-        "ideas": "http://www.freebsd.org/projects/summerofcode.html", 
+        "ideas": "https://wiki.freebsd.org/SummerOfCode2014Ideas", 
         "name": "The FreeBSD Project", 
         "keyword": "freebsd", 
         "tags": [
@@ -2166,7 +2166,7 @@
     }, 
     "ompl": {
         "count": 2, 
-        "ideas": "http://kavrakilab.org/GSoC2013.html", 
+        "ideas": "http://kavrakilab.org/GSoC2014.html", 
         "name": "The Open Motion Planning Library", 
         "keyword": "ompl", 
         "tags": [
@@ -2194,7 +2194,7 @@
     }, 
     "lf": {
         "count": 4, 
-        "ideas": "https://www.linuxfoundation.org/collaborate/workgroups/gsoc/google-summer-code-2010", 
+        "ideas": "https://www.linuxfoundation.org/collaborate/workgroups/gsoc/google-summer-code-2014", 
         "name": "The Linux Foundation", 
         "keyword": "lf", 
         "tags": [
@@ -2214,7 +2214,7 @@
     }, 
     "lg": {
         "count": 2, 
-        "ideas": "http://code.google.com/p/liquid-galaxy/wiki/GSoC2013Ideas", 
+        "ideas": "http://code.google.com/p/liquid-galaxy/wiki/GSoC2014Ideas", 
         "name": "Liquid Galaxy Project", 
         "keyword": "lg", 
         "tags": [
@@ -2239,7 +2239,7 @@
     }, 
     "vtk": {
         "count": 2, 
-        "ideas": "http://www.vtk.org/Wiki/VTK/GSoC", 
+        "ideas": "http://www.vtk.org/Wiki/VTK/GSoC_2014", 
         "name": "Visualization Toolkit (VTK)", 
         "keyword": "vtk", 
         "tags": [
@@ -2252,7 +2252,7 @@
     }, 
     "selenium": {
         "count": 2, 
-        "ideas": "http://code.google.com/p/selenium/wiki/GoogleSummerOfCode#Project_Ideas", 
+        "ideas": "http://code.google.com/p/selenium/wiki/GoogleSummerOfCode", 
         "name": "Selenium", 
         "keyword": "selenium", 
         "tags": [
@@ -2265,7 +2265,7 @@
     }, 
     "gnss_sdr": {
         "count": 2, 
-        "ideas": "http://gnss-sdr.org/documentation/google-summer-code-2013-ideas-list", 
+        "ideas": "http://gnss-sdr.org/documentation/google-summer-code-2014-ideas-list", 
         "name": "GNSS-SDR", 
         "keyword": "gnss_sdr", 
         "tags": [
@@ -2277,7 +2277,7 @@
     }, 
     "cscs": {
         "count": 2, 
-        "ideas": "http://www.cscs.umich.edu/~rlr/SoC/index.php?n=Main.Soc2009", 
+        "ideas": "http://www.cscs.umich.edu/~rlr/SoC/", 
         "name": "\"Center for the Study of Complex Systems", 
         "keyword": "cscs", 
         "tags": [
@@ -2316,7 +2316,7 @@
     }, 
     "pcl": {
         "count": 3, 
-        "ideas": "http://www.pointclouds.org/gsoc2011/ideas.html", 
+        "ideas": "http://www.pointclouds.org/gsoc/", 
         "name": "Point Cloud Library (PCL)", 
         "keyword": "pcl", 
         "tags": [
@@ -2349,7 +2349,7 @@
     }, 
     "python": {
         "count": 6, 
-        "ideas": "http://wiki.python.org/moin/SummerOfCode/2009", 
+        "ideas": "http://wiki.python.org/moin/SummerOfCode/2014", 
         "name": "Python Software Foundation", 
         "keyword": "python", 
         "tags": [
@@ -2394,7 +2394,7 @@
     }, 
     "opencog": {
         "count": 3, 
-        "ideas": "http://opencog.org/wiki/Ideas", 
+        "ideas": "http://wiki.opencog.org/w/Ideas", 
         "name": "OpenCog sponsored by the Singularity Institute for Artificial Intelligence", 
         "keyword": "opencog", 
         "tags": [
@@ -2459,7 +2459,7 @@
     }, 
     "haskell": {
         "count": 6, 
-        "ideas": "http://hackage.haskell.org/trac/summer-of-code/wiki/WikiStart", 
+        "ideas": "https://ghc.haskell.org/trac/summer-of-code/report/1", 
         "name": "haskell.org", 
         "keyword": "haskell", 
         "tags": [
@@ -2483,7 +2483,7 @@
     }, 
     "osrf": {
         "count": 2, 
-        "ideas": "http://wiki.osrfoundation.org/gsoc13", 
+        "ideas": "http://wiki.osrfoundation.org/gsoc14", 
         "name": "Open Source Robotics Foundation", 
         "keyword": "osrf", 
         "tags": [
@@ -2537,7 +2537,7 @@
     }, 
     "concord": {
         "count": 3, 
-        "ideas": "http://www.concord.org/GSoC", 
+        "ideas": "http://concord.org/GSoC", 
         "name": "The Concord Consortium", 
         "keyword": "concord", 
         "tags": [
@@ -2578,7 +2578,7 @@
     }, 
     "bluez": {
         "count": 4, 
-        "ideas": "http://wiki.bluez.org/wiki/GSoC2009", 
+        "ideas": "http://www.bluez.org/development/gsoc/gsoc-ideas-list-2012/", 
         "name": "BlueZ", 
         "keyword": "bluez", 
         "tags": [
@@ -2695,7 +2695,7 @@
     }, 
     "coreboot": {
         "count": 4, 
-        "ideas": "http://www.coreboot.org/GSoC", 
+        "ideas": "http://www.coreboot.org/Project_Ideas", 
         "name": "coreboot", 
         "keyword": "coreboot", 
         "tags": [
@@ -2712,7 +2712,7 @@
     }, 
     "smc": {
         "count": 2, 
-        "ideas": "http://wiki.smc.org.in/SoC/2013/Project_ideas", 
+        "ideas": "http://wiki.smc.org.in/SoC/2014/Project_ideas", 
         "name": "Swathanthra Malayalam Computing", 
         "keyword": "smc", 
         "tags": [
@@ -2755,7 +2755,7 @@
     }, 
     "ntp": {
         "count": 3, 
-        "ideas": "http://support.ntp.org/bin/view/Dev/GoogleSummerOfCode", 
+        "ideas": "https://support.ntp.org/bin/view/Dev/GSoCProjectIdeas", 
         "name": "NTP Project", 
         "keyword": "ntp", 
         "tags": [
@@ -2788,7 +2788,7 @@
     }, 
     "asf": {
         "count": 2, 
-        "ideas": "http://wiki.apache.org/general/SummerOfCode2009", 
+        "ideas": "http://s.apache.org/gsoc2011tasks", 
         "name": "The Apache Software Foundation", 
         "keyword": "asf", 
         "tags": [
@@ -2804,7 +2804,7 @@
     }, 
     "moinmoin": {
         "count": 2, 
-        "ideas": "http://moinmo.in/GoogleSoc2012/InitialProjectIdeas", 
+        "ideas": "http://moinmo.in/GoogleSoc2013/InitialProjectIdeas", 
         "name": "MoinMoin Wiki", 
         "keyword": "moinmoin", 
         "tags": [
@@ -2836,7 +2836,7 @@
     }, 
     "drupal": {
         "count": 5, 
-        "ideas": "http://groups.drupal.org/soc-2009", 
+        "ideas": "https://groups.drupal.org/node/407793", 
         "name": "Drupal", 
         "keyword": "drupal", 
         "tags": [
@@ -2891,7 +2891,7 @@
     }, 
     "sipcomm": {
         "count": 2, 
-        "ideas": "http://sip-communicator.org/gsoc", 
+        "ideas": "http://gsoc.sip-communicator.org/", 
         "name": "SIP Communicator", 
         "keyword": "sipcomm", 
         "tags": [
@@ -2921,7 +2921,7 @@
     }, 
     "xbmc": {
         "count": 2, 
-        "ideas": "http://wiki.xbmc.org/index.php?title=Google_Summer_of_Code_2012", 
+        "ideas": "http://wiki.xbmc.org/index.php?title=Google_Summer_of_Code_2013", 
         "name": "XBMC Foundation", 
         "keyword": "xbmc", 
         "tags": [
@@ -3032,7 +3032,7 @@
     }, 
     "owasp": {
         "count": 3, 
-        "ideas": "https://www.owasp.org/index.php/GSoC2012_Ideas", 
+        "ideas": "https://www.owasp.org/index.php/GSoC2014_Ideas", 
         "name": "OWASP Foundation", 
         "keyword": "owasp", 
         "tags": [
@@ -3111,7 +3111,7 @@
     }, 
     "monkey": {
         "count": 3, 
-        "ideas": "http://monkey-project.com/gsoc2012/ideas", 
+        "ideas": "http://monkey-project.com/gsoc2014/ideas", 
         "name": "Monkey HTTP Daemon", 
         "keyword": "monkey", 
         "tags": [
@@ -3132,7 +3132,7 @@
     }, 
     "tor": {
         "count": 4, 
-        "ideas": "https://www.torproject.org/gsoc.html.en#Ideas", 
+        "ideas": "https://www.torproject.org/about/gsoc.html.en", 
         "name": "The Tor Project/Electronic Frontier Foundation", 
         "keyword": "tor", 
         "tags": [
@@ -3164,7 +3164,7 @@
     }, 
     "rails": {
         "count": 3, 
-        "ideas": "http://wiki.rubyonrails.org/gsoc/2009/ideas", 
+        "ideas": "https://github.com/rails/gsoc2014/wiki/Ideas", 
         "name": "Ruby on Rails", 
         "keyword": "rails", 
         "tags": [
@@ -3215,7 +3215,7 @@
     }, 
     "mixxx": {
         "count": 5, 
-        "ideas": "http://mixxx.org/wiki/doku.php/gsoc2010ideas", 
+        "ideas": "http://mixxx.org/wiki/doku.php/gsoc2014ideas", 
         "name": "Mixxx Digital DJ", 
         "keyword": "mixxx", 
         "tags": [
@@ -3257,7 +3257,7 @@
     }, 
     "honeynet": {
         "count": 5, 
-        "ideas": "http://www.honeynet.org/gsoc", 
+        "ideas": "http://honeynet.org/gsoc/ideas", 
         "name": "The Honeynet Project", 
         "keyword": "honeynet", 
         "tags": [
@@ -3370,7 +3370,7 @@
     }, 
     "komodo": {
         "count": 2, 
-        "ideas": "http://wiki.komodoopenlab.com/index.php/Main/GSoC2011", 
+        "ideas": "http://wiki.komodoopenlab.com/index.php/Main/GSoC2012", 
         "name": "Komodo OpenLab Inc.", 
         "keyword": "komodo", 
         "tags": [
@@ -3464,7 +3464,7 @@
     }, 
     "scummvm": {
         "count": 6, 
-        "ideas": "http://wiki.scummvm.org/index.php/OpenTasks", 
+        "ideas": "http://wiki.scummvm.org/index.php/GSoC_Ideas", 
         "name": "ScummVM", 
         "keyword": "scummvm", 
         "tags": [
@@ -3483,7 +3483,7 @@
     }, 
     "codeforamerica": {
         "count": 3, 
-        "ideas": "http://codeforamerica.org/projects", 
+        "ideas": "http://codeforamerica.org/gsoc2013/", 
         "name": "Code for America", 
         "keyword": "codeforamerica", 
         "tags": [
@@ -3501,7 +3501,7 @@
     }, 
     "ffmpeg": {
         "count": 2, 
-        "ideas": "http://wiki.multimedia.cx/index.php?title=FFmpeg_Summer_Of_Code_2009", 
+        "ideas": "http://wiki.multimedia.cx/index.php?title=FFmpeg_Summer_Of_Code_2010", 
         "name": "FFmpeg", 
         "keyword": "ffmpeg", 
         "tags": [
@@ -3525,7 +3525,7 @@
     }, 
     "hedgewars": {
         "count": 2, 
-        "ideas": "http://www.hedgewars.org/gsoc_ideas2011.html", 
+        "ideas": "http://www.hedgewars.org/gsoc_ideas2012.html", 
         "name": "Hedgewars Project", 
         "keyword": "hedgewars", 
         "tags": [
@@ -3558,7 +3558,7 @@
     }, 
     "tux4kids": {
         "count": 4, 
-        "ideas": "http://socghop.appspot.com/document/show/user/david_bruce/tux4kids", 
+        "ideas": "https://code.google.com/p/google-summer-of-code-2013-tux4kids/wiki/IdeasList", 
         "name": "Tux4Kids", 
         "keyword": "tux4kids", 
         "tags": [
@@ -3622,7 +3622,7 @@
     }, 
     "buildroot": {
         "count": 2, 
-        "ideas": "http://elinux.org/Buildroot:GSoC2013Ideas", 
+        "ideas": "http://elinux.org/Buildroot:GSoC2014Ideas", 
         "name": "Buildroot", 
         "keyword": "buildroot", 
         "tags": [
@@ -3631,7 +3631,7 @@
     }, 
     "openmrs": {
         "count": 6, 
-        "ideas": "http://soc2009.openmrs.org/", 
+        "ideas": "http://go.openmrs.org/soc2014", 
         "name": "OpenMRS", 
         "keyword": "openmrs", 
         "tags": [
@@ -3702,7 +3702,7 @@
     }, 
     "netsurf": {
         "count": 2, 
-        "ideas": "http://www.netsurf-browser.org/developers/gsoc/2009ideas", 
+        "ideas": "http://www.netsurf-browser.org/developers/gsoc/2014ideas", 
         "name": "NetSurf", 
         "keyword": "netsurf", 
         "tags": [
@@ -3736,7 +3736,7 @@
     }, 
     "sbcl": {
         "count": 2, 
-        "ideas": "http://www.sbcl.org/gsoc2013/ideas/", 
+        "ideas": "http://www.sbcl.org/gsoc2014/ideas/", 
         "name": "Steel Bank Common Lisp", 
         "keyword": "sbcl", 
         "tags": [
@@ -3858,7 +3858,7 @@
     }, 
     "tpf": {
         "count": 3, 
-        "ideas": "http://www.perlfoundation.org/perl5/index.cgi?gsoc_2010_projects", 
+        "ideas": "http://wiki.enlightenedperl.org/gsoc2014/ideas", 
         "name": "The Perl Foundation", 
         "keyword": "tpf", 
         "tags": [
@@ -3869,7 +3869,7 @@
     }, 
     "simplecv": {
         "count": 2, 
-        "ideas": "http://soc.simplecv.org/", 
+        "ideas": "http://simplecv.org/gsoc/2013", 
         "name": "SimpleCV", 
         "keyword": "simplecv", 
         "tags": [
@@ -3922,7 +3922,7 @@
     }, 
     "osuosl": {
         "count": 6, 
-        "ideas": "https://dokuwiki.osuosl.org/soc/ideas2009", 
+        "ideas": "http://wiki.osuosl.org/gsoc/ideas2014.html", 
         "name": "Oregon State University Open Source Lab", 
         "keyword": "osuosl", 
         "tags": [
@@ -3940,7 +3940,7 @@
     }, 
     "scilab": {
         "count": 4, 
-        "ideas": "http://wiki.scilab.org/Ideas_of_development_for_Scilab", 
+        "ideas": "http://wiki.scilab.org/GSoC_project_proposal", 
         "name": "Scilab/Digiteo Foundation", 
         "keyword": "scilab", 
         "tags": [
@@ -3965,7 +3965,7 @@
     }, 
     "sage": {
         "count": 2, 
-        "ideas": "https://docs.google.com/document/pub?id=1v91UmkDvgEInzPFT_g0osid5g69oKKmyx0NclwcyqI4", 
+        "ideas": "https://docs.google.com/document/d/1ipzvwbhfujaubDe0QVO-V9JmmRcLZvitaeXh4r2WNqA/pub", 
         "name": "Sage Mathematical Software System", 
         "keyword": "sage", 
         "tags": [
@@ -3984,7 +3984,7 @@
     }, 
     "linux_foundation": {
         "count": 2, 
-        "ideas": "https://www.linux-foundation.org/en/Google_Summer_of_Code_2009", 
+        "ideas": "https://www.linuxfoundation.org/collaborate/workgroups/gsoc/google-summer-code-2011", 
         "name": "The Linux Foundation", 
         "keyword": "linux_foundation", 
         "tags": [
@@ -4002,7 +4002,7 @@
     }, 
     "buildbot": {
         "count": 4, 
-        "ideas": "http://trac.buildbot.net/wiki/GSoCProjectIdeas", 
+        "ideas": "http://trac.buildbot.net/wiki/ProjectIdeas", 
         "name": "Buildbot", 
         "keyword": "buildbot", 
         "tags": [
@@ -4018,7 +4018,7 @@
     }, 
     "illumos": {
         "count": 4, 
-        "ideas": "http://goo.gl/AEPKN", 
+        "ideas": "http://wiki.illumos.org/display/illumos/Project+Ideas", 
         "name": "illumos", 
         "keyword": "illumos", 
         "tags": [
@@ -4063,7 +4063,7 @@
     }, 
     "blender": {
         "count": 6, 
-        "ideas": "http://wiki.blender.org/index.php/Dev:Ref/GSoC/2009/Ideas", 
+        "ideas": "http://wiki.blender.org/index.php/Dev:Ref/GoogleSummerOfCode/2014/Ideas", 
         "name": "Blender Foundation", 
         "keyword": "blender", 
         "tags": [
@@ -4091,7 +4091,7 @@
     }, 
     "typo3": {
         "count": 5, 
-        "ideas": "http://typo3.org/development/gsoc2009/ideas/", 
+        "ideas": "http://wiki.typo3.org/Gsoc2014/Ideas", 
         "name": "TYPO3 Association", 
         "keyword": "typo3", 
         "tags": [
@@ -4104,7 +4104,7 @@
     }, 
     "dhis2": {
         "count": 2, 
-        "ideas": "http://dhis2.org/gsoc2013", 
+        "ideas": "http://www.dhis2.org/gsoc2014", 
         "name": "Health Information Systems Programme", 
         "keyword": "dhis2", 
         "tags": [
@@ -4158,7 +4158,7 @@
     }, 
     "cernsft": {
         "count": 3, 
-        "ideas": "http://sftweb.cern.ch/gsoc12", 
+        "ideas": "http://sftweb.cern.ch/gsoc14", 
         "name": "CERN SFT", 
         "keyword": "cernsft", 
         "tags": [
@@ -4237,7 +4237,7 @@
     }, 
     "rproject": {
         "count": 4, 
-        "ideas": "http://rwiki.sciviews.org/doku.php?id=developers:projects:gsoc2011", 
+        "ideas": "http://rwiki.sciviews.org/doku.php?id=developers:projects:gsoc2014", 
         "name": "R Project for Statistical Computing ", 
         "keyword": "rproject", 
         "tags": [
@@ -4246,7 +4246,7 @@
     }, 
     "routeflow": {
         "count": 2, 
-        "ideas": "https://sites.google.com/site/routeflow/gsoc13-ideas-list", 
+        "ideas": "https://sites.google.com/site/routeflow/updates/gsoc-ideas", 
         "name": "RouteFlow", 
         "keyword": "routeflow", 
         "tags": [
@@ -4309,7 +4309,7 @@
     }, 
     "opensuse": {
         "count": 5, 
-        "ideas": "http://en.opensuse.org/Summer_of_Code_2009#Ideas", 
+        "ideas": "https://en.opensuse.org/openSUSE:GSOC_ideas", 
         "name": "openSUSE Project", 
         "keyword": "opensuse", 
         "tags": [
@@ -4388,7 +4388,7 @@
     }, 
     "climatecode": {
         "count": 2, 
-        "ideas": "http://code.google.com/p/ccc-gistemp/wiki/GSoC2011", 
+        "ideas": "http://code.google.com/p/ccc-gistemp/wiki/GSoC2012", 
         "name": "Climate Code Foundation", 
         "keyword": "climatecode", 
         "tags": [
@@ -4406,7 +4406,7 @@
     }, 
     "cse_tuwien": {
         "count": 4, 
-        "ideas": "http://www.iue.tuwien.ac.at/cse/ideas.html", 
+        "ideas": "http://www.iue.tuwien.ac.at/cse/index.php/gsoc/2014.html", 
         "name": "Computational Science and Engineering at TU Wien", 
         "keyword": "cse_tuwien", 
         "tags": [
@@ -4496,7 +4496,7 @@
     }, 
     "raxa": {
         "count": 3, 
-        "ideas": "https://raxaemr.atlassian.net/wiki/x/GABE", 
+        "ideas": "https://raxaemr.atlassian.net/wiki/display/RAXAJSS/GSoC+2014+Ideas+Page", 
         "name": "Raxa", 
         "keyword": "raxa", 
         "tags": [
@@ -4508,7 +4508,7 @@
     }, 
     "puppetlabs": {
         "count": 2, 
-        "ideas": "http://projects.puppetlabs.com/projects/puppet/wiki/GSOC12", 
+        "ideas": "https://projects.puppetlabs.com/projects/puppet/wiki/GSOC", 
         "name": "Puppet Labs", 
         "keyword": "puppetlabs", 
         "tags": [
@@ -4517,7 +4517,7 @@
     }, 
     "mifos": {
         "count": 3, 
-        "ideas": "http://mifos.org/developers/wiki/SoC2009Ideas", 
+        "ideas": "http://mifosforge.jira.com/wiki/display/RES/Google+Summer+of+Code+2014+Ideas", 
         "name": "Mifos", 
         "keyword": "mifos", 
         "tags": [
@@ -4548,7 +4548,7 @@
     }, 
     "sahana": {
         "count": 5, 
-        "ideas": "http://wiki.sahana.lk/doku.php?do=show&id=dev:sahana_gsoc09_ideas", 
+        "ideas": "https://docs.google.com/a/sahanafoundation.org/document/d/15GzwvZRI8SlYRUYzuqkPsjnLNMiBLtT6KqXgNR_GpAw/edit", 
         "name": "Sahana", 
         "keyword": "sahana", 
         "tags": [
@@ -4563,7 +4563,7 @@
     }, 
     "ogre": {
         "count": 2, 
-        "ideas": "http://www.ogre3d.org/tikiwiki/Help+Requested", 
+        "ideas": "http://www.ogre3d.org/tikiwiki/tiki-index.php?page=Help+Requested", 
         "name": "OGRE (Object-Oriented Graphics Rendering Engine) ", 
         "keyword": "ogre", 
         "tags": [
@@ -4572,7 +4572,7 @@
     }, 
     "sunlightlabs": {
         "count": 2, 
-        "ideas": "http://wiki.sunlightlabs.com/GSOC_2010", 
+        "ideas": "http://sunlightlabs.com/wiki/GSOC_2011/", 
         "name": "Sunlight Labs", 
         "keyword": "sunlightlabs", 
         "tags": [
@@ -4585,7 +4585,7 @@
     }, 
     "ganeti": {
         "count": 2, 
-        "ideas": "http://code.google.com/p/ganeti/wiki/SummerOfCode2013Ideas", 
+        "ideas": "http://code.google.com/p/ganeti/wiki/SummerOfCode2014Ideas", 
         "name": "Ganeti", 
         "keyword": "ganeti", 
         "tags": [
@@ -4729,7 +4729,7 @@
     }, 
     "moodle": {
         "count": 5, 
-        "ideas": "http://docs.moodle.org/en/Projects_for_new_developers", 
+        "ideas": "http://docs.moodle.org/dev/Projects_for_new_developers", 
         "name": "Moodle", 
         "keyword": "moodle", 
         "tags": [
@@ -4782,7 +4782,7 @@
     }, 
     "fossasia": {
         "count": 3, 
-        "ideas": "http://wiki.fossasia.org/index.php/GSoC_Ideas", 
+        "ideas": "http://fossasia.org/gsoc-ideas", 
         "name": "FOSSASIA", 
         "keyword": "fossasia", 
         "tags": [
@@ -4801,7 +4801,7 @@
     }, 
     "wx": {
         "count": 4, 
-        "ideas": "http://wiki.wxwidgets.org/Development:_Student_Projects", 
+        "ideas": "http://www.wxwidgets.org/gsoc/projects/", 
         "name": "wxWidgets", 
         "keyword": "wx", 
         "tags": [
@@ -4862,7 +4862,7 @@
     }, 
     "mono": {
         "count": 6, 
-        "ideas": "http://mono-project.com/StudentProjects", 
+        "ideas": "http://www.mono-project.com/StudentProjects", 
         "name": "Mono Project", 
         "keyword": "mono", 
         "tags": [
@@ -4894,7 +4894,7 @@
     }, 
     "ogdf": {
         "count": 3, 
-        "ideas": "http://www.ogdf.net/doku.php/gsoc2012-ideas", 
+        "ideas": "http://www.ogdf.net/doku.php/gsoc2014-ideas", 
         "name": "OGDF - Open Graph Drawing Framework", 
         "keyword": "ogdf", 
         "tags": [
@@ -4910,7 +4910,7 @@
     }, 
     "docbook": {
         "count": 2, 
-        "ideas": "http://bit.ly/dbideas", 
+        "ideas": "http://docbook.xmlpress.net/tiki-index.php?page=Ideas2012", 
         "name": "DocBook Project", 
         "keyword": "docbook", 
         "tags": [
@@ -4925,7 +4925,7 @@
     }, 
     "phpmyadmin": {
         "count": 4, 
-        "ideas": "http://wiki.phpmyadmin.net/pma/GSoC_2011_Ideas_List", 
+        "ideas": "http://wiki.phpmyadmin.net/pma/GSoC_2014_Ideas_List", 
         "name": "phpMyAdmin", 
         "keyword": "phpmyadmin", 
         "tags": [
@@ -4938,7 +4938,7 @@
     }, 
     "cc": {
         "count": 4, 
-        "ideas": "http://wiki.creativecommons.org/Developer_Challenges", 
+        "ideas": "http://wiki.creativecommons.org/Summer_of_Code_2013", 
         "name": "Creative Commons", 
         "keyword": "cc", 
         "tags": [
@@ -4947,7 +4947,7 @@
     }, 
     "xwiki": {
         "count": 4, 
-        "ideas": "http://dev.xwiki.org/xwiki/bin/GoogleSummerOfCode/", 
+        "ideas": "http://gsoc.xwiki.org/", 
         "name": "XWiki", 
         "keyword": "xwiki", 
         "tags": [
@@ -4988,7 +4988,7 @@
     }, 
     "maemo": {
         "count": 2, 
-        "ideas": "http://wiki.maemo.org/GSoC_2009", 
+        "ideas": "http://wiki.maemo.org/GSoC_2010/Project_ideas", 
         "name": "Maemo Community", 
         "keyword": "maemo", 
         "tags": [
@@ -5007,7 +5007,7 @@
     }, 
     "sakai": {
         "count": 3, 
-        "ideas": "http://bugs.sakaiproject.org/confluence/display/MGT/Google+Summer+of+Code+2009+ideas+list", 
+        "ideas": "https://confluence.sakaiproject.org/display/MGT/Google+Summer+of+Code+2011+ideas+list", 
         "name": "Sakai Foundation", 
         "keyword": "sakai", 
         "tags": [
@@ -5076,7 +5076,7 @@
     }, 
     "qemu": {
         "count": 4, 
-        "ideas": "http://wiki.qemu.org/Google_Summer_of_Code_2010", 
+        "ideas": "http://qemu-project.org/Google_Summer_of_Code_2014", 
         "name": "QEMU development team", 
         "keyword": "qemu", 
         "tags": [
@@ -5095,7 +5095,7 @@
     }, 
     "reviewboard": {
         "count": 4, 
-        "ideas": "http://www.review-board.org/wiki/Summer_of_Code_Ideas", 
+        "ideas": "http://code.google.com/p/reviewboard/wiki/Student_Project_Ideas", 
         "name": "Review Board", 
         "keyword": "reviewboard", 
         "tags": [
@@ -5118,7 +5118,7 @@
     }, 
     "abiword": {
         "count": 5, 
-        "ideas": "http://www.abisource.com/wiki/Google_Summer_of_Code_2009", 
+        "ideas": "http://www.abisource.com/wiki/Google_Summer_of_Code_2013", 
         "name": "AbiWord", 
         "keyword": "abiword", 
         "tags": [
@@ -5151,7 +5151,7 @@
     }, 
     "freeseer": {
         "count": 2, 
-        "ideas": "https://github.com/fosslc/freeseer/issues/labels/summer%20code", 
+        "ideas": "https://github.com/Freeseer/freeseer/wiki/NewProject", 
         "name": "Freeseer video recording and streaming suite", 
         "keyword": "freeseer", 
         "tags": [
@@ -5165,7 +5165,7 @@
     }, 
     "nrnb": {
         "count": 4, 
-        "ideas": "http://nrnb.org/gsoc", 
+        "ideas": "http://nrnb.org/gsoc/index.html#ideas-tab", 
         "name": "\"National Resource for Network Biology (GenMAPP", 
         "keyword": "nrnb", 
         "tags": [
@@ -5199,7 +5199,7 @@
     }, 
     "epfl_scala": {
         "count": 3, 
-        "ideas": "http://www.scala-lang.org/gsoc2012", 
+        "ideas": "http://www.scala-lang.org/gsoc/2014.html", 
         "name": "Scala Team", 
         "keyword": "epfl_scala", 
         "tags": [
@@ -5251,7 +5251,7 @@
     }, 
     "scripps_crowdbio": {
         "count": 2, 
-        "ideas": "http://sulab.org/gsoc/", 
+        "ideas": "http://sulab.org/gsoc/#ideas", 
         "name": "Crowdsourcing Biology", 
         "keyword": "scripps_crowdbio", 
         "tags": [
@@ -5344,7 +5344,7 @@
     }, 
     "omii_uk": {
         "count": 2, 
-        "ideas": "http://www.omii.ac.uk/wiki/GoogleSummerOfCode#section-GoogleSummerOfCode-2009ProjectIdeas", 
+        "ideas": "http://www.omii.ac.uk/wiki/GoogleSummerOfCode#section-GoogleSummerOfCode-2010ProjectIdeas", 
         "name": "OMII-UK", 
         "keyword": "omii_uk", 
         "tags": [
@@ -5376,7 +5376,7 @@
     }, 
     "bmi_cci": {
         "count": 3, 
-        "ideas": "http://confluence.cci.emory.edu:8090/display/GSOC/Ideas+2012", 
+        "ideas": "https://docs.imphub.org/display/PS/Google+Summer+of+Code+-+2014", 
         "name": "\"Dept. of Biomedical Informatics", 
         "keyword": "bmi_cci", 
         "tags": [
@@ -5402,7 +5402,7 @@
     }, 
     "berkman": {
         "count": 3, 
-        "ideas": "http://cyber.law.harvard.edu/gsoc2009/Main_Page", 
+        "ideas": "http://cyber.law.harvard.edu/gsoc/Main_Page", 
         "name": "Berkman Center at Harvard University", 
         "keyword": "berkman", 
         "tags": [
@@ -5446,7 +5446,7 @@
     }, 
     "m_lab": {
         "count": 2, 
-        "ideas": "http://measurementlab.net/gsoc_2013", 
+        "ideas": "http://www.measurementlab.net/page/gsoc_2014", 
         "name": "Measurement Lab (M-Lab)", 
         "keyword": "m_lab", 
         "tags": [
@@ -5458,7 +5458,7 @@
     }, 
     "wiselib": {
         "count": 3, 
-        "ideas": "http://www.wiselib.org/gsoc/", 
+        "ideas": "http://www.wiselib.org/gsoc/project_ideas.html", 
         "name": "The Wiselib", 
         "keyword": "wiselib", 
         "tags": [
@@ -5473,7 +5473,7 @@
     }, 
     "n52": {
         "count": 3, 
-        "ideas": "https://wiki.52north.org/bin/view/Main/GSoC2012IdeasPage", 
+        "ideas": "https://wiki.52north.org/bin/view/Projects/GSoC2014ProjectIdeas", 
         "name": "52\u00b0North Initiative for Geospatial Open Source Software GmbH", 
         "keyword": "n52", 
         "tags": [
@@ -5515,7 +5515,7 @@
     }, 
     "videolan": {
         "count": 3, 
-        "ideas": "http://wiki.videolan.org/SoC_2009", 
+        "ideas": "http://wiki.videolan.org/SoC_2011", 
         "name": "VideoLAN", 
         "keyword": "videolan", 
         "tags": [
@@ -5539,7 +5539,7 @@
     }, 
     "gimp": {
         "count": 5, 
-        "ideas": "http://wiki.gimp.org/gimp/SummerOfCode2009ideas", 
+        "ideas": "http://wiki.gimp.org/index.php?title=Hacking:GSoC/2013/Ideas", 
         "name": "GNU Image Manipulation Program", 
         "keyword": "gimp", 
         "tags": [
@@ -5555,7 +5555,7 @@
     }, 
     "fedora": {
         "count": 4, 
-        "ideas": "http://fedoraproject.org/wiki/Summer_coding_ideas_for_2011", 
+        "ideas": "http://fedoraproject.org/wiki/Summer_coding_ideas_for_2014", 
         "name": "The Fedora Project", 
         "keyword": "fedora", 
         "tags": [
@@ -5585,7 +5585,7 @@
     }, 
     "unknown_horizons": {
         "count": 2, 
-        "ideas": "http://wiki.unknown-horizons.org/w/Ideas_2011", 
+        "ideas": "http://wiki.unknown-horizons.org/w/Ideas_2012", 
         "name": "Unknown Horizons", 
         "keyword": "unknown_horizons", 
         "tags": [
@@ -5660,7 +5660,7 @@
     }, 
     "incf": {
         "count": 4, 
-        "ideas": "http://incf.org/gsoc", 
+        "ideas": "http://incf.org/gsoc/2014/proposals", 
         "name": "International Neuroinformatics Coordinating Facility", 
         "keyword": "incf", 
         "tags": [
@@ -5692,7 +5692,7 @@
     }, 
     "sugarlabs": {
         "count": 2, 
-        "ideas": "http://wiki.sugarlabs.org/go/DevelopmentTeam/ProjectIdeas", 
+        "ideas": "http://wiki.sugarlabs.org/go/Summer_of_Code/2014", 
         "name": "Sugar Labs educational platform (a member of the SFC)", 
         "keyword": "sugarlabs", 
         "tags": [
@@ -5724,7 +5724,7 @@
     }, 
     "pardus": {
         "count": 2, 
-        "ideas": "http://en.pardus-wiki.org/SummerOfCode2009Ideas", 
+        "ideas": "http://en.pardus-wiki.org/SummerOfCode2010Ideas", 
         "name": "Pardus", 
         "keyword": "pardus", 
         "tags": [
@@ -5751,7 +5751,7 @@
     }, 
     "geogebra": {
         "count": 3, 
-        "ideas": "http://www.geogebra.org/trac/wiki/Gsoc2010", 
+        "ideas": "http://dev.geogebra.org/trac/wiki/Gsoc2012", 
         "name": "International GeoGebra Institute", 
         "keyword": "geogebra", 
         "tags": [
@@ -5782,7 +5782,7 @@
     }, 
     "tianocore": {
         "count": 2, 
-        "ideas": "http://sourceforge.net/apps/mediawiki/tianocore/index.php?title=GSOC2011", 
+        "ideas": "http://sourceforge.net/apps/mediawiki/tianocore/index.php?title=GSoC2012", 
         "name": "Tianocore", 
         "keyword": "tianocore", 
         "tags": [
@@ -5811,7 +5811,7 @@
     }, 
     "globus": {
         "count": 3, 
-        "ideas": "http://dev.globus.org/wiki/Google_Summer_of_Code_2009_Ideas", 
+        "ideas": "http://dev.globus.org/wiki/Google_Summer_of_Code_2011_Ideas", 
         "name": "The Globus Alliance", 
         "keyword": "globus", 
         "tags": [
@@ -5829,7 +5829,7 @@
     }, 
     "opennms": {
         "count": 3, 
-        "ideas": "http://www.opennms.org/wiki/Google_Summer_of_Code_2011#Ideas_List", 
+        "ideas": "http://www.opennms.org/wiki/Google_Summer_of_Code_2013", 
         "name": "OpenNMS", 
         "keyword": "opennms", 
         "tags": [
@@ -5859,7 +5859,7 @@
     }, 
     "connexions": {
         "count": 2, 
-        "ideas": "https://trac.rhaptos.org/trac/rhaptos/wiki/Google%20Summer%20Of%20Code%202011/Projects", 
+        "ideas": "https://trac.rhaptos.org/trac/rhaptos/wiki/Google%20Summer%20of%20Code%202012/Projects", 
         "name": "Connexions", 
         "keyword": "connexions", 
         "tags": [
@@ -5910,7 +5910,7 @@
     }, 
     "gdcm": {
         "count": 2, 
-        "ideas": "http://sourceforge.net/apps/mediawiki/gdcm/index.php?title=GDCM_Summer_of_Code_2011", 
+        "ideas": "http://sourceforge.net/apps/mediawiki/gdcm/index.php?title=GDCM_Summer_of_Code_2012", 
         "name": "Grassroots DICOM", 
         "keyword": "gdcm", 
         "tags": [
@@ -5994,7 +5994,7 @@
     }, 
     "jikesrvm": {
         "count": 3, 
-        "ideas": "http://jikesrvm.org/Project+Proposals+2010", 
+        "ideas": "http://jikesrvm.org/Google+Summer+of+Code+2012", 
         "name": "Jikes RVM", 
         "keyword": "jikesrvm", 
         "tags": [
@@ -6029,7 +6029,7 @@
     }, 
     "opencv": {
         "count": 5, 
-        "ideas": "http://opencv.willowgarage.com/wiki/GSOC_OpenCV2010", 
+        "ideas": "http://code.opencv.org/projects/opencv/wiki/GSoC_2014", 
         "name": "Open Source Computer Vision Library", 
         "keyword": "opencv", 
         "tags": [
@@ -6042,7 +6042,7 @@
     }, 
     "wikimedia": {
         "count": 6, 
-        "ideas": "http://www.mediawiki.org/wiki/Summer_of_Code_2009", 
+        "ideas": "https://www.mediawiki.org/wiki/Google_Summer_of_Code_2014", 
         "name": "Wikimedia Foundation", 
         "keyword": "wikimedia", 
         "tags": [
@@ -6066,7 +6066,7 @@
     }, 
     "libreoffice": {
         "count": 4, 
-        "ideas": "http://wiki.documentfoundation.org/Development/Gsoc/Ideas", 
+        "ideas": "https://wiki.documentfoundation.org/Development/Gsoc/Ideas", 
         "name": "LibreOffice", 
         "keyword": "libreoffice", 
         "tags": [
@@ -6108,7 +6108,7 @@
     }, 
     "osgeo": {
         "count": 6, 
-        "ideas": "http://wiki.osgeo.org/wiki/Google_Summer_of_Code_2009_Ideas", 
+        "ideas": "http://wiki.osgeo.org/wiki/Google_Summer_of_Code_2014_Ideas", 
         "name": "OSGeo - Open Source Geospatial Foundation ", 
         "keyword": "osgeo", 
         "tags": [
@@ -6149,7 +6149,7 @@
     }, 
     "esug": {
         "count": 3, 
-        "ideas": "http://gsoc2010.esug.org/projects", 
+        "ideas": "http://gsoc2013.esug.org/projects", 
         "name": "European Smalltalk User Group (ESUG)", 
         "keyword": "esug", 
         "tags": [
@@ -6214,7 +6214,7 @@
     }, 
     "swig": {
         "count": 2, 
-        "ideas": "http://code.google.com/p/swig-gsoc/wiki/ProjectIdeas", 
+        "ideas": "http://codewrapper.com/wiki/index.php?title=SWIG_GSoC_2012_ideas_page", 
         "name": "SWIG", 
         "keyword": "swig", 
         "tags": [
@@ -6236,7 +6236,7 @@
     }, 
     "wesnoth": {
         "count": 6, 
-        "ideas": "http://www.wesnoth.org/wiki/SummerOfCodeIdeas", 
+        "ideas": "http://wiki.wesnoth.org/SummerOfCodeIdeas", 
         "name": "Battle for Wesnoth", 
         "keyword": "wesnoth", 
         "tags": [
@@ -6258,7 +6258,7 @@
     }, 
     "phpbb": {
         "count": 3, 
-        "ideas": "http://wiki.phpbb.com/GSoC/2012/Ideas", 
+        "ideas": "https://wiki.phpbb.com/GSoC/2014/Ideas", 
         "name": "phpBB Forum Software", 
         "keyword": "phpbb", 
         "tags": [
@@ -6290,7 +6290,7 @@
     }, 
     "scribus": {
         "count": 2, 
-        "ideas": "http://wiki.scribus.net/canvas/GSoC_2011_Ideas", 
+        "ideas": "http://wiki.scribus.net/canvas/GSoC_2012_Ideas", 
         "name": "Scribus Team", 
         "keyword": "scribus", 
         "tags": [
@@ -6305,7 +6305,7 @@
     }, 
     "xsf": {
         "count": 3, 
-        "ideas": "http://wiki.xmpp.org/web/Summer_of_Code_2010_Project_Ideas", 
+        "ideas": "http://wiki.xmpp.org/web/Summer_of_Code_2012", 
         "name": "XMPP Standards Foundation", 
         "keyword": "xsf", 
         "tags": [
@@ -6351,7 +6351,7 @@
     }, 
     "kernelorg": {
         "count": 3, 
-        "ideas": "http://korg.wiki.kernel.org/index.php/Gsoc2010:ideas", 
+        "ideas": "https://korg.wiki.kernel.org/index.php/Gsoc2012:ideas", 
         "name": "Kernel.org - the Linux Kernel Organization", 
         "keyword": "kernelorg", 
         "tags": [
@@ -6422,7 +6422,7 @@
     }, 
     "google": {
         "count": 2, 
-        "ideas": "http://socghop.appspot.com/document/show/program/google/gsoc2009/faqs#no_org", 
+        "ideas": "", 
         "name": "Google's Open Source Programs Office", 
         "keyword": "google", 
         "tags": [
@@ -6432,7 +6432,7 @@
     }, 
     "turbogears": {
         "count": 2, 
-        "ideas": "http://docs.turbogears.org/GSoC/Ideas2009", 
+        "ideas": "http://docs.turbogears.org/GSoC/Ideas2010", 
         "name": "TurboGears", 
         "keyword": "turbogears", 
         "tags": [
@@ -6453,7 +6453,7 @@
     }, 
     "kde": {
         "count": 6, 
-        "ideas": "http://techbase.kde.org/index.php?title=Projects/Summer_of_Code/2009/Ideas", 
+        "ideas": "http://community.kde.org/GSoC/2014/Ideas", 
         "name": "KDE", 
         "keyword": "kde", 
         "tags": [
@@ -6477,7 +6477,7 @@
     }, 
     "twitter": {
         "count": 3, 
-        "ideas": "https://github.com/twitter/twitter.github.com/wiki/Google-Summer-of-Code-2012", 
+        "ideas": "https://github.com/twitter/twitter.github.com/wiki/Google-Summer-of-Code-2014", 
         "name": "Twitter", 
         "keyword": "twitter", 
         "tags": [
@@ -6488,7 +6488,7 @@
     }, 
     "ascend": {
         "count": 4, 
-        "ideas": "http://ascendwiki.cheme.cmu.edu/Student_Projects", 
+        "ideas": "http://ascend4.org/Student_Projects", 
         "name": "ASCEND", 
         "keyword": "ascend", 
         "tags": [
@@ -6519,7 +6519,7 @@
     }, 
     "drizzle": {
         "count": 4, 
-        "ideas": "http://drizzle.org/wiki/Soc", 
+        "ideas": "http://wiki.drizzle.org/", 
         "name": "Drizzle", 
         "keyword": "drizzle", 
         "tags": [
@@ -6530,7 +6530,7 @@
     }, 
     "inkscape": {
         "count": 5, 
-        "ideas": "http://wiki.inkscape.org/wiki/index.php/Google_Summer_Of_Code", 
+        "ideas": "http://wiki.inkscape.org/wiki/index.php/Google_Summer_Of_Code#Suggested_Ideas", 
         "name": "Inkscape", 
         "keyword": "inkscape", 
         "tags": [
@@ -6564,7 +6564,7 @@
     }, 
     "scala": {
         "count": 2, 
-        "ideas": "http://www.scala-lang.org/node/5542", 
+        "ideas": "http://www.scala-lang.org/gsoc2011", 
         "name": "\"\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne", 
         "keyword": "scala", 
         "tags": [
@@ -6575,7 +6575,7 @@
     }, 
     "chromium": {
         "count": 3, 
-        "ideas": "http://docs.google.com/Edit?id=dhk32tn7_0g7kcr2cg", 
+        "ideas": "https://sites.google.com/a/chromium.org/dev/getting-involved/summerofcode2013", 
         "name": "Chromium", 
         "keyword": "chromium", 
         "tags": [
@@ -6596,7 +6596,7 @@
     }, 
     "melange": {
         "count": 6, 
-        "ideas": "http://code.google.com/p/soc/wiki/GSoC2009Ideas", 
+        "ideas": "https://code.google.com/p/soc/wiki/GSoC2014Ideas", 
         "name": "Melange", 
         "keyword": "melange", 
         "tags": [
@@ -6646,7 +6646,7 @@
     }, 
     "genmapp": {
         "count": 2, 
-        "ideas": "http://genmapp.cgl.ucsf.edu/wiki/Google_Summer_of_Code_2009", 
+        "ideas": "http://genmapp.cgl.ucsf.edu/wiki/Google_Summer_of_Code_2010", 
         "name": "GenMAPP", 
         "keyword": "genmapp", 
         "tags": [
@@ -6677,7 +6677,7 @@
     }, 
     "processing": {
         "count": 4, 
-        "ideas": "http://code.google.com/p/processing/wiki/ProjectList", 
+        "ideas": "https://github.com/processing/processing/wiki/Project-List", 
         "name": "Processing", 
         "keyword": "processing", 
         "tags": [
@@ -6692,7 +6692,7 @@
     }, 
     "shogun": {
         "count": 4, 
-        "ideas": "http://www.shogun-toolbox.org/gsoc-ideas.html", 
+        "ideas": "http://shogun-toolbox.org/page/Events/gsoc2014_ideas", 
         "name": "Shogun Machine Learning Toolbox (Technical University Berlin / Max Planck Campus T\u00fcbingen)", 
         "keyword": "shogun", 
         "tags": [
@@ -6804,7 +6804,7 @@
     }, 
     "gnome": {
         "count": 6, 
-        "ideas": "http://live.gnome.org/SummerOfCode2009/Ideas", 
+        "ideas": "https://wiki.gnome.org/Outreach/SummerOfCode/2014/Ideas", 
         "name": "GNOME", 
         "keyword": "gnome", 
         "tags": [
@@ -6851,7 +6851,7 @@
     }, 
     "obf": {
         "count": 4, 
-        "ideas": "http://open-bio.org/wiki/Google_Summer_of_Code", 
+        "ideas": "http://www.open-bio.org/wiki/Google_Summer_of_Code_2014_Ideas", 
         "name": "Open Bioinformatics Foundation", 
         "keyword": "obf", 
         "tags": [
@@ -6947,7 +6947,7 @@
     }, 
     "joomla": {
         "count": 4, 
-        "ideas": "http://docs.joomla.org/Summer_of_Code_2009_Project_Ideas", 
+        "ideas": "http://docs.joomla.org/GSOC_2014_Project_Ideas", 
         "name": "Joomla!", 
         "keyword": "joomla", 
         "tags": [
@@ -6962,7 +6962,7 @@
     }, 
     "ospo": {
         "count": 2, 
-        "ideas": "", 
+        "ideas": "http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page#16._What_if_there_is_no_organization", 
         "name": "Google Open Source Programs Office", 
         "keyword": "ospo", 
         "tags": [
@@ -6973,7 +6973,7 @@
     }, 
     "clojure": {
         "count": 2, 
-        "ideas": "http://dev.clojure.org/display/community/", 
+        "ideas": "http://dev.clojure.org/display/community/Project+Ideas", 
         "name": "Clojure/dev", 
         "keyword": "clojure", 
         "tags": [
@@ -6984,7 +6984,7 @@
     }, 
     "gambit": {
         "count": 3, 
-        "ideas": "http://www.gambit-project.org/doc/ideas.html", 
+        "ideas": "http://www.gambit-project.org/gambit14/ideas.html", 
         "name": "The Gambit Project", 
         "keyword": "gambit", 
         "tags": [
@@ -7012,7 +7012,7 @@
     }, 
     "helenos": {
         "count": 3, 
-        "ideas": "http://www.helenos.org/gsoc2011", 
+        "ideas": "http://www.helenos.org/gsoc2014", 
         "name": "\"HelenOS group at Department of Distributed and Dependable Systems", 
         "keyword": "helenos", 
         "tags": [
@@ -7040,7 +7040,7 @@
     }, 
     "limesurvey": {
         "count": 2, 
-        "ideas": "http://docs.limesurvey.org/LimeSurvey+2+Project+Ideas+for+GSOC+2010&structure=LimeSurvey+Development", 
+        "ideas": "http://docs.limesurvey.org/Project+Ideas+for+GSOC+2011", 
         "name": "LimeSurvey", 
         "keyword": "limesurvey", 
         "tags": [
@@ -7104,7 +7104,7 @@
     }, 
     "git": {
         "count": 5, 
-        "ideas": "http://git.or.cz/gitwiki/SoC2009Ideas", 
+        "ideas": "http://git.github.io/SoC-2014-Ideas.html", 
         "name": "Git Development Community", 
         "keyword": "git", 
         "tags": [
@@ -7115,7 +7115,7 @@
     }, 
     "openicc": {
         "count": 3, 
-        "ideas": "http://freedesktop.org/wiki/OpenIcc/GoogleSoC2010", 
+        "ideas": "http://www.freedesktop.org/wiki/OpenIcc/GoogleSoC2012", 
         "name": "OpenICC", 
         "keyword": "openicc", 
         "tags": [
@@ -7169,7 +7169,7 @@
     }, 
     "wordpress": {
         "count": 5, 
-        "ideas": "http://codex.wordpress.org/GSoC2009", 
+        "ideas": "http://codex.wordpress.org/GSoC2014", 
         "name": "WordPress", 
         "keyword": "wordpress", 
         "tags": [
@@ -7203,7 +7203,7 @@
     }, 
     "bloomington": {
         "count": 2, 
-        "ideas": "http://bloomington.in.gov/documents/viewDocument.php?document_id=6580", 
+        "ideas": "http://bloomington.in.gov/documents/viewDocument.php?document_id=7522", 
         "name": "\"Bloomington", 
         "keyword": "bloomington", 
         "tags": [
@@ -7264,7 +7264,7 @@
     }, 
     "sdl": {
         "count": 3, 
-        "ideas": "http://www.libsdl.org/gsoc-ideas.php", 
+        "ideas": "http://www.libsdl.org/gsoc-ideas-2011.php", 
         "name": "Simple DirectMedia Layer", 
         "keyword": "sdl", 
         "tags": [
@@ -7273,7 +7273,7 @@
     }, 
     "ns3": {
         "count": 5, 
-        "ideas": "http://www.nsnam.org/wiki/index.php/GSOC2009Projects", 
+        "ideas": "https://www.nsnam.org/wiki/index.php/GSOC2014Projects", 
         "name": "The ns-3 Network Simulator Project", 
         "keyword": "ns3", 
         "tags": [
@@ -7318,7 +7318,7 @@
     }, 
     "hg": {
         "count": 3, 
-        "ideas": "http://www.selenic.com/mercurial/wiki/index.cgi/SummerOfCode", 
+        "ideas": "http://mercurial.selenic.com/wiki/SummerOfCode/Ideas2013", 
         "name": "Mercurial (a member of the Software Freedom Conservancy)", 
         "keyword": "hg", 
         "tags": [
@@ -7368,7 +7368,7 @@
     }, 
     "crystalspace": {
         "count": 5, 
-        "ideas": "http://trac.crystalspace3d.org/trac/CS/wiki/SoC", 
+        "ideas": "http://www.crystalspace3d.org/trac/CS/wiki/SoC%20Ideas", 
         "name": "Crystal Space", 
         "keyword": "crystalspace", 
         "tags": [
@@ -7429,7 +7429,7 @@
     }, 
     "gephi": {
         "count": 5, 
-        "ideas": "http://gephi.org/forum/topic.php?id=408", 
+        "ideas": "https://wiki.gephi.org/index.php/Google_Summer_Of_Code_2013", 
         "name": "Association Gephi", 
         "keyword": "gephi", 
         "tags": [
@@ -7445,7 +7445,7 @@
     }, 
     "thinkup": {
         "count": 2, 
-        "ideas": "https://github.com/ginatrapani/ThinkUp/wiki/Google-Summer-of-Code-2013-Ideas-Page", 
+        "ideas": "https://github.com/ginatrapani/ThinkUp/wiki/Google-Summer-of-Code-2014-Ideas-Page", 
         "name": "ThinkUp", 
         "keyword": "thinkup", 
         "tags": [
@@ -7470,7 +7470,7 @@
     }, 
     "oar": {
         "count": 2, 
-        "ideas": "http://wiki-oar.imag.fr/index.php/Google_summer_of_code", 
+        "ideas": "http://wiki-oar.imag.fr/index.php/GSOC_2010_Proposals", 
         "name": "OAR", 
         "keyword": "oar", 
         "tags": [
@@ -7518,7 +7518,7 @@
     }, 
     "tcltk": {
         "count": 3, 
-        "ideas": "http://wiki.tcl.tk/22182", 
+        "ideas": "http://www.tcl.tk/gsoc/", 
         "name": "Tcl Community Association", 
         "keyword": "tcltk", 
         "tags": [
@@ -7574,7 +7574,7 @@
     }, 
     "asterisk": {
         "count": 2, 
-        "ideas": "http://svn.digium.com/svn/asterisk/team/group/gsoc-2009/ideas.txt", 
+        "ideas": "http://svn.digium.com/svn-view/asterisk/team/group/gsoc-2010/ideas.txt?view=markup", 
         "name": "The Asterisk Project", 
         "keyword": "asterisk", 
         "tags": [
@@ -7611,7 +7611,7 @@
     }, 
     "debian": {
         "count": 6, 
-        "ideas": "http://wiki.debian.org/SummerOfCode2009", 
+        "ideas": "https://wiki.debian.org/SummerOfCode2014/Projects", 
         "name": "Debian", 
         "keyword": "debian", 
         "tags": [
@@ -7641,7 +7641,7 @@
     }, 
     "nescent": {
         "count": 5, 
-        "ideas": "http://hackathon.nescent.org/Phyloinformatics_Summer_of_Code_2009", 
+        "ideas": "http://informatics.nescent.org/wiki/Phyloinformatics_Summer_of_Code_2013", 
         "name": "NESCent - National Evolutionary Synthesis Center", 
         "keyword": "nescent", 
         "tags": [
@@ -7666,7 +7666,7 @@
     }, 
     "hugin": {
         "count": 3, 
-        "ideas": "http://wiki.panotools.org/SoC_2009_idea", 
+        "ideas": "http://wiki.panotools.org/GSOC_2011_Ideas", 
         "name": "Hugin/Panotools", 
         "keyword": "hugin", 
         "tags": [
@@ -7677,7 +7677,7 @@
     }, 
     "macports": {
         "count": 5, 
-        "ideas": "http://trac.macports.org/wiki/SummerOfCode", 
+        "ideas": "https://trac.macports.org/wiki/SummerOfCode", 
         "name": "The MacPorts Project", 
         "keyword": "macports", 
         "tags": [
@@ -7708,7 +7708,7 @@
     }, 
     "benetech": {
         "count": 3, 
-        "ideas": "https://github.com/benetech/FBReaderJ/wiki/Google-Summer-of-Code-Ideas-Page", 
+        "ideas": "https://github.com/benetech/svgtex/wiki/Ideas-for-GSoC-2014", 
         "name": "Benetech", 
         "keyword": "benetech", 
         "tags": [
@@ -7774,7 +7774,7 @@
     }, 
     "pulseaudio": {
         "count": 2, 
-        "ideas": "http://www.freedesktop.org/wiki/Software/PulseAudio/GSoC2012", 
+        "ideas": "http://www.freedesktop.org/wiki/Software/PulseAudio/GSoC2013", 
         "name": "PulseAudio", 
         "keyword": "pulseaudio", 
         "tags": [
@@ -7788,7 +7788,7 @@
     }, 
     "supertuxkart": {
         "count": 2, 
-        "ideas": "http://supertuxkart.sourceforge.net/GSoC_ideas", 
+        "ideas": "http://supertuxkart.sourceforge.net/GSoC_topics_2014", 
         "name": "SuperTuxKart", 
         "keyword": "supertuxkart", 
         "tags": [
