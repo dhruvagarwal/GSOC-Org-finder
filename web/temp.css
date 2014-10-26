@@ -54,3 +54,20 @@
 	position: fixed;
 	display: none;
 }
+
+.filter {
+	font-size: 20;
+}
+
+input {
+	display: none;
+}
+
+body {
+	margin-left:20px;
+}
+
+p {
+	opacity: 0.85;
+	color: grey;
+}

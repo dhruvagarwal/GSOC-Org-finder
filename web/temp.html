@@ -1,22 +1,30 @@
 <html>
 <head>
 	<title>
-		Temporary page
+		GSOC Org-Filter
 	</title>
 	<link rel="stylesheet" type="text/css" href="temp.css">
 </head>
 <body>
 	<div id="magview">
-		<div id="viewName">Eclipse Foundation</div>
+		<div id="viewName"></div>
 		<div class="caption">Tags</div>
-		<div id="viewTags">eclipse,java,ide,recommenders,ecf,communication,development,rcp,orion,javascript,c/c++</div>
+		<div id="viewTags"></div>
 	</div>
-	<h1> Experiments </h1>
-	<input type="text" placeholder="Enter Name of the Org" size="100" id="name" onkeyup="checkName()"><br />
-	<input type="text" placeholder="Enter Years separated by commas" size="100" id="years" onkeyup="checkYears()"><br />
-	<input type="text" placeholder="Enter Count" size="100" id="count" onkeyup="checkCount()"><br />
-	<input type="text" placeholder="Enter Tags separated by commas" size="100" id="tags" onkeyup="checkTags()"><br />
-
+	<h1><center> GSOC Org-Filter </center></h1>
+	<select class="filter">
+		<option value="none">Select an option to set filter</option>
+		<option value="name">Name</option>
+		<option value="years">Years</option>
+		<option value="count">Count</option>
+		<option value="tags">Tags</option>
+	</select>
+	<br /><br />
+	<input type="text" placeholder="Enter Name of the Org" size="100" id="name" onkeyup="checkName()">
+	<input type="text" placeholder="Enter Years separated by commas" size="100" id="years" onkeyup="checkYears()">
+	<input type="text" placeholder="Enter Count" size="100" id="count" onkeyup="checkCount()">
+	<input type="text" placeholder="Enter Tags separated by commas" size="100" id="tags" onkeyup="checkTags()">
+	<p align="center">(hover over the cards to see tags)</p>
 	<div id="results"></div>
 
 	<script type="text/javascript" src="jquery.js"></script>

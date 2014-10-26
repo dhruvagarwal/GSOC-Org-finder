@@ -103,7 +103,7 @@ function makecard(keyword) {
 	var card = '<div id="card">\n';
 	card += '<div class="orgName">' + db[keyword]["name"] + '</div>\n';
 	card += '<div class="caption">Years</div>\n<div class="orgYears">' + years[keyword].join() + '</div>\n';
-	card += '<div class="caption" id="toggletags">Tags</div><div class="orgTags">' + db[keyword]["tags"].join() + '</div>\n';
+	card += '<div class="caption" id="toggletags"></div><div class="orgTags">' + db[keyword]["tags"].join() + '</div><br />\n';
 	card += '<div class="orgIdeas"><a href="' + db[keyword]["ideas"] + '" target="_blank">Ideas Page</a></div>\n';
 	card += '</div>';
 	return card;
@@ -181,6 +181,16 @@ $('body').on("mouseover","#card",function(){
 
 $('body').on("mouseout","#card",function(){
 	$('#magview').hide();
+});
+
+$('body').on("change",".filter",function(){
+	var filter = this.value;
+	$('input').hide();
+	if (filter==='none') {
+		return;
+	};
+	var str = '#' + filter;
+	$(str).show();
 });
 
 reset();
