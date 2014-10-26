@@ -1,0 +1,56 @@
+#results {
+	margin-top: 10px;
+}
+
+#card {
+	width: 250px;
+	height: 150px;
+	border: 2 solid black;
+	border-radius: 10px;
+	background-color: rgb(184, 219, 213);
+	color: black;
+	display: inline-table;
+	overflow: auto; 
+	margin: 5 5 5 5;
+	padding: 10px;
+}
+
+.orgName, #viewName {
+	color: rgb(200,50,200);
+	font-size: 24;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.caption {
+	font-size: 19;
+	font-weight: 8;
+	text-align: left;
+	text-decoration: underline;
+}
+
+.orgYears {
+	text-indent: 8;
+}
+
+.orgTags {
+	text-indent: 8;
+	display: none;
+}
+
+#magview {
+	z-index: 100;
+	border: 2 solid black;
+	width: 350px;
+	border-radius: 10px;
+	background-color: rgb(184, 219, 213);
+	color: black;
+	display: table-header-group;
+	margin: 5 5 5 5;
+	word-wrap: break-word;
+	padding: 10px;
+	right: 0;
+	box-shadow: 10px 10px 5px #888888;
+	position: fixed;
+	display: none;
+}
