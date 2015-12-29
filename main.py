@@ -31,7 +31,7 @@ def fetchdetails(db,years,text):
 def traverelists():
 	db = {}
 	years = {}
-	for i in range(2009,2015):
+	for i in range(2009,2016):
 		# change year range acc. to req.
 		text = open('lists/'+str(i)+'.txt').read()
 		fetchdetails(db,years,text)
