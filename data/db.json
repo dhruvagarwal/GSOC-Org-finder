@@ -235,6 +235,19 @@
             "eclipse"
         ]
     }, 
+    "bika": {
+        "count": 1, 
+        "ideas": "https://github.com/bikalabs/Bika-LIMS/wiki/GSoC-2015\r", 
+        "name": "Bika Open Source LIMS Collective", 
+        "keyword": "bika", 
+        "tags": [
+            "python", 
+            "plone", 
+            "LIMS", 
+            "LIS", 
+            "laboratory management"
+        ]
+    }, 
     "sympy": {
         "count": 4, 
         "ideas": "https://github.com/sympy/sympy/wiki/gsoc-2014-ideas", 
@@ -450,18 +463,14 @@
         ]
     }, 
     "metabrainz": {
-        "count": 5, 
-        "ideas": "http://wiki.musicbrainz.org/Development/Summer_of_Code/2014", 
+        "count": 6, 
+        "ideas": "http://wiki.musicbrainz.org/Development/Summer_of_Code/2015\r", 
         "name": "MetaBrainz Foundation Inc.", 
         "keyword": "metabrainz", 
         "tags": [
             "music", 
             "metadata", 
-            "linux", 
-            "sql", 
-            "perl", 
-            "python", 
-            "id3"
+            "open data"
         ]
     }, 
     "parrot": {
@@ -519,54 +528,28 @@
         ]
     }, 
     "gnu": {
-        "count": 4, 
-        "ideas": "http://www.gnu.org/software/soc-projects/ideas-2014.html", 
+        "count": 5, 
+        "ideas": "http://www.gnu.org/s/soc-projects/ideas.html\r", 
         "name": "GNU Project ", 
         "keyword": "gnu", 
         "tags": [
-            "C", 
-            "python", 
-            "metalink", 
-            "tests", 
-            "networking", 
-            "P2P", 
-            "distributed updates", 
-            "social", 
-            "multicast", 
-            "decentralisation", 
-            "censorship-resistance", 
-            "cad", 
-            "dwg", 
-            "dxf", 
-            "C", 
-            "Common Lisp", 
-            "FFI", 
-            "embedded interpreter", 
-            "wrapper libraries", 
-            "C", 
+            "gnu", 
+            "gpl", 
+            "free software", 
+            "classpath", 
+            "dmd", 
+            "gettext", 
+            "gnucap", 
+            "gnunet", 
+            "gnustep", 
+            "guix", 
+            "libredwg", 
+            "kawa", 
+            "octave", 
+            "xaos", 
+            "zile", 
             "hurd", 
-            "gnumach", 
-            "kernel", 
-            "microkernel", 
-            "operating system", 
-            "os", 
-            "filesystem", 
-            "virtualization", 
-            "glibc", 
-            "gdb", 
-            "valgrind", 
-            "language bindings", 
-            "automated testing", 
-            "package management", 
-            "operating system", 
-            "functional programming", 
-            "scheme", 
-            "objective-c", 
-            "ui", 
-            "user interface", 
-            "C++", 
-            "parser", 
-            "geometry"
+            "wget"
         ]
     }, 
     "openflowhub": {
@@ -639,6 +622,29 @@
             "Java"
         ]
     }, 
+    "bu_xia": {
+        "count": 1, 
+        "ideas": "https://github.com/AltraMayor/XIA-for-Linux/wiki/Ideas-list\r", 
+        "name": "Boston University / XIA", 
+        "keyword": "bu_xia", 
+        "tags": [
+            "Networking", 
+            "future Internet", 
+            "crowdsourcing", 
+            "Future Internet Architecture", 
+            "FIA", 
+            "XIA", 
+            "research", 
+            "Linux", 
+            "kernel", 
+            "C", 
+            "Ruby", 
+            "Open vSwitch", 
+            "OVS", 
+            "containers", 
+            "LXC"
+        ]
+    }, 
     "opencast": {
         "count": 1, 
         "ideas": "http://opencast.jira.com/wiki/display/MH/Google+Summer+of+Code+Ideas+Page", 
@@ -660,6 +666,15 @@
         "ideas": "http://code.google.com/p/es-operating-system/wiki/GSoC2009", 
         "name": "ES Operating System", 
         "keyword": "esos", 
+        "tags": [
+            ""
+        ]
+    }, 
+    "scilab_enterprises": {
+        "count": 1, 
+        "ideas": "http://wiki.scilab.org/GSoC_project_proposal\r", 
+        "name": "Scilab Enterprises", 
+        "keyword": "scilab_enterprises", 
         "tags": [
             ""
         ]
@@ -698,34 +713,18 @@
         ]
     }, 
     "beagleboard": {
-        "count": 1, 
-        "ideas": "http://tinyurl.com/bbgsoc", 
+        "count": 2, 
+        "ideas": "http://bit.ly/bbgsocideas\r", 
         "name": "BeagleBoard.org", 
         "keyword": "beagleboard", 
         "tags": [
-            "kernel", 
-            "computer_graphics", 
-            "robotics", 
-            "3d_user_interface", 
-            "linux_kernel", 
-            "arm", 
-            "low-level", 
-            "server_side_javascript", 
-            "helma", 
-            "human_computer_interaction", 
+            "javascript", 
             "html", 
-            "mobile_devices", 
+            "robotics", 
             "android", 
-            "erlang", 
-            "css", 
-            "build_systems", 
-            "bootloaders", 
-            "programming_languages", 
-            "c", 
-            "algorithm", 
-            "embedded", 
-            "grid_computing", 
-            "real_time"
+            "chromium", 
+            "chromeos", 
+            "electronics"
         ]
     }, 
     "languagetool": {
@@ -794,49 +793,99 @@
         ]
     }, 
     "sciruby": {
-        "count": 2, 
-        "ideas": "https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2014-Ideas", 
+        "count": 3, 
+        "ideas": "https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2015-Ideas\r", 
         "name": "Ruby Science Foundation", 
         "keyword": "sciruby", 
         "tags": [
             "science", 
-            "c++", 
             "ruby", 
+            "engineering", 
+            "data visualization", 
+            "scientific computing", 
             "c", 
+            "c++", 
+            "java", 
+            "space", 
+            "biology", 
+            "chemistry", 
+            "physics", 
+            "graph theory", 
             "statistics", 
-            "linear algebra", 
-            "data mining", 
-            "engineering"
+            "bioinformatics"
         ]
     }, 
     "rtems": {
-        "count": 6, 
-        "ideas": "http://www.rtems.org/wiki/index.php/Open_Projects", 
+        "count": 7, 
+        "ideas": "https://devel.rtems.org/wiki/Developer/OpenProjects\r", 
         "name": "RTEMS Project", 
         "keyword": "rtems", 
         "tags": [
-            "RTOS", 
-            "real time", 
             "real-time", 
+            "realtime", 
+            "real time", 
             "operating system", 
-            "C", 
+            "OS", 
+            "RTOS", 
+            "kernel", 
+            "FreeBSD", 
+            "NetBSD", 
+            "BSD", 
             "POSIX", 
-            "embedded", 
-            "ARM", 
+            "C", 
+            "C++", 
+            "Ada", 
+            "Go", 
+            "Lua", 
+            "Python", 
+            "Erlang", 
             "space", 
-            "control", 
-            "deadline", 
+            "robotics", 
+            "unmanned systems", 
+            "OSAL", 
+            "embedded", 
+            "Beagleboard", 
+            "RaspberryPi", 
+            "gdb", 
+            "gcc", 
+            "compilers", 
+            "clang", 
+            "llvm", 
+            "x86", 
+            "i386", 
+            "ARM", 
+            "MIPS", 
+            "SPARC", 
+            "LEON", 
+            "PowerPC", 
+            "multicore", 
             "SMP", 
-            "multicore"
+            "synchronization", 
+            "security", 
+            "filesystems", 
+            "tracing", 
+            "GUI", 
+            "graphics", 
+            "Qemu", 
+            "Simulation", 
+            "Simulator", 
+            "Waf", 
+            "Automation", 
+            "Testing", 
+            "Standards"
         ]
     }, 
     "lablua": {
-        "count": 1, 
-        "ideas": "http://www.lua.inf.puc-rio.br/gsoc/ideas2014.html", 
+        "count": 2, 
+        "ideas": "http://www.lua.inf.puc-rio.br/gsoc/ideas2015.html\r", 
         "name": "LabLua", 
         "keyword": "lablua", 
         "tags": [
-            "ua LabLu"
+            "Lua", 
+            "C\u00e9u", 
+            "LabLua", 
+            "scripting languages", 
+            "programming languages"
         ]
     }, 
     "freedroidrpg": {
@@ -863,8 +912,8 @@
         ]
     }, 
     "jboss": {
-        "count": 3, 
-        "ideas": "https://community.jboss.org/wiki/GSOC14Ideas", 
+        "count": 4, 
+        "ideas": "https://developer.jboss.org/wiki/GSOC15Ideas\r", 
         "name": "JBoss Community", 
         "keyword": "jboss", 
         "tags": [
@@ -874,7 +923,6 @@
             "REST", 
             "Mobile", 
             "Ruby", 
-            "Scala", 
             "Security"
         ]
     }, 
@@ -948,35 +996,34 @@
         ]
     }, 
     "openwall": {
-        "count": 3, 
-        "ideas": "http://openwall.info/wiki/ideas", 
+        "count": 4, 
+        "ideas": "http://openwall.info/wiki/ideas\r", 
         "name": "Openwall Project", 
         "keyword": "openwall", 
         "tags": [
             "assembler", 
-            "bitslice", 
+            "disassembly", 
             "c", 
             "cryptography", 
             "cuda", 
-            "distributed-processing", 
             "fpga", 
             "gpu", 
+            "hashing", 
             "hpc", 
-            "litecoin", 
+            "john", 
             "opencl", 
             "openmp", 
-            "parallel-processing", 
-            "parallella", 
             "password", 
-            "scrypt", 
+            "radare2", 
+            "reverse-engineering", 
             "security", 
             "simd", 
             "xeon-phi"
         ]
     }, 
     "pidgin": {
-        "count": 4, 
-        "ideas": "https://developer.pidgin.im/wiki/FutureSOCProjects", 
+        "count": 5, 
+        "ideas": "https://developer.pidgin.im/wiki/SoCAndBountyIdeas#ProjectIdeas\r", 
         "name": "\"Pidgin", 
         "keyword": "pidgin", 
         "tags": [
@@ -1060,8 +1107,8 @@
         ]
     }, 
     "apache": {
-        "count": 4, 
-        "ideas": "http://s.apache.org/gsoc2014ideas", 
+        "count": 5, 
+        "ideas": "http://s.apache.org/gsoc2015ideas\r", 
         "name": "Apache Software Foundation", 
         "keyword": "apache", 
         "tags": [
@@ -1072,7 +1119,36 @@
             "perl", 
             "opensource", 
             "apache", 
-            "erlang"
+            "erlang", 
+            "hadoop", 
+            "big data"
+        ]
+    }, 
+    "lowrisc": {
+        "count": 1, 
+        "ideas": "http://www.lowrisc.org/docs/gsoc-2015-ideas/\r", 
+        "name": "lowRISC", 
+        "keyword": "lowrisc", 
+        "tags": [
+            "oshw", 
+            "llvm", 
+            "javascript", 
+            "go", 
+            "golang", 
+            "verilog", 
+            "hardware", 
+            "lowrisc", 
+            "riscv", 
+            "education", 
+            "graphics", 
+            "c", 
+            "musl", 
+            "kernel", 
+            "testing", 
+            "verification", 
+            "fpga", 
+            "python", 
+            "ocaml"
         ]
     }, 
     "rockbox": {
@@ -1107,8 +1183,8 @@
         ]
     }, 
     "brlcad": {
-        "count": 5, 
-        "ideas": "http://brlcad.org/wiki/Google_Summer_of_Code/Project_Ideas", 
+        "count": 6, 
+        "ideas": "http://brlcad.org/wiki/Google_Summer_of_Code/Project_Ideas\r", 
         "name": "BRL-CAD", 
         "keyword": "brlcad", 
         "tags": [
@@ -1145,12 +1221,8 @@
             "math", 
             "science", 
             "tcl", 
-            "C", 
-            "C++", 
-            "qt", 
-            "android", 
-            "opencl", 
-            "gpgpu"
+            "c", 
+            "c++"
         ]
     }, 
     "freenet": {
@@ -1190,19 +1262,19 @@
         ]
     }, 
     "cesium": {
-        "count": 1, 
-        "ideas": "https://github.com/AnalyticalGraphicsInc/cesium/wiki/Google-Summer-of-Code-Ideas", 
+        "count": 2, 
+        "ideas": "https://github.com/AnalyticalGraphicsInc/cesium/wiki/Google-Summer-of-Code-Ideas-2015\r", 
         "name": "Cesium community", 
         "keyword": "cesium", 
         "tags": [
-            "HTML5", 
-            "JavaScript", 
-            "git", 
-            "WebGL", 
-            "Android", 
+            "geospatial", 
+            "mapping", 
             "graphics", 
-            "data structures and algorithms", 
-            "geospatial"
+            "JavaScript", 
+            "HTML5", 
+            "CSS", 
+            "WebGL", 
+            "GitHub"
         ]
     }, 
     "princetoncitp": {
@@ -1215,8 +1287,8 @@
         ]
     }, 
     "networktime": {
-        "count": 2, 
-        "ideas": "http://wiki.nwtime.org/Main/GoogleSummerOfCode", 
+        "count": 3, 
+        "ideas": "http://support.ntp.org/bin/view/Dev/GoogleSummerOfCode\r", 
         "name": "Network Time", 
         "keyword": "networktime", 
         "tags": [
@@ -1229,8 +1301,8 @@
         ]
     }, 
     "nmap": {
-        "count": 6, 
-        "ideas": "http://nmap.org/soc/", 
+        "count": 7, 
+        "ideas": "http://nmap.org/soc/\r", 
         "name": "Nmap Security Scanner", 
         "keyword": "nmap", 
         "tags": [
@@ -1323,23 +1395,23 @@
         ]
     }, 
     "dbpediaspotlight": {
-        "count": 3, 
-        "ideas": "http://wiki.dbpedia.org/gsoc2014/ideas", 
+        "count": 4, 
+        "ideas": "http://wiki.dbpedia.org/gsoc2015/ideas\r", 
         "name": "DBpedia Spotlight", 
         "keyword": "dbpediaspotlight", 
         "tags": [
-            "semantic web", 
-            "entity linking", 
-            "linked data", 
-            "knowledge extraction", 
+            "Java", 
+            "Scala", 
+            "Python", 
             "Wikipedia", 
             "Wikidata", 
-            "machine learning", 
-            "java", 
-            "scala", 
-            "disambiguation", 
-            "term recognition", 
-            "nlp"
+            "Natural Language Processing", 
+            "Machine Learning", 
+            "Knowledge Extraction", 
+            "Entity Linking", 
+            "Word Sense Disambiguation", 
+            "Semantic Web", 
+            "Linked Data"
         ]
     }, 
     "ffmpeg_libav": {
@@ -1416,6 +1488,17 @@
             "flood"
         ]
     }, 
+    "wso2_2015": {
+        "count": 1, 
+        "ideas": "https://docs.wso2.com/display/GSoC/Project+Proposals+for+2015\r", 
+        "name": "WSO2", 
+        "keyword": "wso2_2015", 
+        "tags": [
+            "SOA", 
+            "Cloud", 
+            "Middleware"
+        ]
+    }, 
     "liquidgalaxy": {
         "count": 1, 
         "ideas": "http://code.google.com/p/liquid-galaxy/wiki/GSoC2011", 
@@ -1433,6 +1516,20 @@
             "game_engines", 
             "linux", 
             "3d"
+        ]
+    }, 
+    "riot": {
+        "count": 1, 
+        "ideas": "https://github.com/RIOT-OS/RIOT/wiki/GSOC-Idea-List\r", 
+        "name": "RIOT", 
+        "keyword": "riot", 
+        "tags": [
+            "RIOT", 
+            "IoT", 
+            "Internet of Things", 
+            "Operating System", 
+            "Open Source", 
+            "Embedded"
         ]
     }, 
     "jitsi": {
@@ -1578,25 +1675,39 @@
             "java"
         ]
     }, 
-    "buildmlearn": {
+    "kodi": {
         "count": 1, 
-        "ideas": "https://github.com/BuildmLearn/BuildmLearn-Toolkit/wiki/Google-Summer-of-Code-2014-Ideas", 
+        "ideas": "http://kodi.wiki/view/Google_Summer_of_Code/2015\r", 
+        "name": "XBMC Foundation", 
+        "keyword": "kodi", 
+        "tags": [
+            "Kodi", 
+            "XBMC", 
+            "Retroplayer", 
+            "raspberry pi", 
+            "upnp", 
+            "media center", 
+            "multimedia"
+        ]
+    }, 
+    "buildmlearn": {
+        "count": 2, 
+        "ideas": "https://github.com/BuildmLearn/BuildmLearn-Toolkit/wiki/Google-Summer-of-Code-2015-Ideas\r", 
         "name": "BuildmLearn", 
         "keyword": "buildmlearn", 
         "tags": [
+            "mLearning", 
             "Qt", 
             "C++", 
-            "Python", 
             "Git", 
             "Android", 
             "Windows Phone", 
-            "iPhone", 
-            "mLearning"
+            "iPhone"
         ]
     }, 
     "eclipse": {
-        "count": 6, 
-        "ideas": "https://wiki.eclipse.org/Google_Summer_of_Code_2014_Ideas", 
+        "count": 7, 
+        "ideas": "https://wiki.eclipse.org/Google_Summer_of_Code_2015_Ideas\r", 
         "name": "Eclipse Foundation", 
         "keyword": "eclipse", 
         "tags": [
@@ -1605,7 +1716,6 @@
             "ide", 
             "recommenders", 
             "ecf", 
-            "communication", 
             "development", 
             "rcp", 
             "orion", 
@@ -1628,16 +1738,25 @@
         ]
     }, 
     "systers": {
-        "count": 5, 
-        "ideas": "https://github.com/systers/ossprojects/wiki/GSoC-2014", 
+        "count": 6, 
+        "ideas": "https://github.com/systers/ossprojects/wiki/GSoC-2015\r", 
         "name": "Systers: Women in Computing", 
         "keyword": "systers", 
         "tags": [
             "n Anita Borg Institute Community\"", 
             "\"Systers", 
             "Anita Borg Institute", 
-            "Women in Technology", 
-            "Women in Computing"
+            "Women in Computing", 
+            "python", 
+            "django", 
+            "ruby on rails", 
+            "android", 
+            "iOS", 
+            "automated testing", 
+            "selenium", 
+            "Mailman", 
+            "web development", 
+            "mobile development"
         ]
     }, 
     "arches": {
@@ -1819,8 +1938,8 @@
         ]
     }, 
     "gcc": {
-        "count": 6, 
-        "ideas": "http://gcc.gnu.org/wiki/SummerOfCode", 
+        "count": 7, 
+        "ideas": "https://gcc.gnu.org/wiki/SummerOfCode\r", 
         "name": "GCC", 
         "keyword": "gcc", 
         "tags": [
@@ -1850,6 +1969,49 @@
             "kernel internals"
         ]
     }, 
+    "cloudcv": {
+        "count": 1, 
+        "ideas": "https://docs.google.com/document/d/1QX9Dq1WTwVCc3PB14F6Iyf9tii1zM20Gil78iX_6qCc/edit?usp=sharing\r", 
+        "name": "CloudCV", 
+        "keyword": "cloudcv", 
+        "tags": [
+            "Computer Vision", 
+            "Machine Learning", 
+            "Distributed Computing", 
+            "Python", 
+            "Matlab", 
+            "Javascript", 
+            "Django", 
+            "Node.js"
+        ]
+    }, 
+    "medes_imps": {
+        "count": 1, 
+        "ideas": "http://www.medes.fr/en/our-offer/assistance-with-e-health-or-epidemiological-surveillance-projects/a-data-collection-application/medes-and-google-summer-of-code.html\r", 
+        "name": "MEDES-IMPS", 
+        "keyword": "medes_imps", 
+        "tags": [
+            "health", 
+            "medicine", 
+            "space", 
+            "ehealth", 
+            "spring", 
+            "maven", 
+            "java", 
+            "git", 
+            "gwt", 
+            "android", 
+            "couchdb", 
+            "database", 
+            "tomcat", 
+            "emf", 
+            "ecore", 
+            "oaw", 
+            "eclipse", 
+            "jpa", 
+            "hibernate"
+        ]
+    }, 
     "dragonflybsd": {
         "count": 4, 
         "ideas": "http://www.dragonflybsd.org/docs/developer/gsocprojectspage/", 
@@ -1875,6 +2037,19 @@
             "pkgsrc", 
             "packaging", 
             "unix"
+        ]
+    }, 
+    "oncoblocks": {
+        "count": 1, 
+        "ideas": "http://bcb.dfci.harvard.edu/~cerami/gsoc.html\r", 
+        "name": "OncoBlocks", 
+        "keyword": "oncoblocks", 
+        "tags": [
+            "cancer", 
+            "bioinformatics", 
+            "genomics", 
+            "big data", 
+            "nosql"
         ]
     }, 
     "gentoo": {
@@ -1947,9 +2122,24 @@
             "OpenBGPD"
         ]
     }, 
+    "saros": {
+        "count": 1, 
+        "ideas": "http://www.saros-project.org/gsoc/2015/ideas\r", 
+        "name": "Saros", 
+        "keyword": "saros", 
+        "tags": [
+            "collaborative programming", 
+            "distributed programming", 
+            "java", 
+            "xmpp", 
+            "plugin", 
+            "eclipse", 
+            "intellij idea"
+        ]
+    }, 
     "xorg": {
-        "count": 5, 
-        "ideas": "http://www.x.org/wiki/SummerOfCodeIdeas", 
+        "count": 6, 
+        "ideas": "http://www.x.org/wiki/SummerOfCodeIdeas\r", 
         "name": "X.Org", 
         "keyword": "xorg", 
         "tags": [
@@ -1963,15 +2153,19 @@
         ]
     }, 
     "mariadb": {
-        "count": 2, 
-        "ideas": "https://mariadb.com/kb/en/google-summer-of-code-2014/", 
+        "count": 3, 
+        "ideas": "https://mariadb.com/kb/en/mariadb/google-summer-of-code-2015/\r", 
         "name": "MariaDB", 
         "keyword": "mariadb", 
         "tags": [
-            "mariadb", 
-            "mysql", 
+            "MariaDB", 
+            "MySQL", 
             "database", 
-            "sql"
+            "proxy", 
+            "C", 
+            "C++", 
+            "Perl", 
+            "Java"
         ]
     }, 
     "xen_project": {
@@ -1985,9 +2179,29 @@
             "linux"
         ]
     }, 
+    "github": {
+        "count": 1, 
+        "ideas": "https://github.com/github/gsoc\r", 
+        "name": "GitHub", 
+        "keyword": "github", 
+        "tags": [
+            "coffeescript", 
+            "javascript", 
+            "c", 
+            "c++", 
+            "shell", 
+            "python", 
+            "linux", 
+            "win32", 
+            "ruby", 
+            "git", 
+            "unix", 
+            "mac"
+        ]
+    }, 
     "django": {
-        "count": 6, 
-        "ideas": "https://code.djangoproject.com/wiki/SummerOfCode2014", 
+        "count": 7, 
+        "ideas": "http://code.djangoproject.com/wiki/SummerOfCode2015\r", 
         "name": "Django Software Foundation", 
         "keyword": "django", 
         "tags": [
@@ -1996,8 +2210,8 @@
         ]
     }, 
     "teammates": {
-        "count": 1, 
-        "ideas": "http://tinyurl.com/teammates-ideas", 
+        "count": 2, 
+        "ideas": "http://tinyurl.com/teammates-ideas\r", 
         "name": "TEAMMATES Project @ National University of Singapore", 
         "keyword": "teammates", 
         "tags": [
@@ -2008,12 +2222,14 @@
             "cloud", 
             "education", 
             "JavaEE", 
-            "JavaScript"
+            "JavaScript", 
+            "GitHub", 
+            "JavaFx"
         ]
     }, 
     "freebsd": {
-        "count": 6, 
-        "ideas": "https://wiki.freebsd.org/SummerOfCode2014Ideas", 
+        "count": 7, 
+        "ideas": "https://wiki.freebsd.org/SummerOfCodeIdeas\r", 
         "name": "The FreeBSD Project", 
         "keyword": "freebsd", 
         "tags": [
@@ -2026,6 +2242,8 @@
             "compilers", 
             "qa", 
             "perl", 
+            "ruby", 
+            "drivers", 
             "shell_scripting", 
             "shell scripting", 
             "server", 
@@ -2056,34 +2274,26 @@
             "desktop", 
             "server", 
             "sandbox", 
-            "kernel"
+            "kernel", 
+            "embedded"
         ]
     }, 
     "pagmo": {
-        "count": 1, 
-        "ideas": "https://sourceforge.net/apps/mediawiki/pagmo/index.php?title=GSoC_2013", 
+        "count": 2, 
+        "ideas": "https://github.com/esa/pagmo/wiki/GSoC-2015\r", 
         "name": "PaGMO / PyGMO ", 
         "keyword": "pagmo", 
         "tags": [
             "C++", 
             "Python", 
-            "boost::python", 
             "optimization", 
             "genetic algorithms", 
             "evolutionary computation", 
-            "swarm intelligence", 
-            "machine learning", 
             "parallel computing", 
-            "complex networks", 
-            "multi-objective optimization", 
             "meta-heuristics", 
-            "optimization", 
-            "cloud computing", 
-            "global optimization", 
-            "island model", 
-            "genetics", 
-            "memetics", 
-            "artificial intelligence"
+            "artificial intelligence", 
+            "astrodynamics", 
+            "space systems engineering"
         ]
     }, 
     "cernvm": {
@@ -2108,8 +2318,8 @@
         ]
     }, 
     "wine": {
-        "count": 6, 
-        "ideas": "http://wiki.winehq.org/SummerOfCode", 
+        "count": 7, 
+        "ideas": "http://wiki.winehq.org/SummerOfCode\r", 
         "name": "The Wine Project", 
         "keyword": "wine", 
         "tags": [
@@ -2145,6 +2355,27 @@
             "dojox", 
             "ssjs", 
             "mobile_devices"
+        ]
+    }, 
+    "xmpp": {
+        "count": 1, 
+        "ideas": "http://wiki.xmpp.org/web/Summer_of_Code_2015\r", 
+        "name": "XMPP Standards Foundation", 
+        "keyword": "xmpp", 
+        "tags": [
+            "xmpp", 
+            "python", 
+            "java", 
+            "c++", 
+            "c", 
+            "IoT", 
+            "Things", 
+            "erlang", 
+            "chat", 
+            "messaging", 
+            "social", 
+            "crypto", 
+            "security"
         ]
     }, 
     "jmonkeyengine": {
@@ -2213,33 +2444,22 @@
         ]
     }, 
     "lg": {
-        "count": 2, 
-        "ideas": "http://code.google.com/p/liquid-galaxy/wiki/GSoC2014Ideas", 
+        "count": 3, 
+        "ideas": "http://code.google.com/p/liquid-galaxy/wiki/GSoC2015Ideas\r", 
         "name": "Liquid Galaxy Project", 
         "keyword": "lg", 
         "tags": [
             "google earth", 
-            "immersive", 
-            "3d", 
             "virtual reality", 
-            "html5", 
-            "google maps", 
-            "KML", 
+            "3d game engines", 
             "geospatial", 
-            "GIS", 
-            "3d graphics", 
-            "panoramic", 
-            "visualization", 
-            "game engines", 
-            "linux", 
-            "android", 
-            "kinect", 
-            "leap motion"
+            "street view", 
+            "panorama"
         ]
     }, 
     "vtk": {
-        "count": 2, 
-        "ideas": "http://www.vtk.org/Wiki/VTK/GSoC_2014", 
+        "count": 3, 
+        "ideas": "http://www.vtk.org/Wiki/VTK/GSoC_2015\r", 
         "name": "Visualization Toolkit (VTK)", 
         "keyword": "vtk", 
         "tags": [
@@ -2264,15 +2484,16 @@
         ]
     }, 
     "gnss_sdr": {
-        "count": 2, 
-        "ideas": "http://gnss-sdr.org/documentation/google-summer-code-2014-ideas-list", 
+        "count": 3, 
+        "ideas": "http://gnss-sdr.org/documentation/google-summer-code-2015-ideas-list\r", 
         "name": "GNSS-SDR", 
         "keyword": "gnss_sdr", 
         "tags": [
+            "software radio", 
             "GNSS", 
-            "Software radio", 
             "GPS", 
-            "Galileo"
+            "Galileo", 
+            "navigation"
         ]
     }, 
     "cscs": {
@@ -2286,8 +2507,8 @@
         ]
     }, 
     "subsurface": {
-        "count": 1, 
-        "ideas": "http://trac.hohndel.org/wiki/Subsurface_GSOC_2014_Idea_List", 
+        "count": 2, 
+        "ideas": "http://trac.subsurface-divelog.org/wiki/Subsurface_GSOC_2015_Idea_List\r", 
         "name": "Subsurface", 
         "keyword": "subsurface", 
         "tags": [
@@ -2348,34 +2569,65 @@
         ]
     }, 
     "python": {
-        "count": 6, 
-        "ideas": "http://wiki.python.org/moin/SummerOfCode/2014", 
+        "count": 7, 
+        "ideas": "https://wiki.python.org/moin/SummerOfCode/2015\r", 
         "name": "Python Software Foundation", 
         "keyword": "python", 
         "tags": [
             "python", 
-            "Core Python", 
-            "CPython", 
-            "Astropy", 
-            "BinPy", 
-            "GNU Mailman", 
-            "Kivy", 
-            "Mercurial", 
-            "MNE-Python", 
-            "MoinMoin Wiki", 
-            "pgmpy", 
-            "PyDy", 
-            "PyPy", 
-            "scikit-image", 
-            "scikit-learn", 
-            "SciPy/NumPy", 
-            "SCons", 
-            "Scrapy", 
-            "statsmodels", 
-            "SunPy", 
+            "pydy", 
+            "mailman", 
+            "MNE", 
+            "Moin", 
+            "MoinMoin. Networkx", 
+            "DyPy", 
+            "Scipy", 
+            "Numpy", 
+            "Sympy", 
             "TARDIS-SN", 
             "Theano", 
-            "Vispy"
+            "Vispy", 
+            "web", 
+            "compiler", 
+            "mathematics", 
+            "wiki. magnetoencephalography", 
+            "ECG", 
+            "dMRI", 
+            "email", 
+            "mailman", 
+            "astropy", 
+            "dipy", 
+            "gns3", 
+            "Mars", 
+            "Italian Mars Society", 
+            "kivy", 
+            "hdl", 
+            "MyHDL", 
+            "Qtile", 
+            "pgmpy", 
+            "plone", 
+            "PyPy", 
+            "scikit", 
+            "scikit-image", 
+            "scikit-learn", 
+            "scrapinghub", 
+            "statsmodel", 
+            "Sunpy"
+        ]
+    }, 
+    "ga4gh": {
+        "count": 1, 
+        "ideas": "https://docs.google.com/document/d/1PHPDTzD4Z6xVoxN0Q1F8yEPclSri-JA1vLvMTrLYUi8/edit?usp=sharing\r", 
+        "name": "Global Alliance for Genomics & Health", 
+        "keyword": "ga4gh", 
+        "tags": [
+            "genomics", 
+            "health", 
+            "big data", 
+            "medicine", 
+            "APIs", 
+            "visualization", 
+            "file formats"
         ]
     }, 
     "elgg": {
@@ -2393,16 +2645,16 @@
         ]
     }, 
     "opencog": {
-        "count": 3, 
-        "ideas": "http://wiki.opencog.org/w/Ideas", 
+        "count": 4, 
+        "ideas": "http://wiki.opencog.org/w/Ideas\r", 
         "name": "OpenCog sponsored by the Singularity Institute for Artificial Intelligence", 
         "keyword": "opencog", 
         "tags": [
             "Artificial Intelligence", 
-            "AI", 
             "C++", 
             "Python", 
-            "Machine Leaning", 
+            "Scheme", 
+            "Machine Learning", 
             "NLP"
         ]
     }, 
@@ -2458,8 +2710,8 @@
         ]
     }, 
     "haskell": {
-        "count": 6, 
-        "ideas": "https://ghc.haskell.org/trac/summer-of-code/report/1", 
+        "count": 7, 
+        "ideas": "https://ghc.haskell.org/trac/summer-of-code/report/1\r", 
         "name": "haskell.org", 
         "keyword": "haskell", 
         "tags": [
@@ -2482,15 +2734,15 @@
         ]
     }, 
     "osrf": {
-        "count": 2, 
-        "ideas": "http://wiki.osrfoundation.org/gsoc14", 
+        "count": 3, 
+        "ideas": "http://wiki.osrfoundation.org/gsoc15\r", 
         "name": "Open Source Robotics Foundation", 
         "keyword": "osrf", 
         "tags": [
-            "Robotics", 
-            "Gazebo", 
-            "ROS", 
-            "CloudSim"
+            "robotics", 
+            "gazebo", 
+            "ros", 
+            "middleware"
         ]
     }, 
     "expertlabs": {
@@ -2508,36 +2760,27 @@
             "php"
         ]
     }, 
-    "metalink": {
+    "mbleol": {
         "count": 1, 
-        "ideas": "http://www.metalinker.org/ideas.html", 
-        "name": "Metalink", 
-        "keyword": "metalink", 
+        "ideas": "http://wiki.eol.org/pages/viewpage.action?pageId=4457203", 
+        "name": "Marine Biological Laboratory Biodiversity Informatics Group-Encyclopedia of Life Project", 
+        "keyword": "mbleol", 
         "tags": [
-            "downloads", 
-            "distribution", 
-            "web", 
-            "browser", 
-            "http", 
-            "ftp", 
-            "p2p", 
-            "peer to peer", 
-            "open standards", 
-            "integrity", 
-            "mirrors", 
-            "cdn", 
-            "hashes", 
-            "file transfer", 
-            "xml", 
-            "python", 
-            "C++", 
-            "C", 
-            "javascript"
+            "visualization", 
+            "biology", 
+            "science", 
+            "semantic-web", 
+            "rails", 
+            "api", 
+            "bioinformatics", 
+            "informatics", 
+            "ruby", 
+            "semantics"
         ]
     }, 
     "concord": {
-        "count": 3, 
-        "ideas": "http://concord.org/GSoC", 
+        "count": 4, 
+        "ideas": "http://concord.org/GSoC\r", 
         "name": "The Concord Consortium", 
         "keyword": "concord", 
         "tags": [
@@ -2547,6 +2790,8 @@
             "science", 
             "math", 
             "engineering", 
+            "big data", 
+            "analytics", 
             "simulations", 
             "modeling", 
             "mobile", 
@@ -2654,8 +2899,8 @@
         ]
     }, 
     "beamcommunity": {
-        "count": 2, 
-        "ideas": "https://github.com/beamcommunity/beamcommunity.github.com/wiki", 
+        "count": 3, 
+        "ideas": "https://github.com/beamcommunity/beamcommunity.github.com/wiki\r", 
         "name": "BEAM Community", 
         "keyword": "beamcommunity", 
         "tags": [
@@ -2666,48 +2911,38 @@
             "ejabberd", 
             "disco", 
             "xmpp", 
-            "distributed"
+            "distributed", 
+            "mongoose im"
         ]
     }, 
     "civicrm": {
-        "count": 1, 
-        "ideas": "http://wiki.civicrm.org/confluence/display/CRM/Google+Summer+of+Code+-+2014", 
+        "count": 2, 
+        "ideas": "http://wiki.civicrm.org/confluence/display/CRM/Google+Summer+of+Code+-+2015\r", 
         "name": "CiviCRM", 
         "keyword": "civicrm", 
         "tags": [
-            "CRM", 
-            "Drupal", 
-            "WordPress", 
-            "Joomla", 
-            "PHP", 
-            "sql", 
-            "mysql", 
-            "jquery", 
-            "Symfony", 
-            "Bootstrap", 
-            "Popcorn.js", 
-            "data visualization", 
-            "geo", 
-            "geospatial", 
-            "choropleths", 
-            "video"
+            "crm", 
+            "ngo", 
+            "fundraising", 
+            "events management", 
+            "membership management", 
+            "social network", 
+            "datamining"
         ]
     }, 
     "coreboot": {
-        "count": 4, 
-        "ideas": "http://www.coreboot.org/Project_Ideas", 
+        "count": 5, 
+        "ideas": "http://www.coreboot.org/Project_Ideas\r", 
         "name": "coreboot", 
         "keyword": "coreboot", 
         "tags": [
             "firmware", 
-            "assembler", 
-            "hardware", 
-            "drivers", 
-            "emulator", 
-            "bios", 
-            "efi", 
+            "BIOS", 
+            "embedded", 
+            "bootloader", 
             "x86", 
-            "ARM"
+            "arm", 
+            "mips"
         ]
     }, 
     "smc": {
@@ -2834,13 +3069,26 @@
             ""
         ]
     }, 
+    "ipop": {
+        "count": 1, 
+        "ideas": "https://github.com/ipop-project/documentation/wiki/googlesoc2015-projects\r", 
+        "name": "IP-over-P2P Project", 
+        "keyword": "ipop", 
+        "tags": [
+            "virtual network", 
+            "vpn", 
+            "p2p", 
+            "overlay"
+        ]
+    }, 
     "drupal": {
-        "count": 5, 
-        "ideas": "https://groups.drupal.org/node/407793", 
+        "count": 6, 
+        "ideas": "https://groups.drupal.org/node/455978\r", 
         "name": "Drupal", 
         "keyword": "drupal", 
         "tags": [
             "PHP", 
+            "OO PHP", 
             "CMS", 
             "Database", 
             "Drupal 8", 
@@ -2851,7 +3099,7 @@
             "Web Framework", 
             "SQL", 
             "Object Oriented Programming", 
-            ""
+            "web"
         ]
     }, 
     "openssh": {
@@ -3082,8 +3330,8 @@
         ]
     }, 
     "tox": {
-        "count": 1, 
-        "ideas": "http://wiki.tox.im/Proposed_Google_Summer_of_Code_ideas", 
+        "count": 2, 
+        "ideas": "https://wiki.tox.chat/developers/gsoc/2015/ideas\r", 
         "name": "Project Tox", 
         "keyword": "tox", 
         "tags": [
@@ -3092,7 +3340,7 @@
             "communications", 
             "messaging", 
             "im", 
-            "disibuted", 
+            "distributed", 
             "hash table", 
             "decentralized", 
             "encryption", 
@@ -3101,12 +3349,23 @@
             "gpl", 
             "C", 
             "C++", 
-            "GTK", 
             "Qt", 
             "Android", 
             "iOS", 
             "UDP", 
-            "TCP"
+            "TCP", 
+            "networking", 
+            "groups", 
+            "video", 
+            "audio", 
+            "chatting", 
+            "java", 
+            "C#", 
+            ".net", 
+            "python", 
+            "objective C", 
+            "OS X", 
+            "iOS"
         ]
     }, 
     "monkey": {
@@ -3163,14 +3422,16 @@
         ]
     }, 
     "rails": {
-        "count": 3, 
-        "ideas": "https://github.com/rails/gsoc2014/wiki/Ideas", 
+        "count": 4, 
+        "ideas": "https://github.com/railsgsoc/ideas/wiki/2015-Ideas\r", 
         "name": "Ruby on Rails", 
         "keyword": "rails", 
         "tags": [
-            "ruby", 
+            "web development", 
             "web", 
-            "rails"
+            "ruby", 
+            "rails", 
+            "ruby on rails"
         ]
     }, 
     "yafaray": {
@@ -3256,8 +3517,8 @@
         ]
     }, 
     "honeynet": {
-        "count": 5, 
-        "ideas": "http://honeynet.org/gsoc/ideas", 
+        "count": 6, 
+        "ideas": "http://honeynet.org/gsoc/ideas\r", 
         "name": "The Honeynet Project", 
         "keyword": "honeynet", 
         "tags": [
@@ -3352,8 +3613,8 @@
         ]
     }, 
     "boostcpp": {
-        "count": 1, 
-        "ideas": "https://svn.boost.org/trac/boost/wiki/SoC2014", 
+        "count": 2, 
+        "ideas": "https://svn.boost.org/trac/boost/wiki/SoC2015\r", 
         "name": "Boost C++ Libraries", 
         "keyword": "boostcpp", 
         "tags": [
@@ -3361,7 +3622,6 @@
             "boost", 
             "peer-reviewed", 
             "portable", 
-            "libraries", 
             "C++11", 
             "C++14", 
             "C++0x", 
@@ -3481,6 +3741,18 @@
             "retro-gaming"
         ]
     }, 
+    "jquery": {
+        "count": 1, 
+        "ideas": "https://github.com/jquery/gsoc/wiki/GSoC-2015-Ideas-List\r", 
+        "name": "jQuery Foundation", 
+        "keyword": "jquery", 
+        "tags": [
+            "JavaScript", 
+            "jQuery", 
+            "CSS", 
+            "HTML"
+        ]
+    }, 
     "codeforamerica": {
         "count": 3, 
         "ideas": "http://codeforamerica.org/gsoc2013/", 
@@ -3500,15 +3772,32 @@
         ]
     }, 
     "ffmpeg": {
-        "count": 2, 
-        "ideas": "http://wiki.multimedia.cx/index.php?title=FFmpeg_Summer_Of_Code_2010", 
+        "count": 3, 
+        "ideas": "https://trac.ffmpeg.org/wiki/SponsoringPrograms/GSoC/2015\r", 
         "name": "FFmpeg", 
         "keyword": "ffmpeg", 
         "tags": [
-            "audio", 
-            "video", 
             "multimedia", 
-            "codecs"
+            "video", 
+            "audio", 
+            "movie", 
+            "mp4", 
+            "mp3", 
+            "transcoding", 
+            "streaming", 
+            "libavcodec", 
+            "libavfilter", 
+            "ffplay", 
+            "ffmpeg", 
+            "ffserver", 
+            "libavutil", 
+            "c", 
+            "asm", 
+            "x86", 
+            "filter", 
+            "decode", 
+            "encode", 
+            "subtitle"
         ]
     }, 
     "nationallibraryczechrepublic": {
@@ -3556,9 +3845,21 @@
             "wii"
         ]
     }, 
+    "tardis_sn": {
+        "count": 1, 
+        "ideas": "https://github.com/tardis-sn/tardis/wiki/GSoC-2015-ideas-Page-for-TARDIS-SN\r", 
+        "name": "TARDIS SN", 
+        "keyword": "tardis_sn", 
+        "tags": [
+            "astronomy", 
+            "c", 
+            "python", 
+            "git"
+        ]
+    }, 
     "tux4kids": {
-        "count": 4, 
-        "ideas": "https://code.google.com/p/google-summer-of-code-2013-tux4kids/wiki/IdeasList", 
+        "count": 5, 
+        "ideas": "https://code.google.com/p/google-summer-of-code-2015-tux4kids/wiki/IdeasList\r", 
         "name": "Tux4Kids", 
         "keyword": "tux4kids", 
         "tags": [
@@ -3572,8 +3873,8 @@
         ]
     }, 
     "iai_unihb_gsoc": {
-        "count": 1, 
-        "ideas": "http://ai.uni-bremen.de/teaching/gsoc2014", 
+        "count": 2, 
+        "ideas": "https://ai.uni-bremen.de/teaching/gsoc2015\r", 
         "name": "Institute for Artificial Intelligence", 
         "keyword": "iai_unihb_gsoc", 
         "tags": [
@@ -3630,8 +3931,8 @@
         ]
     }, 
     "openmrs": {
-        "count": 6, 
-        "ideas": "http://go.openmrs.org/soc2014", 
+        "count": 7, 
+        "ideas": "http://go.openmrs.org/soc2015\r", 
         "name": "OpenMRS", 
         "keyword": "openmrs", 
         "tags": [
@@ -3660,7 +3961,8 @@
             "i10n", 
             "openmrs", 
             "hr", 
-            "human_resources", 
+            "android", 
+            "node", 
             "xml", 
             "hibernate", 
             "localization", 
@@ -3829,9 +4131,25 @@
             "j2me"
         ]
     }, 
-    "sagemath": {
+    "jderobot": {
         "count": 1, 
-        "ideas": "https://docs.google.com/document/d/15v7lXZR1U4H2pT21d2fyPduYGb74JAFjkXJ6CWYmYfw/pub", 
+        "ideas": "http://jderobot.org/Collaborate#Ideas_List\r", 
+        "name": "JdeRobot - Universidad Rey Juan Carlos", 
+        "keyword": "jderobot", 
+        "tags": [
+            "robotics", 
+            "computer vision", 
+            "home automation", 
+            "android", 
+            "google-glass", 
+            "wear", 
+            "smartwatch", 
+            "glass"
+        ]
+    }, 
+    "sagemath": {
+        "count": 2, 
+        "ideas": "http://wiki.sagemath.org/GSoC/2015\r", 
         "name": "Sage Mathematical Software System", 
         "keyword": "sagemath", 
         "tags": [
@@ -3842,9 +4160,7 @@
             "c", 
             "cpp", 
             "html", 
-            "javascript", 
-            "android", 
-            "iOS"
+            "javascript"
         ]
     }, 
     "jcleeland": {
@@ -3880,18 +4196,17 @@
         ]
     }, 
     "strace": {
-        "count": 1, 
-        "ideas": "http://sourceforge.net/p/strace/wiki/GoogleSummerOfCode2014/", 
+        "count": 2, 
+        "ideas": "https://sourceforge.net/p/strace/wiki/GoogleSummerOfCode2015/\r", 
         "name": "strace", 
         "keyword": "strace", 
         "tags": [
-            "tracing", 
+            "linux", 
+            "syscall", 
             "strace", 
+            "tracing", 
             "C", 
-            "system-programming", 
-            "kernel", 
-            "system-call", 
-            "syscall"
+            "qemu"
         ]
     }, 
     "ipxe": {
@@ -3921,8 +4236,8 @@
         ]
     }, 
     "osuosl": {
-        "count": 6, 
-        "ideas": "http://wiki.osuosl.org/gsoc/ideas2014.html", 
+        "count": 7, 
+        "ideas": "https://wiki.osuosl.org/gsoc/ideas2015.html\r", 
         "name": "Oregon State University Open Source Lab", 
         "keyword": "osuosl", 
         "tags": [
@@ -3930,12 +4245,14 @@
             "kvm", 
             "xen", 
             "django", 
+            "twistd", 
             "osuosl", 
             "ganeti", 
             "ganeti web manager", 
             "gwm", 
             "python", 
-            "bash"
+            "bash", 
+            "api"
         ]
     }, 
     "scilab": {
@@ -3945,6 +4262,23 @@
         "keyword": "scilab", 
         "tags": [
             "umerical computing matrix simulation modelisation geometric science computation hpc distributed computin"
+        ]
+    }, 
+    "minnowboard": {
+        "count": 1, 
+        "ideas": "http://elinux.org/Minnowboard:GSoC2015\r", 
+        "name": "MinnowBoard Project", 
+        "keyword": "minnowboard", 
+        "tags": [
+            "C", 
+            "Perl", 
+            "Python", 
+            "Bash", 
+            "File Synchronization", 
+            "Network Booting", 
+            "UEFI", 
+            "Firmware", 
+            "SMBus"
         ]
     }, 
     "reactos": {
@@ -3961,6 +4295,19 @@
             "wine", 
             "os", 
             "usability"
+        ]
+    }, 
+    "scorelab": {
+        "count": 1, 
+        "ideas": "http://www.scorelab.org/page/gsoc2015.html\r", 
+        "name": "Sustainable Computing Research Group ( SCoRe )", 
+        "keyword": "scorelab", 
+        "tags": [
+            "IoT", 
+            "wireless sensor networks", 
+            "embedded systems", 
+            "mobile applications", 
+            "e-learning"
         ]
     }, 
     "sage": {
@@ -4001,8 +4348,8 @@
         ]
     }, 
     "buildbot": {
-        "count": 4, 
-        "ideas": "http://trac.buildbot.net/wiki/ProjectIdeas", 
+        "count": 5, 
+        "ideas": "http://trac.buildbot.net/wiki/ProjectIdeas\r", 
         "name": "Buildbot", 
         "keyword": "buildbot", 
         "tags": [
@@ -4013,7 +4360,8 @@
             "releng", 
             "testing", 
             "angularjs", 
-            "web"
+            "web", 
+            "mq"
         ]
     }, 
     "illumos": {
@@ -4148,17 +4496,21 @@
         ]
     }, 
     "xiph": {
-        "count": 1, 
-        "ideas": "http://wiki.xiph.org/index.php/Summer_of_Code_2009", 
+        "count": 2, 
+        "ideas": "https://wiki.xiph.org/Summer_of_Code_2015\r", 
         "name": "Xiph.Org Foundation", 
         "keyword": "xiph", 
         "tags": [
-            ""
+            "media", 
+            "streaming", 
+            "audio", 
+            "video", 
+            "compression"
         ]
     }, 
     "cernsft": {
-        "count": 3, 
-        "ideas": "http://sftweb.cern.ch/gsoc14", 
+        "count": 4, 
+        "ideas": "http://ph-dep-sft.web.cern.ch/article/175948\r", 
         "name": "CERN SFT", 
         "keyword": "cernsft", 
         "tags": [
@@ -4191,8 +4543,8 @@
         ]
     }, 
     "lmonade": {
-        "count": 2, 
-        "ideas": "http://wiki.lmona.de/get_involved/gsoc", 
+        "count": 3, 
+        "ideas": "http://wiki.lmona.de/get_involved/gsoc\r", 
         "name": "lmonade: scientific software distribution", 
         "keyword": "lmonade", 
         "tags": [
@@ -4212,7 +4564,6 @@
             "3d", 
             "opengl", 
             "qt", 
-            "learning", 
             "graph", 
             "parallel", 
             "threads", 
@@ -4236,17 +4587,21 @@
         ]
     }, 
     "rproject": {
-        "count": 4, 
-        "ideas": "http://rwiki.sciviews.org/doku.php?id=developers:projects:gsoc2014", 
+        "count": 5, 
+        "ideas": "https://github.com/rstats-gsoc/gsoc2015/wiki/table-of-proposed-coding-projects\r", 
         "name": "R Project for Statistical Computing ", 
         "keyword": "rproject", 
         "tags": [
-            ""
+            "data", 
+            "statistics", 
+            "rstats", 
+            "r", 
+            "visualization"
         ]
     }, 
     "routeflow": {
-        "count": 2, 
-        "ideas": "https://sites.google.com/site/routeflow/updates/gsoc-ideas", 
+        "count": 3, 
+        "ideas": "https://sites.google.com/site/routeflow/updates/gsoc-ideas\r", 
         "name": "RouteFlow", 
         "keyword": "routeflow", 
         "tags": [
@@ -4458,22 +4813,31 @@
             "C#"
         ]
     }, 
-    "mbleol": {
+    "metalink": {
         "count": 1, 
-        "ideas": "http://wiki.eol.org/pages/viewpage.action?pageId=4457203", 
-        "name": "Marine Biological Laboratory Biodiversity Informatics Group-Encyclopedia of Life Project", 
-        "keyword": "mbleol", 
+        "ideas": "http://www.metalinker.org/ideas.html", 
+        "name": "Metalink", 
+        "keyword": "metalink", 
         "tags": [
-            "visualization", 
-            "biology", 
-            "science", 
-            "semantic-web", 
-            "rails", 
-            "api", 
-            "bioinformatics", 
-            "informatics", 
-            "ruby", 
-            "semantics"
+            "downloads", 
+            "distribution", 
+            "web", 
+            "browser", 
+            "http", 
+            "ftp", 
+            "p2p", 
+            "peer to peer", 
+            "open standards", 
+            "integrity", 
+            "mirrors", 
+            "cdn", 
+            "hashes", 
+            "file transfer", 
+            "xml", 
+            "python", 
+            "C++", 
+            "C", 
+            "javascript"
         ]
     }, 
     "onlab": {
@@ -4584,8 +4948,8 @@
         ]
     }, 
     "ganeti": {
-        "count": 2, 
-        "ideas": "http://code.google.com/p/ganeti/wiki/SummerOfCode2014Ideas", 
+        "count": 3, 
+        "ideas": "https://code.google.com/p/ganeti/wiki/SummerOfCode2015Ideas\r", 
         "name": "Ganeti", 
         "keyword": "ganeti", 
         "tags": [
@@ -4709,6 +5073,20 @@
             "games"
         ]
     }, 
+    "openbsd_foundation": {
+        "count": 1, 
+        "ideas": "http://www.openbsdfoundation.org/gsoc2015.html\r", 
+        "name": "The OpenBSD Foundation", 
+        "keyword": "openbsd_foundation", 
+        "tags": [
+            "OpenBSD", 
+            "OpenSSH", 
+            "OpenCVS", 
+            "OpenSMTP", 
+            "OpenBGPD", 
+            "LibreSSL"
+        ]
+    }, 
     "google_caja": {
         "count": 1, 
         "ideas": "http://code.google.com/p/google-caja/wiki/ProjectIdeas", 
@@ -4728,22 +5106,24 @@
         ]
     }, 
     "moodle": {
-        "count": 5, 
-        "ideas": "http://docs.moodle.org/dev/Projects_for_new_developers", 
+        "count": 6, 
+        "ideas": "https://docs.moodle.org/dev/Projects_for_new_developers\r", 
         "name": "Moodle", 
         "keyword": "moodle", 
         "tags": [
-            "Education", 
+            "education", 
+            "elearning", 
+            "CMS", 
+            "LMS", 
+            "VLE", 
             "learning", 
             "teaching", 
             "primary", 
             "secondary", 
             "tertiary", 
             "university", 
-            "LMS", 
-            "CMS", 
-            "VLE", 
-            "LP php"
+            "PHP", 
+            "SQL"
         ]
     }, 
     "hackystat": {
@@ -4781,12 +5161,22 @@
         ]
     }, 
     "fossasia": {
-        "count": 3, 
-        "ideas": "http://fossasia.org/gsoc-ideas", 
+        "count": 4, 
+        "ideas": "http://labs.fossasia.org/ideas\r", 
         "name": "FOSSASIA", 
         "keyword": "fossasia", 
         "tags": [
+            "python", 
+            "qt", 
+            "Javascript", 
+            "js", 
+            "HTML", 
+            "web", 
             "android", 
+            "iOS", 
+            "web apps", 
+            "C", 
+            "C++", 
             "mobile", 
             "pattern", 
             "garment", 
@@ -4794,9 +5184,7 @@
             "social change", 
             "humanitarian software", 
             "linux", 
-            "localization", 
-            "android", 
-            "web"
+            "localization"
         ]
     }, 
     "wx": {
@@ -4861,8 +5249,8 @@
         ]
     }, 
     "mono": {
-        "count": 6, 
-        "ideas": "http://www.mono-project.com/StudentProjects", 
+        "count": 7, 
+        "ideas": "http://www.mono-project.com/community/google-summer-of-code/projects/\r", 
         "name": "Mono Project", 
         "keyword": "mono", 
         "tags": [
@@ -4877,7 +5265,8 @@
             "GTK", 
             "OSX", 
             "Linux", 
-            "Windows"
+            "Windows", 
+            ".Net"
         ]
     }, 
     "sugar_labs": {
@@ -4923,17 +5312,37 @@
             "ant"
         ]
     }, 
+    "pnacl": {
+        "count": 1, 
+        "ideas": "https://developer.chrome.com/native-client/reference/ideas\r", 
+        "name": "Portable Native Client", 
+        "keyword": "pnacl", 
+        "tags": [
+            "nacl", 
+            "pnacl", 
+            "chrome", 
+            "llvm", 
+            "c", 
+            "c++", 
+            "compiler", 
+            "compilers", 
+            "systems", 
+            "security", 
+            "performance"
+        ]
+    }, 
     "phpmyadmin": {
-        "count": 4, 
-        "ideas": "http://wiki.phpmyadmin.net/pma/GSoC_2014_Ideas_List", 
+        "count": 5, 
+        "ideas": "https://wiki.phpmyadmin.net/pma/GSoC_2015_Ideas_List\r", 
         "name": "phpMyAdmin", 
         "keyword": "phpmyadmin", 
         "tags": [
             "mysql", 
             "php", 
-            "admin", 
+            "html", 
+            "ajax", 
             "javascript", 
-            "jquery"
+            "sql"
         ]
     }, 
     "cc": {
@@ -5075,8 +5484,8 @@
         ]
     }, 
     "qemu": {
-        "count": 4, 
-        "ideas": "http://qemu-project.org/Google_Summer_of_Code_2014", 
+        "count": 5, 
+        "ideas": "http://qemu-project.org/Google_Summer_of_Code_2015\r", 
         "name": "QEMU development team", 
         "keyword": "qemu", 
         "tags": [
@@ -5274,16 +5683,18 @@
         ]
     }, 
     "syslog_ng": {
-        "count": 1, 
-        "ideas": "https://github.com/balabit/syslog-ng/wiki/GSoC2014-idea-&-project-list", 
+        "count": 2, 
+        "ideas": "https://github.com/balabit/syslog-ng/wiki/GSoC2015-idea-&amp;-project-list\r", 
         "name": "The syslog-ng project", 
         "keyword": "syslog_ng", 
         "tags": [
             "syslog", 
             "logging", 
             "event processing", 
+            "security", 
             "C", 
-            "security"
+            "Java", 
+            "Python"
         ]
     }, 
     "funf": {
@@ -5301,6 +5712,16 @@
             "Java", 
             "Python", 
             "research"
+        ]
+    }, 
+    "ruby": {
+        "count": 1, 
+        "ideas": "https://github.com/rubygsoc/rubygsoc/wiki/Ideas-List\r", 
+        "name": "Ruby", 
+        "keyword": "ruby", 
+        "tags": [
+            "language", 
+            "oop"
         ]
     }, 
     "freedroid": {
@@ -5331,15 +5752,30 @@
         ]
     }, 
     "ceph": {
-        "count": 1, 
-        "ideas": "http://ceph.com/gsoc2014/", 
+        "count": 2, 
+        "ideas": "http://ceph.com/gsoc2015/\r", 
         "name": "Ceph", 
         "keyword": "ceph", 
         "tags": [
             "ceph", 
-            "inktank", 
             "storage", 
-            "distributed"
+            "software defined"
+        ]
+    }, 
+    "rspamd": {
+        "count": 1, 
+        "ideas": "https://rspamd.com/ideas.html\r", 
+        "name": "Rspamd spam filtering system", 
+        "keyword": "rspamd", 
+        "tags": [
+            "spam filtering", 
+            "email", 
+            "high performance", 
+            "event model", 
+            "C", 
+            "machine learning", 
+            "lua", 
+            "cryptography"
         ]
     }, 
     "omii_uk": {
@@ -5375,8 +5811,8 @@
         ]
     }, 
     "bmi_cci": {
-        "count": 3, 
-        "ideas": "https://docs.imphub.org/display/PS/Google+Summer+of+Code+-+2014", 
+        "count": 4, 
+        "ideas": "https://docs.imphub.org/x/FQDg\r", 
         "name": "\"Dept. of Biomedical Informatics", 
         "keyword": "bmi_cci", 
         "tags": [
@@ -5386,15 +5822,16 @@
             "clinical", 
             "imaging", 
             "informatics", 
-            "dicom", 
+            "machine learning", 
             "cloud", 
             "nosql", 
-            "neo4j", 
+            "spatial databases", 
+            "visualization", 
             "big data", 
             "data mining", 
             "web services", 
-            "map reduce", 
             "hadoop", 
+            "spark", 
             "javascript", 
             "java", 
             "databases"
@@ -5436,12 +5873,24 @@
         ]
     }, 
     "openstreetmap": {
-        "count": 1, 
-        "ideas": "http://wiki.openstreetmap.org/wiki/GSoC_Applications_2009", 
+        "count": 2, 
+        "ideas": "https://wiki.openstreetmap.org/wiki/Google_Summer_of_Code/2015/Project_Ideas\r", 
         "name": "OpenStreetMap", 
         "keyword": "openstreetmap", 
         "tags": [
-            ""
+            "geo", 
+            "maps", 
+            "crowdsourcing", 
+            "java", 
+            "javascript", 
+            "c++", 
+            "ruby", 
+            "postgis", 
+            "webgl", 
+            "3d", 
+            "wmts", 
+            "python", 
+            "html"
         ]
     }, 
     "m_lab": {
@@ -5471,9 +5920,24 @@
             "Android"
         ]
     }, 
+    "is": {
+        "count": 1, 
+        "ideas": "http://www.interactive-spaces.org/home/google-summer-of-code-2015\r", 
+        "name": "Interactive Spaces", 
+        "keyword": "is", 
+        "tags": [
+            "interactivity", 
+            "sensors", 
+            "framework", 
+            "synchronization", 
+            "ROS", 
+            "Java", 
+            "cross-platform"
+        ]
+    }, 
     "n52": {
-        "count": 3, 
-        "ideas": "https://wiki.52north.org/bin/view/Projects/GSoC2014ProjectIdeas", 
+        "count": 4, 
+        "ideas": "https://wiki.52north.org/bin/view/Projects/GSoC2015ProjectIdeas\r", 
         "name": "52\u00b0North Initiative for Geospatial Open Source Software GmbH", 
         "keyword": "n52", 
         "tags": [
@@ -5554,8 +6018,8 @@
         ]
     }, 
     "fedora": {
-        "count": 4, 
-        "ideas": "http://fedoraproject.org/wiki/Summer_coding_ideas_for_2014", 
+        "count": 5, 
+        "ideas": "https://fedoraproject.org/wiki/Summer_coding_ideas_for_2015\r", 
         "name": "The Fedora Project", 
         "keyword": "fedora", 
         "tags": [
@@ -5563,15 +6027,27 @@
             "kernel", 
             "php", 
             "C", 
-            "bashc", 
+            "bash", 
             "ruby", 
             "python", 
             "rails", 
             "buildservices", 
-            "yum", 
+            "dnf", 
             "rpm", 
             "distribution", 
             "cloud"
+        ]
+    }, 
+    "media": {
+        "count": 1, 
+        "ideas": "https://github.com/mit-cml/appinventor-sources/wiki/Projects-GSoC-15\r", 
+        "name": "MIT Media Lab", 
+        "keyword": "media", 
+        "tags": [
+            "mobile computing", 
+            "education", 
+            "App Inventor", 
+            "education technology"
         ]
     }, 
     "ccharles": {
@@ -5659,49 +6135,75 @@
         ]
     }, 
     "incf": {
-        "count": 4, 
-        "ideas": "http://incf.org/gsoc/2014/proposals", 
+        "count": 5, 
+        "ideas": "https://www.incf.org/gsoc/2015/proposals\r", 
         "name": "International Neuroinformatics Coordinating Facility", 
         "keyword": "incf", 
         "tags": [
-            "neuroinformatics", 
-            "neuroscience"
+            "brain", 
+            "neuroscience", 
+            "Python", 
+            "C++", 
+            "Java", 
+            "Javscript", 
+            "JQuery", 
+            "SQL", 
+            "MySQL", 
+            "NoSQL", 
+            "XML", 
+            "SOAP", 
+            "REST", 
+            "Git", 
+            "GitHub", 
+            "HTML5", 
+            "PHP", 
+            "Django", 
+            "RDF", 
+            "R", 
+            "WebGL", 
+            "CUDA", 
+            "Travis", 
+            "Heroku", 
+            "Ansible", 
+            "WebRTC", 
+            "BitTorrent"
         ]
     }, 
     "privly": {
-        "count": 2, 
-        "ideas": "https://github.com/privly/privly-organization/wiki/Ideas", 
+        "count": 3, 
+        "ideas": "https://github.com/privly/privly-organization/wiki/Ideas\r", 
         "name": "The Privly Foundation", 
         "keyword": "privly", 
         "tags": [
             "privacy", 
             "security", 
-            "cryptography", 
             "browser extensions", 
-            "native client", 
             "javascript", 
-            "OTR", 
-            "IRC", 
-            "PGP", 
-            "rails", 
-            "continuous integration", 
-            "testing", 
-            "user experience", 
-            "ux"
+            "cryptography", 
+            "android", 
+            "HTML5", 
+            "Chrome", 
+            "Firefox", 
+            "Jetpack", 
+            "Python", 
+            "Ruby", 
+            "Selenium", 
+            "Webdriver", 
+            "Content Scripts", 
+            "Browser", 
+            "Web"
         ]
     }, 
     "sugarlabs": {
-        "count": 2, 
-        "ideas": "http://wiki.sugarlabs.org/go/Summer_of_Code/2014", 
+        "count": 3, 
+        "ideas": "http://wiki.sugarlabs.org/go/Summer_of_Code/2015\r", 
         "name": "Sugar Labs educational platform (a member of the SFC)", 
         "keyword": "sugarlabs", 
         "tags": [
+            "children", 
             "learning", 
-            "software", 
             "Python", 
-            "GNOME", 
-            "JavaScript", 
-            "HTML5"
+            "Javascript"
         ]
     }, 
     "opticks": {
@@ -5750,12 +6252,24 @@
         ]
     }, 
     "geogebra": {
-        "count": 3, 
-        "ideas": "http://dev.geogebra.org/trac/wiki/Gsoc2012", 
+        "count": 4, 
+        "ideas": "https://dev.geogebra.org/trac/wiki/Gsoc2015\r", 
         "name": "International GeoGebra Institute", 
         "keyword": "geogebra", 
         "tags": [
-            ""
+            "math", 
+            "education", 
+            "mathematics", 
+            "Java", 
+            "JavaScript", 
+            "GWT", 
+            "iOS", 
+            "Android", 
+            "canvas", 
+            "html5", 
+            "geometry", 
+            "algebra", 
+            "3D"
         ]
     }, 
     "php": {
@@ -5857,6 +6371,31 @@
             "medicine"
         ]
     }, 
+    "stonybrookbmi": {
+        "count": 1, 
+        "ideas": "http://goo.gl/PZ0ytf\r", 
+        "name": "\"Department of Biomedical Informatics", 
+        "keyword": "stonybrookbmi", 
+        "tags": [
+            "tony Brook University\"", 
+            "\"Biomedial Informatics", 
+            "medial imaging", 
+            "bioinformatics", 
+            "public health informatics", 
+            "MapReduce"
+        ]
+    }, 
+    "gnu_mailman": {
+        "count": 1, 
+        "ideas": "http://wiki.list.org/DEV/Google_Summer_of_Code_2015\r", 
+        "name": "GNU Mailman", 
+        "keyword": "gnu_mailman", 
+        "tags": [
+            "email", 
+            "mailing-lists", 
+            "python"
+        ]
+    }, 
     "connexions": {
         "count": 2, 
         "ideas": "https://trac.rhaptos.org/trac/rhaptos/wiki/Google%20Summer%20of%20Code%202012/Projects", 
@@ -5908,22 +6447,18 @@
             "lms"
         ]
     }, 
-    "gdcm": {
-        "count": 2, 
-        "ideas": "http://sourceforge.net/apps/mediawiki/gdcm/index.php?title=GDCM_Summer_of_Code_2012", 
-        "name": "Grassroots DICOM", 
-        "keyword": "gdcm", 
+    "phpbb": {
+        "count": 3, 
+        "ideas": "https://wiki.phpbb.com/GSoC/2014/Ideas", 
+        "name": "phpBB Forum Software", 
+        "keyword": "phpbb", 
         "tags": [
-            "medical_records", 
-            "hospitals", 
-            "xml", 
-            "web", 
-            "cryptography", 
-            "DICOM", 
-            "c++", 
-            "JPEG 2000", 
-            "compression", 
-            "GPU"
+            "forum", 
+            "bulletin", 
+            "board", 
+            "php", 
+            "webdesign. community", 
+            "web"
         ]
     }, 
     "openstack": {
@@ -5980,15 +6515,28 @@
             "postgres"
         ]
     }, 
+    "afsis": {
+        "count": 1, 
+        "ideas": "http://qed.ai/afsis-gsoc\r", 
+        "name": "Africa Soil Information Service", 
+        "keyword": "afsis", 
+        "tags": [
+            "afsis", 
+            "soil", 
+            "gis", 
+            "agriculture", 
+            "machine learning"
+        ]
+    }, 
     "samba": {
-        "count": 6, 
-        "ideas": "http://wiki.samba.org/index.php/SoC/Ideas", 
+        "count": 7, 
+        "ideas": "https://wiki.samba.org/index.php/SoC/Ideas\r", 
         "name": "Samba", 
         "keyword": "samba", 
         "tags": [
             "C", 
-            "SMB", 
             "CIFS", 
+            "SMB", 
             "kernel"
         ]
     }, 
@@ -6028,21 +6576,22 @@
         ]
     }, 
     "opencv": {
-        "count": 5, 
-        "ideas": "http://code.opencv.org/projects/opencv/wiki/GSoC_2014", 
+        "count": 6, 
+        "ideas": "http://code.opencv.org/projects/opencv/wiki/GSoC_2015\r", 
         "name": "Open Source Computer Vision Library", 
         "keyword": "opencv", 
         "tags": [
-            "computer vision", 
-            "machine learning", 
-            "AI", 
-            "perception", 
-            "learning"
+            "OpenCV", 
+            "Computer Vision", 
+            "Machine Learning", 
+            "Image Processing", 
+            "Computational Photography", 
+            "Fun"
         ]
     }, 
     "wikimedia": {
-        "count": 6, 
-        "ideas": "https://www.mediawiki.org/wiki/Google_Summer_of_Code_2014", 
+        "count": 7, 
+        "ideas": "https://www.mediawiki.org/wiki/Google_Summer_of_Code_2015\r", 
         "name": "Wikimedia Foundation", 
         "keyword": "wikimedia", 
         "tags": [
@@ -6065,20 +6614,17 @@
         ]
     }, 
     "libreoffice": {
-        "count": 4, 
-        "ideas": "https://wiki.documentfoundation.org/Development/Gsoc/Ideas", 
+        "count": 5, 
+        "ideas": "https://wiki.documentfoundation.org/Development/GSoC/Ideas\r", 
         "name": "LibreOffice", 
         "keyword": "libreoffice", 
         "tags": [
-            "office", 
+            "officesuite", 
             "c++", 
-            "word processor", 
             "spreadsheet", 
+            "textprocessor", 
             "presentation", 
-            "database", 
-            "drawing", 
-            "android", 
-            "ios"
+            "odf"
         ]
     }, 
     "ganglia": {
@@ -6107,8 +6653,8 @@
         ]
     }, 
     "osgeo": {
-        "count": 6, 
-        "ideas": "http://wiki.osgeo.org/wiki/Google_Summer_of_Code_2014_Ideas", 
+        "count": 7, 
+        "ideas": "http://wiki.osgeo.org/wiki/Google_Summer_of_Code_2015_Ideas\r", 
         "name": "OSGeo - Open Source Geospatial Foundation ", 
         "keyword": "osgeo", 
         "tags": [
@@ -6256,18 +6802,22 @@
             "extensibility"
         ]
     }, 
-    "phpbb": {
-        "count": 3, 
-        "ideas": "https://wiki.phpbb.com/GSoC/2014/Ideas", 
-        "name": "phpBB Forum Software", 
-        "keyword": "phpbb", 
+    "gdcm": {
+        "count": 2, 
+        "ideas": "http://sourceforge.net/apps/mediawiki/gdcm/index.php?title=GDCM_Summer_of_Code_2012", 
+        "name": "Grassroots DICOM", 
+        "keyword": "gdcm", 
         "tags": [
-            "forum", 
-            "bulletin", 
-            "board", 
-            "php", 
-            "webdesign. community", 
-            "web"
+            "medical_records", 
+            "hospitals", 
+            "xml", 
+            "web", 
+            "cryptography", 
+            "DICOM", 
+            "c++", 
+            "JPEG 2000", 
+            "compression", 
+            "GPU"
         ]
     }, 
     "larrygritz": {
@@ -6301,6 +6851,19 @@
             "Qt4", 
             "C++", 
             "python."
+        ]
+    }, 
+    "scalateam": {
+        "count": 1, 
+        "ideas": "http://scala-lang.org/gsoc/2015.html\r", 
+        "name": "Scala Team", 
+        "keyword": "scalateam", 
+        "tags": [
+            "scala", 
+            "functional programming", 
+            "language design", 
+            "ide", 
+            "sbt"
         ]
     }, 
     "xsf": {
@@ -6370,6 +6933,20 @@
             "php", 
             "distributions", 
             "iscsi"
+        ]
+    }, 
+    "learningequality": {
+        "count": 1, 
+        "ideas": "https://learningequality.org/ka-lite/user-guides/gsoc-ideas-list-2015\r", 
+        "name": "Foundation for Learning Equality", 
+        "keyword": "learningequality", 
+        "tags": [
+            "learning", 
+            "education", 
+            "international development", 
+            "ICT4D", 
+            "social justice", 
+            "edtech"
         ]
     }, 
     "packetfence": {
@@ -6452,27 +7029,20 @@
         ]
     }, 
     "kde": {
-        "count": 6, 
-        "ideas": "http://community.kde.org/GSoC/2014/Ideas", 
+        "count": 7, 
+        "ideas": "https://community.kde.org/GSoC/2015/Ideas\r", 
         "name": "KDE", 
         "keyword": "kde", 
         "tags": [
-            "accessibility", 
-            "audio", 
-            "browser", 
-            "c++", 
             "desktop", 
+            "Qt", 
+            "C++", 
+            "Marble", 
+            "Plasma", 
             "education", 
-            "games", 
-            "linux", 
-            "mac", 
-            "music", 
-            "office", 
-            "pim", 
-            "qt", 
-            "sdk", 
-            "semantic", 
-            "windows"
+            "PIM", 
+            "Gluon", 
+            "Krita"
         ]
     }, 
     "twitter": {
@@ -6487,21 +7057,32 @@
         ]
     }, 
     "ascend": {
-        "count": 4, 
-        "ideas": "http://ascend4.org/Student_Projects", 
+        "count": 5, 
+        "ideas": "http://ascend4.org/Student_projects\r", 
         "name": "ASCEND", 
         "keyword": "ascend", 
         "tags": [
-            "c", 
-            "python", 
-            "science", 
-            "gui", 
-            "gtk", 
-            "c++", 
+            "numerical", 
+            "mathematics", 
             "simulation", 
+            "C", 
+            "C++", 
+            "python", 
+            "GTK", 
+            "linux", 
+            "windows", 
+            "mac", 
+            "GUI", 
+            "science", 
+            "scientific software", 
+            "parallel", 
+            "programming language", 
+            "education", 
             "engineering", 
-            "swig", 
-            "math"
+            "math", 
+            "scientific computing", 
+            "high-performance computing", 
+            "OSX"
         ]
     }, 
     "cmusphinx": {
@@ -6580,6 +7161,16 @@
         "keyword": "chromium", 
         "tags": [
             ""
+        ]
+    }, 
+    "numfocus": {
+        "count": 1, 
+        "ideas": "https://github.com/numfocus/gsoc/blob/master/2015/ideas-list.md\r", 
+        "name": "NumFOCUS", 
+        "keyword": "numfocus", 
+        "tags": [
+            "scientific software", 
+            "numerical computation"
         ]
     }, 
     "mlpack": {
@@ -6676,18 +7267,17 @@
         ]
     }, 
     "processing": {
-        "count": 4, 
-        "ideas": "https://github.com/processing/processing/wiki/Project-List", 
+        "count": 5, 
+        "ideas": "https://github.com/processing/processing/wiki/Project-List\r", 
         "name": "Processing", 
         "keyword": "processing", 
         "tags": [
+            "processing", 
             "java", 
             "javascript", 
-            "animation", 
-            "images", 
-            "graphics", 
-            "education", 
-            "beginner"
+            "python", 
+            "art", 
+            "design"
         ]
     }, 
     "shogun": {
@@ -6713,15 +7303,18 @@
         ]
     }, 
     "stellar": {
-        "count": 1, 
-        "ideas": "https://github.com/STEllAR-GROUP/hpx/wiki/GSoC-2014-Project-Ideas", 
+        "count": 2, 
+        "ideas": "https://github.com/STEllAR-GROUP/hpx/wiki/GSoC-2015-Project-Ideas\r", 
         "name": "The STE||AR Group", 
         "keyword": "stellar", 
         "tags": [
-            "parallelcomputing", 
-            "C++", 
-            "asynchronous programming", 
-            "dataflow"
+            "parellelism", 
+            "performance", 
+            "scalability", 
+            "standardization", 
+            "distributed computing", 
+            "high performance computing", 
+            "C++"
         ]
     }, 
     "public_lab": {
@@ -6746,6 +7339,33 @@
             "javascript", 
             "imagemagick", 
             "rmagick"
+        ]
+    }, 
+    "redhenlab": {
+        "count": 1, 
+        "ideas": "https://sites.google.com/site/distributedlittleredhen/gsoc2015\r", 
+        "name": "Red Hen Lab", 
+        "keyword": "redhenlab", 
+        "tags": [
+            "linguistics", 
+            "discourse", 
+            "nlp", 
+            "multimodal", 
+            "communication", 
+            "computation", 
+            "statistics", 
+            "search", 
+            "opencv", 
+            "audio", 
+            "video", 
+            "body language", 
+            "cluster", 
+            "corpus", 
+            "archive", 
+            "university", 
+            "universities", 
+            "global", 
+            "multilanguage"
         ]
     }, 
     "xapian": {
@@ -6785,8 +7405,8 @@
         ]
     }, 
     "postgresql": {
-        "count": 5, 
-        "ideas": "http://www.postgresql.org/developer/summerofcode", 
+        "count": 6, 
+        "ideas": "http://www.postgresql.org/developer/summerofcode\r", 
         "name": "PostgreSQL", 
         "keyword": "postgresql", 
         "tags": [
@@ -6799,12 +7419,13 @@
             "Perl", 
             "Python", 
             "Java", 
-            "SQL"
+            "SQL", 
+            "json"
         ]
     }, 
     "gnome": {
-        "count": 6, 
-        "ideas": "https://wiki.gnome.org/Outreach/SummerOfCode/2014/Ideas", 
+        "count": 7, 
+        "ideas": "https://wiki.gnome.org/Outreach/SummerOfCode/2015/Ideas\r", 
         "name": "GNOME", 
         "keyword": "gnome", 
         "tags": [
@@ -6905,24 +7526,24 @@
         ]
     }, 
     "ccextractor": {
-        "count": 1, 
-        "ideas": "http://ccextractor.sourceforge.net/gsoc2014.html", 
+        "count": 2, 
+        "ideas": "http://www.ccextractor.org/gsoc2015.html\r", 
         "name": "CCExtractor development", 
         "keyword": "ccextractor", 
         "tags": [
-            "c", 
-            "c++", 
-            "video", 
-            "mpeg", 
-            "h264", 
-            "accesibility", 
             "subtitles", 
             "closed captions", 
+            "video", 
+            "language", 
+            "c", 
+            "mpeg", 
+            "h264", 
             "teletext", 
             "ffmpeg", 
-            "network", 
-            "multithreading", 
             "linux", 
+            "multithreading", 
+            "network", 
+            "accessibility", 
             "low level", 
             "ccextractor"
         ]
@@ -6961,8 +7582,8 @@
         ]
     }, 
     "ospo": {
-        "count": 2, 
-        "ideas": "http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2014/help_page#16._What_if_there_is_no_organization", 
+        "count": 3, 
+        "ideas": "http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2015/help_page#16._What_if_there_is_no_organization\r", 
         "name": "Google Open Source Programs Office", 
         "keyword": "ospo", 
         "tags": [
@@ -6972,14 +7593,15 @@
         ]
     }, 
     "clojure": {
-        "count": 2, 
-        "ideas": "http://dev.clojure.org/display/community/Project+Ideas", 
+        "count": 3, 
+        "ideas": "http://dev.clojure.org/display/community/Project+Ideas\r", 
         "name": "Clojure/dev", 
         "keyword": "clojure", 
         "tags": [
             "Clojure", 
             "Lisp", 
-            "Functional Programming"
+            "Functional Programming", 
+            "ClojureScript"
         ]
     }, 
     "gambit": {
@@ -7103,8 +7725,8 @@
         ]
     }, 
     "git": {
-        "count": 5, 
-        "ideas": "http://git.github.io/SoC-2014-Ideas.html", 
+        "count": 6, 
+        "ideas": "http://git.github.io/SoC-2015-Ideas.html\r", 
         "name": "Git Development Community", 
         "keyword": "git", 
         "tags": [
@@ -7132,6 +7754,25 @@
             "windows"
         ]
     }, 
+    "centos": {
+        "count": 1, 
+        "ideas": "http://wiki.centos.org/GSoC/2015/Ideas\r", 
+        "name": "CentOS Project", 
+        "keyword": "centos", 
+        "tags": [
+            "Linux", 
+            "Python", 
+            "yum", 
+            "oVirt", 
+            "OpenStack", 
+            "OpenShift", 
+            "Gluster", 
+            "Ceph", 
+            "Docker", 
+            "container", 
+            "Atomic"
+        ]
+    }, 
     "ptolemy": {
         "count": 1, 
         "ideas": "http://chess.eecs.berkeley.edu/gsoc/wiki/Main/HomePage", 
@@ -7141,6 +7782,18 @@
             "niversity of California", 
             "Berkeley\"", 
             ""
+        ]
+    }, 
+    "helikarlab": {
+        "count": 1, 
+        "ideas": "http://helikarlab.org/GSoC.html\r", 
+        "name": "University of Nebraska - Helikar Lab", 
+        "keyword": "helikarlab", 
+        "tags": [
+            "bioinformatics", 
+            "computational biology", 
+            "systems biology", 
+            "image analysis"
         ]
     }, 
     "sunlight": {
@@ -7224,23 +7877,27 @@
         ]
     }, 
     "portland_state": {
-        "count": 5, 
-        "ideas": "http://summer.cs.pdx.edu/ideas", 
+        "count": 6, 
+        "ideas": "http://summer.cs.pdx.edu/ideas\r", 
         "name": "Portland State University", 
         "keyword": "portland_state", 
         "tags": [
-            "university", 
             "new projects", 
-            "individual projects"
+            "academic", 
+            "odd projects", 
+            "spatial", 
+            "GIS"
         ]
     }, 
     "copyleftgames": {
-        "count": 1, 
-        "ideas": "http://gsoc.copyleftgames.org/", 
+        "count": 2, 
+        "ideas": "http://gsoc.copyleftgames.org/\r", 
         "name": "Copyleft Games", 
         "keyword": "copyleftgames", 
         "tags": [
-            ""
+            "C", 
+            "Python", 
+            "Games"
         ]
     }, 
     "darktable": {
@@ -7251,6 +7908,35 @@
         "tags": [
             "raw", 
             "photography"
+        ]
+    }, 
+    "hpccsystems": {
+        "count": 1, 
+        "ideas": "https://wiki.hpccsystems.com/display/hpcc/HPCC+Systems+GSoC+2015+Ideas+List\r", 
+        "name": "HPCC Systems\u00ae", 
+        "keyword": "hpccsystems", 
+        "tags": [
+            "ECL", 
+            "Python", 
+            "Java", 
+            "Parallel Processing", 
+            "Big Data", 
+            "C++", 
+            "Distributed File System", 
+            "Scalable", 
+            "Data Warehousing", 
+            "High Performance Queries", 
+            "ETL Processing", 
+            "Git", 
+            "JIRA", 
+            "Machine Learning", 
+            "Visualisations", 
+            "NLP", 
+            "High Performance Computing", 
+            "Natural Language Processing", 
+            "Data Science", 
+            "Data Mining", 
+            "Hadoop"
         ]
     }, 
     "oydev": {
@@ -7272,8 +7958,8 @@
         ]
     }, 
     "ns3": {
-        "count": 5, 
-        "ideas": "https://www.nsnam.org/wiki/index.php/GSOC2014Projects", 
+        "count": 6, 
+        "ideas": "http://www.nsnam.org/wiki/GSOC2015Projects\r", 
         "name": "The ns-3 Network Simulator Project", 
         "keyword": "ns3", 
         "tags": [
@@ -7560,8 +8246,8 @@
         ]
     }, 
     "llvm": {
-        "count": 6, 
-        "ideas": "http://llvm.org/OpenProjects.html", 
+        "count": 7, 
+        "ideas": "http://llvm.org/OpenProjects.html\r", 
         "name": "LLVM Compiler Infrastructure", 
         "keyword": "llvm", 
         "tags": [
@@ -7570,6 +8256,18 @@
             "compiler", 
             "backend", 
             "optimization"
+        ]
+    }, 
+    "kubernetes": {
+        "count": 1, 
+        "ideas": "https://github.com/GoogleCloudPlatform/kubernetes/wiki/Google-Summer-of-Code-(GSoC)\r", 
+        "name": "Google Kubernetes", 
+        "keyword": "kubernetes", 
+        "tags": [
+            "kubernetes", 
+            "docker", 
+            "google", 
+            "containers"
         ]
     }, 
     "asterisk": {
@@ -7600,6 +8298,45 @@
             ""
         ]
     }, 
+    "mbdyn": {
+        "count": 1, 
+        "ideas": "https://www.mbdyn.org/?Developers_corner___TODO_list\r", 
+        "name": "\"MBDyn", 
+        "keyword": "mbdyn", 
+        "tags": [
+            "epartment of Aerospace Engineering at the Polytechnic University of Milan\"", 
+            "\"mbdyn", 
+            "multibody", 
+            "multibody dynamics", 
+            "multibody system dynamics", 
+            "numerical analysis", 
+            "numerical modeling", 
+            "structural dynamics", 
+            "finite element method", 
+            "aerospace", 
+            "aerodynamics", 
+            "helicopter", 
+            "rotorcraft", 
+            "wind energy", 
+            "automotive", 
+            "vehicles", 
+            "vehicle dynamics", 
+            "tires", 
+            "trucks", 
+            "engineering", 
+            "mechanical engineering", 
+            "aerospace engineering", 
+            "robotics", 
+            "mechatronics", 
+            "C++", 
+            "university", 
+            "free software", 
+            "simulation", 
+            "cosimulation", 
+            "multiphysics", 
+            "multidisciplinary analysis"
+        ]
+    }, 
     "ccan": {
         "count": 1, 
         "ideas": "http://ccan.ozlabs.org/Wiki/GSOC2009", 
@@ -7610,8 +8347,8 @@
         ]
     }, 
     "debian": {
-        "count": 6, 
-        "ideas": "https://wiki.debian.org/SummerOfCode2014/Projects", 
+        "count": 7, 
+        "ideas": "https://wiki.debian.org/SummerOfCode2015/Projects\r", 
         "name": "Debian", 
         "keyword": "debian", 
         "tags": [
@@ -7675,35 +8412,66 @@
             "c++"
         ]
     }, 
+    "pencilcode": {
+        "count": 1, 
+        "ideas": "http://ideas.pencilcode.net/\r", 
+        "name": "Pencil Code Foundation", 
+        "keyword": "pencilcode", 
+        "tags": [
+            "education", 
+            "programming language", 
+            "visualization", 
+            "graphics", 
+            "ide"
+        ]
+    }, 
+    "p2psp": {
+        "count": 1, 
+        "ideas": "http://p2psp.org/en/news/55-gsoc-2015-ideas-page\r", 
+        "name": "P2PSP.org", 
+        "keyword": "p2psp", 
+        "tags": [
+            "Live Video Streaming", 
+            "P2P", 
+            "Multimedia", 
+            "Streaming", 
+            "Protocol", 
+            "Internet", 
+            "Video", 
+            "Python", 
+            "Socket", 
+            "WebRTC", 
+            "Android"
+        ]
+    }, 
     "macports": {
-        "count": 5, 
-        "ideas": "https://trac.macports.org/wiki/SummerOfCode", 
+        "count": 6, 
+        "ideas": "https://trac.macports.org/wiki/SummerOfCode\r", 
         "name": "The MacPorts Project", 
         "keyword": "macports", 
         "tags": [
-            "MacPorts", 
             "Mac", 
             "OS X", 
-            "OSX", 
-            "Mac OS X", 
+            "Apple", 
+            "Darwin", 
+            "package management", 
+            "distribution", 
             "C", 
             "Tcl", 
-            "dependencies", 
-            "SAT", 
-            "SAT-solving", 
-            "theory", 
-            "theoretical computer science", 
-            "Xcode", 
-            "Objective-C", 
-            "Apple", 
-            "LD_PRELOAD", 
-            "sandbox", 
-            "optimization", 
-            "qt", 
-            "ports", 
+            "porting", 
+            "cross", 
+            "cross-compilation", 
+            "scripting", 
             "BSD", 
-            "package", 
-            "package management"
+            "SAT", 
+            "system programming", 
+            "Xcode", 
+            "LD_PRELOAD", 
+            "DYLD_INSERT_LIBRARIES", 
+            "operating system", 
+            "os", 
+            "clang", 
+            "llvm"
         ]
     }, 
     "benetech": {
@@ -7721,37 +8489,36 @@
         ]
     }, 
     "robocomp": {
-        "count": 1, 
-        "ideas": "http://robocomp.org/?p=86", 
+        "count": 2, 
+        "ideas": "https://robocomp.github.io/robocomp/gsoc15-robocomp-ideas.html\r", 
         "name": "RoboComp", 
         "keyword": "robocomp", 
         "tags": [
-            "RoboComp", 
             "robotics", 
             "framework", 
-            "components oriented programming", 
-            ""
+            "computer vision"
         ]
     }, 
     "plasma_umass": {
-        "count": 1, 
-        "ideas": "https://github.com/plasma-umass/GSoC-2013/wiki/Ideas-List", 
+        "count": 2, 
+        "ideas": "https://github.com/plasma-umass/GSoC-2014/wiki/Idea-List-for-Google-Summer-of-Code-2015\r", 
         "name": "PLASMA @ UMass", 
         "keyword": "plasma_umass", 
         "tags": [
+            "Domain-Specific Languages", 
+            "DSL", 
             "Scala", 
             "Java", 
             "Mechanical Turk", 
-            "C#", 
-            "spreadsheet", 
             "JavaScript", 
-            "CoffeeScript", 
+            "TypeScript", 
             "JVM", 
+            "Python", 
+            "R", 
             "interpreter", 
             "compiler", 
             "networking", 
-            "crowdsourcing", 
-            "data debugging Excel"
+            "crowdsourcing"
         ]
     }, 
     "fsl": {
@@ -7799,6 +8566,23 @@
             "multiplatform"
         ]
     }, 
+    "eol": {
+        "count": 1, 
+        "ideas": "https://docs.google.com/document/d/11SmYcoJBMJsXC-DS3jWc_jm59mynkETMLYskG9q_7HA/edit?usp=sharing\r", 
+        "name": "Encyclopedia of Life", 
+        "keyword": "eol", 
+        "tags": [
+            "encyclopedia", 
+            "life", 
+            "biodiversity", 
+            "biology", 
+            "taxonomy", 
+            "devops", 
+            "ruby", 
+            "nlp", 
+            "golang"
+        ]
+    }, 
     "moveit": {
         "count": 1, 
         "ideas": "http://moveit.ros.org/wiki/index.php/GSoC2013", 
@@ -7825,6 +8609,25 @@
             "ror", 
             "python", 
             "SPDY"
+        ]
+    }, 
+    "openkeychain": {
+        "count": 1, 
+        "ideas": "https://github.com/open-keychain/open-keychain/wiki/Google-Summer-of-Code-2015\r", 
+        "name": "OpenKeychain (OpenPGP for Android)", 
+        "keyword": "openkeychain", 
+        "tags": [
+            "android", 
+            "java", 
+            "pgp", 
+            "openpgp", 
+            "gpg", 
+            "security", 
+            "encryption", 
+            "crypto", 
+            "snowden", 
+            "k-9", 
+            "mail"
         ]
     }, 
     "hiit": {
